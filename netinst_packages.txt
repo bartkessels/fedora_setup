@@ -1,0 +1,14 @@
+Select packages:
+
+- Administration Tools
+- Audio Production
+- Authoring and Publishing
+- Design Suite
+- Development Tools
+- Domain Membership
+- Editors
+- LibreOffice
+- Office/Productivity
+- RPM Development Tools
+- Sound and Video
+- System Tools
