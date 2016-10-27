@@ -1,0 +1,24 @@
+2016/10/27-23:57:50.154 2135 Reusing MANIFEST /home/bkessels/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2016/10/27-23:57:50.154 2135 Recovering log #148
+2016/10/27-23:57:50.154 2135 Reusing old log /home/bkessels/.config/google-chrome/Default/Session Storage/000148.log 
+2016/10/27-23:57:57.438 2347 Level-0 table #153: started
+2016/10/27-23:57:57.450 2347 Level-0 table #153: 110359 bytes OK
+2016/10/27-23:57:57.454 2347 Delete type=0 #148
+2016/10/28-00:01:13.390 2347 Level-0 table #155: started
+2016/10/28-00:01:13.399 2347 Level-0 table #155: 42850 bytes OK
+2016/10/28-00:01:13.403 2347 Delete type=0 #152
+2016/10/28-00:49:42.137 2347 Level-0 table #157: started
+2016/10/28-00:49:42.146 2347 Level-0 table #157: 120429 bytes OK
+2016/10/28-00:49:42.155 2347 Delete type=0 #154
+2016/10/28-00:50:37.132 2347 Level-0 table #159: started
+2016/10/28-00:50:37.141 2347 Level-0 table #159: 34675 bytes OK
+2016/10/28-00:50:37.145 2347 Delete type=0 #156
+2016/10/28-00:50:37.145 2347 Compacting 4@0 + 1@1 files
+2016/10/28-00:50:37.194 2347 Generated table #160@0: 2196 keys, 1800143 bytes
+2016/10/28-00:50:37.194 2347 Compacted 4@0 + 1@1 files => 1800143 bytes
+2016/10/28-00:50:37.198 2347 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/10/28-00:50:37.198 2347 Delete type=2 #155
+2016/10/28-00:50:37.198 2347 Delete type=2 #150
+2016/10/28-00:50:37.198 2347 Delete type=2 #159
+2016/10/28-00:50:37.198 2347 Delete type=2 #153
+2016/10/28-00:50:37.199 2347 Delete type=2 #157

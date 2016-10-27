@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="ca.desrt.dconf-editor.desktop" open-window-count="0" score="47" last-seen="1477610031"/>
+    <application id="firewall-config.desktop" open-window-count="0" score="21" last-seen="1477607731"/>
+    <application id="gnome-music.desktop" open-window-count="0" score="22" last-seen="1477591221"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="1" score="7382" last-seen="1477610683"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="142" last-seen="1477610038"/>
+    <application id="gnome-system-monitor.desktop" open-window-count="0" score="2" last-seen="1477432076"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="3" score="6353" last-seen="1477610707"/>
+    <application id="keepassx2.desktop" open-window-count="0" score="10" last-seen="1477605936"/>
+    <application id="org.gnome.Totem.desktop" open-window-count="0" score="8" last-seen="1477414788"/>
+    <application id="libreoffice-writer.desktop" open-window-count="0" score="8" last-seen="1477425688"/>
+    <application id="gimp.desktop" open-window-count="0" score="5" last-seen="1477607826"/>
+    <application id="org.gnome.Documents.desktop" open-window-count="0" score="0" last-seen="1477413571"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="43" last-seen="1477610667"/>
+    <application id="yelp.desktop" open-window-count="0" score="2" last-seen="1477591072"/>
+    <application id="libreoffice-startcenter.desktop" open-window-count="0" score="0" last-seen="1477425460"/>
+    <application id="org.gnome.Calendar.desktop" open-window-count="0" score="3" last-seen="1477590962"/>
+    <application id="firefox.desktop" open-window-count="0" score="144" last-seen="1477609023"/>
+    <application id="org.folkswithhats.fedy.desktop" open-window-count="0" score="152" last-seen="1477605704"/>
+    <application id="tuxguitar.desktop" open-window-count="0" score="6" last-seen="1477427601"/>
+    <application id="eog.desktop" open-window-count="0" score="2" last-seen="1477602607"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="3" score="201" last-seen="1477610674"/>
+    <application id="evince.desktop" open-window-count="0" score="313" last-seen="1477422731"/>
+    <application id="gnome-shell-extension-prefs.desktop" open-window-count="0" score="29" last-seen="1477607213"/>
+    <application id="org.gnome.Weather.Application.desktop" open-window-count="0" score="11" last-seen="1477599345"/>
+    <application id="clementine.desktop" open-window-count="0" score="0" last-seen="1477606061"/>
+    <application id="gnome-tweak-tool.desktop" open-window-count="0" score="677" last-seen="1477607220"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="4077" last-seen="1477610136"/>
+    <application id="org.gnome.Builder.desktop" open-window-count="0" score="36" last-seen="1477609080"/>
+  </context>
+</application-state>
