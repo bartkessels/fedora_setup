@@ -65,6 +65,9 @@ dnf -y config-manager --add-repo=http://negativo17.org/repos/fedora-handbrake.re
 dnf copr -y enable user501254/Paper
 dnf copr -y enable rommon/telegram
 
+# Update
+dnf update -y
+
 #####################################################################################
 #####################################################################################
 
