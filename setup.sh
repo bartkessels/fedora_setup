@@ -126,7 +126,7 @@ printf '\nDefaults env_reset,insults\n' >> /etc/sudoers
 #####################################################################################
 
 # Utilities
-dnf install -y whois pandoc redshift deja-dup grsync
+dnf install -y whois pandoc redshift deja-dup grsync gpick
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
@@ -143,13 +143,13 @@ dnf install -y clementine gnome-music
 dnf install -y gimp
 
 # Video Editors / Recorders / Libs
-dnf install -y blender handbrake
+dnf install -y blender HandBrake-gui
 dnf install -y simplescreenrecorder
 dnf install -y libdvdcss
 
 # Development Editors / Editor Plugins / Development Kits / Tools
 dnf install -y vim geany gnome-builder
-dnf install -y geany-plugins vim-nerdtree
+dnf install -y vim-nerdtree
 dnf install -y java-1.8.0-openjdk-devel
 dnf install -y dia meld sqlitebrowser pencil planner gitg
 
@@ -164,7 +164,7 @@ dnf install -y https://dl.google.com/linux/direct/google-chrome-stable_current_$
 dnf install -y aspell-nl libreoffice-langpack-nl gnome-calendar
 
 # Virtualization
-dnf install -y virtualbox
+dnf install -y VirtualBox
 
 # Password Management
 dnf install -y keepassx
@@ -183,15 +183,10 @@ dnf install -y tuxguitar brasero
 # Nginx
 dnf install -y nginx
 
-rmdir /etc/nginx/conf.d
-ln -s $home/VirtualHosts /etc/nginx/conf.d
-
 cp configs/nginx.conf /etc/nginx/nginx.conf
 
 # PHP
 dnf install -y php php-mysql php-fpm
-
-chown -R :nginx /var/lib/php/session
 
 # MariaDB
 dnf install -y mariadb-server mariadb
@@ -209,6 +204,9 @@ dnf install -y phpmyadmin
 
 printf '127.0.0.1 pma.dev' >> /etc/hosts
 
+# Change owner php session folder
+chown -R :nginx /var/lib/php/session
+
 #####################################################################################
 #####################################################################################
 
@@ -218,7 +216,7 @@ printf '127.0.0.1 pma.dev' >> /etc/hosts
 #####################################################################################
 
 # Enable services
-systemctl enable nginx mariadb
+systemctl enable nginx mariadb php-fpm
 
 # Add user to service groups
 usermod -aG vboxusers $user_name
