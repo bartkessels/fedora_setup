@@ -235,11 +235,12 @@ usermod -aG nginx $user_name
 # Files
 cp -r wallpapers/. /usr/share
 
-chown -R $user_name:$user_name $home
-
 # Settings
 cp -r skel/. $home/.
 cp -r skel/. /etc/skel/.
+
+# Set right ownership
+chown -R $user_name:$user_name $home
 
 #####################################################################################
 #####################################################################################
