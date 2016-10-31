@@ -126,7 +126,7 @@ printf '\nDefaults env_reset,insults\n' >> /etc/sudoers
 #####################################################################################
 
 # Utilities
-dnf install -y whois pandoc redshift deja-dup grsync gpick
+dnf install -y whois pandoc redshift deja-dup grsync gpick pdfmod
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
@@ -187,6 +187,11 @@ cp configs/nginx.conf /etc/nginx/nginx.conf
 
 # PHP
 dnf install -y php php-mysql php-fpm
+
+sed -i 's|user = apache|user = nginx|g' /etc/php-fpm.d/www.conf
+sed -i 's|group = apache|group = nginx|g' /etc/php-fpm.d/www.conf
+sed -i 's|;listen.owner = nobody|listen.owner = nobody|g' /etc/php-fpm.d/www.conf
+sed -i 's|;listen.group = nobody|listen.group = nobody|g' /etc/php-fpm.d/www.conf
 
 # MariaDB
 dnf install -y mariadb-server mariadb
