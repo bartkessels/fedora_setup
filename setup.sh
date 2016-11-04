@@ -140,7 +140,7 @@ dnf install -y texlive-crossreference texlive-upquote
 
 # Audio Editors / Players
 dnf install -y audacity ardour5
-dnf install -y clementine gnome-music
+dnf install -y clementine
 
 # Image Editors
 dnf install -y gimp
