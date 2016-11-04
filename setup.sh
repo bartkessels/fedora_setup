@@ -117,6 +117,9 @@ printf "[user]\nemail='$git_mail'\nname='$full_name'\n[diff]\ntool=meld\n[push]\
 # Sudoers file
 printf '\nDefaults env_reset,insults\n' >> /etc/sudoers
 
+# Hostname
+hostnamectl set-hostname --static "BKcomputer"
+
 #####################################################################################
 #####################################################################################
 
