@@ -187,6 +187,7 @@ dnf install -y tuxguitar brasero
 # Apache
 dnf install -y httpd
 chown -R $user_name:apache /var/www/html
+ln -s /var/www/html $home/Webserver
 
 # PHP
 dnf install -y php php-mysql
