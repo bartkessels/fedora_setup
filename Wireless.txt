@@ -1,0 +1,8 @@
+# Install packages:
+- akmod-wl
+- kernel-devel
+
+Reboot your computer
+
+# Enable wireless
+modprobe wl
