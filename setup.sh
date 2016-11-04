@@ -147,11 +147,12 @@ dnf install -y blender HandBrake-gui
 dnf install -y simplescreenrecorder
 dnf install -y libdvdcss
 
-# Development Editors / Editor Plugins / Development Kits / Tools
+# Development Editors / Editor Plugins / Development Kits / Tools / Libraries
 dnf install -y vim geany gnome-builder
 dnf install -y vim-nerdtree
-dnf install -y java-1.8.0-openjdk-devel gtk+-devel automake autoconf
+dnf install -y java-1.8.0-openjdk-devel automake autoconf
 dnf install -y dia meld sqlitebrowser pencil planner gitg
+dnf install -y gtk+-devel gtk3-devel libsoup-devel
 
 # Web / Chat / Chrome
 dnf install -y filezilla transmission youtube-dl offlineimap
