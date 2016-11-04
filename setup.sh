@@ -180,17 +180,12 @@ dnf install -y tuxguitar brasero
 #####################################################################################
 #####################################################################################
 
-# Nginx
+# Apache
 dnf install -y httpd
 chown -R $user_name:apache /var/www/html
 
 # PHP
 dnf install -y php php-mysql
-
-sed -i 's|user = apache|user = nginx|g' /etc/php-fpm.d/www.conf
-sed -i 's|group = apache|group = nginx|g' /etc/php-fpm.d/www.conf
-sed -i 's|;listen.owner = nobody|listen.owner = nobody|g' /etc/php-fpm.d/www.conf
-sed -i 's|;listen.group = nobody|listen.group = nobody|g' /etc/php-fpm.d/www.conf
 
 # MariaDB
 dnf install -y mariadb-server mariadb
