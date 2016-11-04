@@ -182,8 +182,7 @@ dnf install -y tuxguitar brasero
 
 # Nginx
 dnf install -y httpd
-
-cp configs/nginx.conf /etc/nginx/nginx.conf
+chown -R $user_name:apache /var/www/html
 
 # PHP
 dnf install -y php php-mysql
