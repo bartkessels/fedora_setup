@@ -129,13 +129,13 @@ hostnamectl set-hostname --static "BKcomputer"
 #####################################################################################
 
 # Utilities
-dnf install -y whois pandoc redshift deja-dup grsync gpick pdfmod
+dnf install -y whois pandoc redshift deja-dup grsync gpick pdfmod gnome-todo
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
 
 # LaTeX Editors / Packages
-dnf install -y gummi
+dnf install -y gummi latexila
 dnf install -y texlive-crossreference texlive-upquote
 
 # Audio Editors / Players
