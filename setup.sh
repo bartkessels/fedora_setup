@@ -181,12 +181,12 @@ dnf install -y tuxguitar brasero
 #####################################################################################
 
 # Nginx
-dnf install -y nginx
+dnf install -y httpd
 
 cp configs/nginx.conf /etc/nginx/nginx.conf
 
 # PHP
-dnf install -y php php-mysql php-fpm
+dnf install -y php php-mysql
 
 sed -i 's|user = apache|user = nginx|g' /etc/php-fpm.d/www.conf
 sed -i 's|group = apache|group = nginx|g' /etc/php-fpm.d/www.conf
@@ -207,11 +207,6 @@ mysql -u root -p"root" -e "FLUSH PRIVILEGES"
 # PhpMyAdmin
 dnf install -y phpmyadmin
 
-printf '127.0.0.1 pma.dev' >> /etc/hosts
-
-# Change owner php session folder
-chown -R :nginx /var/lib/php/session
-
 #####################################################################################
 #####################################################################################
 
@@ -221,11 +216,11 @@ chown -R :nginx /var/lib/php/session
 #####################################################################################
 
 # Enable services
-systemctl enable nginx mariadb php-fpm
+systemctl enable httpd mariadb
 
 # Add user to service groups
 usermod -aG vboxusers $user_name
-usermod -aG nginx $user_name
+usermod -aG apache $user_name
 
 #####################################################################################
 #####################################################################################
