@@ -5,6 +5,11 @@ if [[ $EUID -ne 0 ]]; then
     exit 0;
 fi
 
+if [ -z "$1" ] || [ -z "$2" ]; then
+	echo "Usage: createvhost <project name>(.dev will be added) (/var/www/ will be added)<project location>"
+	exit 1
+fi
+
 project_name="$1"
 project_location="$2"
 
