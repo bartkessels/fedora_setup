@@ -148,7 +148,7 @@ dnf install -y simplescreenrecorder
 dnf install -y libdvdcss
 
 # Development Editors / Editor Plugins / Development Kits / Tools / Libraries
-dnf install -y vim geany gnome-builder
+dnf install -y vim gnome-builder
 dnf install -y vim-nerdtree
 dnf install -y java-1.8.0-openjdk-devel automake autoconf
 dnf install -y dia meld sqlitebrowser pencil planner gitg
