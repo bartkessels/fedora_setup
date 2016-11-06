@@ -66,7 +66,7 @@ alias slim="composer create-project slim/slim-skeleton"
 alias laravel="laravel new"
 
 # $PATH
-export PATH="~/.composer/vendor/bin:$PATH"
+export PATH="$HOME/.config/composer/vendor/bin:$PATH"
 export PATH="./vendor/bin:$PATH"
 export PATH="$HOME/.development/docker-instances:$PATH"
 export PATH="$HOME/bin:/usr/local/bin:$PATH"

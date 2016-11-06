@@ -190,7 +190,7 @@ chown -R $user_name:apache /var/www/html
 ln -s /var/www/html $home/Webserver
 
 # PHP
-dnf install -y php php-mysql
+dnf install -y php php-mysql composer
 
 # MariaDB
 dnf install -y mariadb-server mariadb
