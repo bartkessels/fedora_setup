@@ -1,0 +1,117 @@
+commit 92264eabb122a76fb51839f51888b38b1130fe09
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Fri Apr 8 15:55:00 2016 +0100
+
+    makefile: build gschemas.compiled on install & dist
+
+commit e31b6c2d8c29d8af5992c4b11f8745f0471a61c5
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Fri Apr 8 15:52:47 2016 +0100
+
+    schemas: removed gschemas.compiled
+    
+    This is a built source and shouldn't be in git.
+
+commit 099d59526361ab52bca88699f4240796a7f22892
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Fri Apr 8 15:52:11 2016 +0100
+
+    schema: keep namespace uniform
+
+commit c2d46dec4924b08990ea5392110ce9ce725c7ce4
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Fri Apr 8 15:50:08 2016 +0100
+
+    prefs: add copyright header
+
+commit a924435c1c96ffda9511353147d248dc5000768f
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Fri Apr 8 15:48:32 2016 +0100
+
+    makefile: include schema files
+
+commit bd6af998f912c78d8fb5fa8d40a0f44e7df18856
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Fri Apr 8 15:39:02 2016 +0100
+
+    extension: remove useless comment
+    
+    ...to make comment style uniform.
+
+commit e3bea0e7e00add56eef054fec1c0fef63b6f2930
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Fri Apr 8 15:38:10 2016 +0100
+
+    extension: turn visible into a bool
+
+commit f2c6c313b857d5cdc505b30ccb32ffdadd97737e
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Fri Apr 8 15:37:32 2016 +0100
+
+    extension: fix typo
+
+commit 067a7c25f44007df1a3528721e9ca7f2f9458aaf
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Thu Apr 7 12:23:43 2016 +0100
+
+    metadata: support shell 3.20
+
+commit cd170f3eadfc828e6e2e79f67abf974bdd8dce1f
+Merge: bdcd184 f9205f4
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Wed Mar 30 16:51:35 2016 +0100
+
+    Merge pull request #3 from pbogut/toggle_shortcut
+    
+    Add visibility toggle shortcut.
+
+commit f9205f47c23edd9840867275fd30540f1c0972c6
+Author: Pawel Bogut <pbogut@smeagol.pl>
+Date:   Sun Feb 7 22:33:46 2016 +0000
+
+    Turn off shortcut by default
+
+commit 254ffaf40e794355e02195312347badb072d7b7e
+Author: Pawel Bogut <pbogut@smeagol.pl>
+Date:   Sat Feb 6 09:56:21 2016 +0000
+
+    Add visibility toggle shortcut.
+
+commit bdcd184b422531fb2b4321f2594011aa162f0d9f
+Merge: 42e57a2 fcee6d0
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Wed Oct 14 09:39:17 2015 +0100
+
+    Merge pull request #2 from anskaal/master
+    
+    Added gnome-shell 3.18 to the list of supported shell-versions.
+
+commit fcee6d0839ed51808ea28ae1ee5a9c6bd7416034
+Author: anskaal <anskaal@gmail.com>
+Date:   Sun Oct 11 15:01:54 2015 +0200
+
+    Added gnome-shell 3.18 to the list of supported shell-versions.
+
+commit 42e57a29cdb10de88130b3a8fa4550f4acc23082
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Sun Jul 19 14:33:30 2015 +0200
+
+    add screenshot
+
+commit 2172559f697de009cc6994b39f84ce0a4e132e33
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Sun Jul 19 11:17:11 2015 +0200
+
+    update some descriptions
+
+commit 29e688cb5230730c429e71318dda677fac57b910
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Sat Jul 18 22:24:12 2015 +0200
+
+    add extensions.gnome.org number
+
+commit d64720bddf9333dc76f2e9ac6564785a94893e6e
+Author: Jonny Lamb <jonnylamb@jonnylamb.com>
+Date:   Sat Jul 18 22:18:51 2015 +0200
+
+    initial commit

@@ -195,8 +195,8 @@ dnf install -y php php-mysql composer
 sed -i 's|display_errors = Off|display_errors = On|g' /etc/php.ini
 
 # Composer packages
+mkdir $home/.config/composer
 composer global require --working-dir=$home/.config/composer "laravel/installer"
-composer global require --working-dir=$home/.config/composer "acacha/adminlte-laravel-installer=~3.0"
 composer global require --working-dir=$home/.config/composer "phpunit/phpunit"
 
 # MariaDB

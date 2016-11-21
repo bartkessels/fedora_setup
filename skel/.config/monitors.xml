@@ -13,7 +13,7 @@
       <rotation>normal</rotation>
       <reflect_x>no</reflect_x>
       <reflect_y>no</reflect_y>
-      <primary>yes</primary>
+      <primary>no</primary>
       <presentation>no</presentation>
       <underscanning>no</underscanning>
     </output>
@@ -29,7 +29,7 @@
       <rotation>normal</rotation>
       <reflect_x>no</reflect_x>
       <reflect_y>no</reflect_y>
-      <primary>no</primary>
+      <primary>yes</primary>
       <presentation>no</presentation>
       <underscanning>no</underscanning>
     </output>
