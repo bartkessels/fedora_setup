@@ -6,3 +6,6 @@ Reboot your computer
 
 # Enable wireless
 modprobe wl
+
+# Modprobe on boot
+printf 'wl' > /etc/modules-load.d/wireless.conf
