@@ -146,7 +146,7 @@ dnf install -y clementine
 dnf install -y gimp
 
 # Video Editors / Recorders / Libs
-dnf install -y blender HandBrake-gui
+dnf install -y blender HandBrake-gui pitivi
 dnf install -y simplescreenrecorder
 dnf install -y libdvdcss
 
