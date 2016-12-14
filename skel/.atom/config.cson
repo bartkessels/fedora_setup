@@ -1,0 +1,19 @@
+"*":
+  core:
+    excludeVcsIgnoredPaths: false
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    tabLength: 4
+    tabType: "hard"
+  "exception-reporting":
+    userId: "e0603efc-e6e4-7dc8-92c2-dc0fa8e919f5"
+  welcome:
+    showOnStartup: false
+".blade.html.php.text":
+  editor:
+    commentEnd: " --}}"
+    commentStart: "{{-- "

@@ -13,6 +13,9 @@ full_name=$(getent passwd $user_name | cut -d: -f5 | cut -d, -f1)
 home=/home/$user_name
 sync_folder=$home/bk-cloud
 
+# Export for apm package installation
+export USER=$user_name
+export HOME=$home
 
 #####################################################################################
 #####################################################################################
@@ -156,6 +159,8 @@ dnf install -y vim-nerdtree
 dnf install -y java-1.8.0-openjdk-devel automake autoconf
 dnf install -y dia meld sqlitebrowser pencil planner gitg
 dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686
+
+apm install atom-material-ui atom-material-syntax file-icons language-blade blade-snippets minimap
 
 # Web / Chat / Chrome
 dnf install -y filezilla transmission youtube-dl offlineimap
