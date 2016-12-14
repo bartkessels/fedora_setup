@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=phpMyAdmin
+Exec=epiphany --application-mode --profile="/home/bkessels/.config/epiphany/app-epiphany-phpmyadmin-f158a5a845deaa81075dbc0d8caf21992f037769" http://localhost/phpmyadmin/
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Network;GNOME;GTK;
+Icon=/home/bkessels/.config/epiphany/app-epiphany-phpmyadmin-f158a5a845deaa81075dbc0d8caf21992f037769/app-icon.png
+StartupWMClass=epiphany-phpmyadmin-f158a5a845deaa81075dbc0d8caf21992f037769

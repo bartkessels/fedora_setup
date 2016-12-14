@@ -120,6 +120,12 @@ printf "[user]\nemail='$git_mail'\nname='$full_name'\n[diff]\ntool=meld\n[push]\
 # Sudoers file
 printf '\nDefaults env_reset,insults\n' >> /etc/sudoers
 
+# Audio
+printf '* hard rtprio 0\n* soft rtprio 0\n@realtime hard rtprio 20\n@realtime soft rtprio 10\n@audio - rtprio 95\n@audio - memlock unlimited' >> /etc/security/limits.conf
+
+# Create groups
+groupadd realtime
+
 # Hostname
 hostnamectl set-hostname --static "BKlaptop"
 
@@ -166,7 +172,8 @@ rm atom.rpm
 
 apm install atom-material-ui atom-material-syntax file-icons language-blade blade-snippets minimap
 
-# Web / Chat / Chrome
+# Browsers / Web / Chat / Chrome
+dnf install -y epiphany
 dnf install -y filezilla transmission youtube-dl offlineimap
 dnf install -y telegram-desktop
 
@@ -233,6 +240,8 @@ systemctl enable httpd mariadb
 # Add user to service groups
 usermod -aG vboxusers $user_name
 usermod -aG apache $user_name
+usermod -aG audio $user_name
+usermod -aG realtime $user_name
 
 #####################################################################################
 #####################################################################################

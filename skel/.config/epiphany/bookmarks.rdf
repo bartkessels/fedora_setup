@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ephy="http://gnome.org/ns/epiphany#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <channel rdf:about="file:///home/bkessels/.config/epiphany/bookmarks.rdf">
+    <title>Web bookmarks</title>
+    <link>https://wiki.gnome.org/Apps/Web</link>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://www.gnome.org/"/>
+        <rdf:li rdf:resource="https://webkit.org/"/>
+        <rdf:li rdf:resource="https://www.redhat.com/"/>
+        <rdf:li rdf:resource="https://www.fedoraproject.org/"/>
+        <rdf:li rdf:resource="https://fedoramagazine.org/"/>
+        <rdf:li rdf:resource="https://ask.fedoraproject.org/"/>
+        <rdf:li rdf:resource="https://docs.fedoraproject.org/"/>
+        <rdf:li rdf:resource="http://fe80::211:32ff:fe3b:4771:5000/"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="https://www.gnome.org/">
+    <title>GNOME</title>
+    <link>https://www.gnome.org/</link>
+  </item>
+  <item rdf:about="https://webkit.org/">
+    <title>WebKit</title>
+    <link>https://webkit.org/</link>
+  </item>
+  <item rdf:about="https://www.redhat.com/">
+    <title>Red Hat</title>
+    <link>https://www.redhat.com/</link>
+  </item>
+  <item rdf:about="https://www.fedoraproject.org/">
+    <title>Fedora</title>
+    <link>https://www.fedoraproject.org/</link>
+  </item>
+  <item rdf:about="https://fedoramagazine.org/">
+    <title>Fedora Magazine</title>
+    <link>https://fedoramagazine.org/</link>
+  </item>
+  <item rdf:about="https://ask.fedoraproject.org/">
+    <title>Ask Fedora</title>
+    <link>https://ask.fedoraproject.org/</link>
+  </item>
+  <item rdf:about="https://docs.fedoraproject.org/">
+    <title>Fedora Documentation</title>
+    <link>https://docs.fedoraproject.org/</link>
+  </item>
+  <item rdf:about="http://fe80::211:32ff:fe3b:4771:5000/">
+    <title>BKnas</title>
+    <link>http://fe80::211:32ff:fe3b:4771:5000/</link>
+  </item>
+</rdf:RDF>
