@@ -25,27 +25,27 @@ export HOME=$home
 #####################################################################################
 #####################################################################################
 
-#rmdir $home/Documents
-#rmdir $home/Downloads
-#rmdir $home/Music
-#rmdir $home/Pictures
-#rmdir $home/Videos
+rmdir $home/Documents
+rmdir $home/Downloads
+rmdir $home/Music
+rmdir $home/Pictures
+rmdir $home/Videos
 
-#mkdir $home/Git-projects
-#mkdir $home/Webserver
+mkdir $home/Git-projects
+mkdir $home/Webserver
 
-#ln -sf $sync_folder/Documenten $home/Documents
-#ln -sf $sync_folder/Muziek $home/Music
-#ln -sf $sync_folder/Afbeeldingen $home/Pictures
-#ln -sf $sync_folder/Videos $home/Videos
-#ln -sf $sync_folder/Backups $home/Backups
-#ln -sf $sync_folder/Boeken $home/Books
-#ln -sf $sync_folder/ISOs $home/ISOs
-#ln -sf $sync_folder/Notities $home/Notes
-#ln -sf $sync_folder/School $home/School
-#ln -sf $sync_folder/Software $home/Software
-#ln -sf $sync_folder/Tabs $home/Tabs
-#ln -sf $sync_folder/Werk $home/Work
+ln -sf $sync_folder/Documenten $home/Documents
+ln -sf $sync_folder/Muziek $home/Music
+ln -sf $sync_folder/Afbeeldingen $home/Pictures
+ln -sf $sync_folder/Videos $home/Videos
+ln -sf $sync_folder/Backups $home/Backups
+ln -sf $sync_folder/Boeken $home/Books
+ln -sf $sync_folder/ISOs $home/ISOs
+ln -sf $sync_folder/Notities $home/Notes
+ln -sf $sync_folder/School $home/School
+ln -sf $sync_folder/Software $home/Software
+ln -sf $sync_folder/Tabs $home/Tabs
+ln -sf $sync_folder/Werk $home/Work
 
 #####################################################################################
 #####################################################################################
@@ -195,8 +195,6 @@ dnf install -y tuxguitar brasero
 
 # Apache
 dnf install -y httpd
-chown -R $user_name:apache /var/www/html
-ln -s /var/www/html $home/Webserver
 
 # PHP
 dnf install -y php php-mysql composer
@@ -204,9 +202,8 @@ dnf install -y php php-mysql composer
 sed -i 's|display_errors = Off|display_errors = On|g' /etc/php.ini
 
 # Composer packages
-mkdir $home/.config/composer
-composer global require --working-dir=$home/.config/composer "laravel/installer"
-composer global require --working-dir=$home/.config/composer "phpunit/phpunit"
+composer global require "laravel/installer"
+composer global require "phpunit/phpunit"
 
 # MariaDB
 dnf install -y mariadb-server mariadb
