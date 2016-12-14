@@ -382,7 +382,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bkessels/fedora_setup/setup.sh" added="2016-10-27T23:07:51Z" modified="2016-11-21T18:57:52Z" visited="2016-10-27T23:07:52Z">
+  <bookmark href="file:///home/bkessels/fedora_setup/setup.sh" added="2016-10-27T23:07:51Z" modified="2016-12-14T18:13:36Z" visited="2016-10-27T23:07:52Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-shellscript"/>
@@ -390,7 +390,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-11-21T18:57:52Z" count="16"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-12-14T18:13:36Z" count="17"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -491,6 +491,20 @@
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="Backups" exec="&apos;deja-dup-preferences %u&apos;" modified="2016-11-04T14:48:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bkessels/fedora_setup/screencast.txt" added="2016-12-14T18:10:48Z" modified="2016-12-14T18:10:50Z" visited="2016-12-14T18:10:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-12-14T18:10:48Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-12-14T18:10:50Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

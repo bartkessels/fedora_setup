@@ -25,27 +25,27 @@ export HOME=$home
 #####################################################################################
 #####################################################################################
 
-rmdir $home/Documents
-rmdir $home/Downloads
-rmdir $home/Music
-rmdir $home/Pictures
-rmdir $home/Videos
+#rmdir $home/Documents
+#rmdir $home/Downloads
+#rmdir $home/Music
+#rmdir $home/Pictures
+#rmdir $home/Videos
 
-mkdir $home/Git-projects
-mkdir $home/Webserver
+#mkdir $home/Git-projects
+#mkdir $home/Webserver
 
-ln -sf $sync_folder/Documenten $home/Documents
-ln -sf $sync_folder/Muziek $home/Music
-ln -sf $sync_folder/Afbeeldingen $home/Pictures
-ln -sf $sync_folder/Videos $home/Videos
-ln -sf $sync_folder/Backups $home/Backups
-ln -sf $sync_folder/Boeken $home/Books
-ln -sf $sync_folder/ISOs $home/ISOs
-ln -sf $sync_folder/Notities $home/Notes
-ln -sf $sync_folder/School $home/School
-ln -sf $sync_folder/Software $home/Software
-ln -sf $sync_folder/Tabs $home/Tabs
-ln -sf $sync_folder/Werk $home/Work
+#ln -sf $sync_folder/Documenten $home/Documents
+#ln -sf $sync_folder/Muziek $home/Music
+#ln -sf $sync_folder/Afbeeldingen $home/Pictures
+#ln -sf $sync_folder/Videos $home/Videos
+#ln -sf $sync_folder/Backups $home/Backups
+#ln -sf $sync_folder/Boeken $home/Books
+#ln -sf $sync_folder/ISOs $home/ISOs
+#ln -sf $sync_folder/Notities $home/Notes
+#ln -sf $sync_folder/School $home/School
+#ln -sf $sync_folder/Software $home/Software
+#ln -sf $sync_folder/Tabs $home/Tabs
+#ln -sf $sync_folder/Werk $home/Work
 
 #####################################################################################
 #####################################################################################
@@ -121,7 +121,7 @@ printf "[user]\nemail='$git_mail'\nname='$full_name'\n[diff]\ntool=meld\n[push]\
 printf '\nDefaults env_reset,insults\n' >> /etc/sudoers
 
 # Hostname
-hostnamectl set-hostname --static "BKcomputer"
+hostnamectl set-hostname --static "BKlaptop"
 
 #####################################################################################
 #####################################################################################
@@ -153,12 +153,16 @@ dnf install -y blender HandBrake-gui pitivi
 dnf install -y simplescreenrecorder
 dnf install -y libdvdcss
 
-# Development Editors / Editor Plugins / Development Kits / Tools / Libraries
+# Development Editors / Editor Plugins / Development Kits / Tools / Libraries / Atom / Atom Packages
 dnf install -y vim gnome-builder glade
 dnf install -y vim-nerdtree
 dnf install -y java-1.8.0-openjdk-devel automake autoconf
 dnf install -y dia meld sqlitebrowser pencil planner gitg
 dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686
+
+wget -O atom.rpm https://atom.io/download/rpm
+dnf install -y atom.rpm
+rm atom.rpm
 
 apm install atom-material-ui atom-material-syntax file-icons language-blade blade-snippets minimap
 
