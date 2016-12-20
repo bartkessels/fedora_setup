@@ -1,0 +1,210 @@
+
+=====================================<br><font color=magenta>execution of task	: <b>Backups</b>, starting</font><br>Source	: <b><font color=blue>/home/bkessels/bk-cloud/Backups</font></b><br>Destination	: <b><font color=blue>/run/media/bkessels/USB Bart/</font></b>
+sending incremental file list
+
+Backups/
+Backups/Mail/
+Backups/Mail/04-12-2016.tar.gz
+
+         32.77K   0%    0.00kB/s    0:00:00  
+        118.96M 100%  136.48MB/s    0:00:00 (xfr#1, to-chk=40/44)
+Backups/Mail/06-11-2016.tar.gz
+
+         32.77K   0%   38.28kB/s    0:43:35  
+         22.64M  22%   21.59MB/s    0:00:03  
+        100.16M 100%   61.66MB/s    0:00:01 (xfr#2, to-chk=39/44)
+
+Backups/Mail/2016-09-25.tar.gz
+
+         32.77K   0%   57.55kB/s    0:31:53  
+         61.80M  56%   58.94MB/s    0:00:00  
+        110.14M 100%   78.56MB/s    0:00:01 (xfr#3, to-chk=38/44)
+Backups/Mail/2016-10-02.tar.gz
+
+         32.77K   0%   93.29kB/s    0:19:54  
+         52.53M  47%   45.66MB/s    0:00:01  
+        111.47M 100%   70.45MB/s    0:00:01 (xfr#4, to-chk=37/44)
+Backups/Mail/2016-10-09.tar.gz
+
+         32.77K   0%   76.92kB/s    0:17:37  
+         80.77M  99%   77.03MB/s    0:00:00  
+         81.38M 100%   77.45MB/s    0:00:01 (xfr#5, to-chk=36/44)
+Backups/Mail/2016-10-16.tar.gz
+
+         32.77K   0%    3.91MB/s    0:00:23  
+         95.61M 100%  108.42MB/s    0:00:00 (xfr#6, to-chk=35/44)
+Backups/Mail/2016-10-30.tar.gz
+
+         32.77K   0%   37.43kB/s    0:44:28  
+          9.47M   9%    9.03MB/s    0:00:09  
+         99.91M 100%   48.37MB/s    0:00:01 (xfr#7, to-chk=34/44)
+Backups/Mail/21-11-2016.tar.gz
+
+         10.24K 100%   10.30kB/s    0:00:00           10.24K 100%   10.30kB/s    0:00:00 (xfr#8, to-chk=33/44)
+Backups/Mail/27-11-2016.tar.gz
+
+         32.77K   0%   32.79kB/s    0:59:51  
+          2.49M   2%    2.38MB/s    0:00:47  
+        109.08M  92%   52.04MB/s    0:00:00  
+        117.79M 100%   54.50MB/s    0:00:02 (xfr#9, to-chk=32/44)
+Backups/Mail/Archive_bk-mail_2016-05-05.tar.bz2
+
+         32.77K   0%  477.61kB/s    0:01:37  
+         46.82M 100%   92.06MB/s    0:00:00 (xfr#10, to-chk=31/44)
+Backups/Mail/Archive_bk-mail_2016-05-12.tar.bz2
+
+         32.77K   0%   65.31kB/s    0:11:57  
+         46.90M 100%   48.51MB/s    0:00:00 (xfr#11, to-chk=30/44)
+Backups/Mail/Archive_bk-mail_2016-05-18.tar.bz2
+
+         32.77K   0%   34.48kB/s    0:23:01  
+          9.54M  20%    9.09MB/s    0:00:04  
+         10.58M  22%  104.42kB/s    0:05:55  
+         11.89M  24%  105.18kB/s    0:05:40  
+         47.67M 100%  420.48kB/s    0:01:50 (xfr#12, to-chk=29/44)
+Backups/Mail/Archive_bk-mail_2016-05-22.tar.bz2
+
+         32.77K   0%  118.08kB/s    0:08:50  
+        557.06K   0%  544.00kB/s    0:01:54  
+         62.66M 100%   31.69MB/s    0:00:01 (xfr#13, to-chk=28/44)
+Backups/Mail/Archive_bk-mail_2016-05-29.tar.bz2
+
+         32.77K   0%   35.56kB/s    0:29:25  
+          6.85M  10%    6.51MB/s    0:00:08  
+         62.79M 100%   32.81MB/s    0:00:01 (xfr#14, to-chk=27/44)
+Backups/Mail/Archive_bk-mail_2016-06-05.tar.bz2
+
+         32.77K   0%   38.55kB/s    0:27:05  
+         11.50M  18%   10.97MB/s    0:00:04  
+         62.71M 100%   34.67MB/s    0:00:01 (xfr#15, to-chk=26/44)
+Backups/Mail/Archive_bk-mail_2016-06-12.tar.bz2
+
+         32.77K   0%   43.78kB/s    0:23:55  
+         18.38M  29%   17.48MB/s    0:00:02  
+         62.88M 100%   35.61MB/s    0:00:01 (xfr#16, to-chk=25/44)
+Backups/Mail/Archive_bk-mail_2016-06-19.tar.bz2
+
+         32.77K   0%   46.65kB/s    0:23:40  
+         25.85M  38%   24.66MB/s    0:00:01  
+         66.30M 100%   45.89MB/s    0:00:01 (xfr#17, to-chk=24/44)
+
+Backups/Mail/Archive_bk-mail_2016-07-03.tar.bz2
+
+         32.77K   0%   82.90kB/s    0:16:33  
+        131.07K   0%    0.65kB/s   35:14:23  
+         71.60M  86%  352.59kB/s    0:00:30  
+         82.43M 100%  405.63kB/s    0:03:18 (xfr#18, to-chk=23/44)
+Backups/Mail/Archive_bk-mail_2016-07-10.tar.bz2
+
+         32.77K   0%  192.77kB/s    0:07:07  
+         82.47M 100%  101.35MB/s    0:00:00 (xfr#19, to-chk=22/44)
+Backups/Mail/Archive_bk-mail_2016-07-17.tar.bz2
+
+         32.77K   0%   40.97kB/s    0:33:33  
+         31.49M  38%   30.03MB/s    0:00:01  
+         82.53M 100%   58.39MB/s    0:00:01 (xfr#20, to-chk=21/44)
+Backups/Mail/Archive_bk-mail_2016-07-24.tar.bz2
+
+         32.77K   0%   90.65kB/s    0:15:12  
+         82.78M 100%   85.44MB/s    0:00:00 (xfr#21, to-chk=20/44)
+Backups/Mail/Archive_bk-mail_2016-08-28.tar.bz2
+
+         32.77K   0%   34.45kB/s    0:35:51  
+          9.54M  12%    9.09MB/s    0:00:06  
+         74.16M 100%   48.71MB/s    0:00:01 (xfr#22, to-chk=19/44)
+Backups/Mail/Archive_bk-mail_2016-09-04.tar.bz2
+
+         32.77K   0%   69.87kB/s    0:17:42  
+         74.30M 100%   72.90MB/s    0:00:00 (xfr#23, to-chk=18/44)
+Backups/Mail/Archive_bk-mail_2016-09-11.tar.bz2
+
+         32.77K   0%   32.72kB/s    0:38:52  
+          2.10M   2%    2.00MB/s    0:00:36  
+         76.36M 100%   48.20MB/s    0:00:01 (xfr#24, to-chk=17/44)
+Backups/Mail/evolution-backup-20160807.tar.gz
+
+         20.53K 100%   39.07kB/s    0:00:00           20.53K 100%   39.07kB/s    0:00:00 (xfr#25, to-chk=16/44)
+Backups/Websites/
+Backups/Websites/bartkessels.net/
+Backups/Websites/bartkessels.net/08-02-2016.tar.gz
+
+         32.77K   0%   61.78kB/s    0:07:34  
+         28.12M 100%   37.09MB/s    0:00:00 (xfr#26, to-chk=13/44)
+Backups/Websites/bartkessels.net/14-02-2016.tar.gz
+
+         32.77K   0%   43.96kB/s    0:10:38  
+         28.12M 100%   28.86MB/s    0:00:00 (xfr#27, to-chk=12/44)
+Backups/Websites/bartkessels.net/21-02-2016.tar.gz
+
+         32.77K   0%   34.26kB/s    0:09:32  
+          8.68M  44%    8.28MB/s    0:00:01  
+         19.66M 100%   17.41MB/s    0:00:01 (xfr#28, to-chk=11/44)
+Backups/Websites/bartkessels.net/24-01-2016.tar.gz
+
+         32.77K   0%  385.54kB/s    0:01:12  
+         28.12M 100%   94.09MB/s    0:00:00 (xfr#29, to-chk=10/44)
+Backups/Websites/bartkessels.net/28-02-2016.tar.gz
+
+         32.77K   0%  110.34kB/s    0:02:57  
+         19.66M 100%   43.60MB/s    0:00:00 (xfr#30, to-chk=9/44)
+Backups/Websites/bartkessels.net/31-01-2016.tar.gz
+
+         32.77K   0%   73.39kB/s    0:06:22  
+         28.11M 100%   42.22MB/s    0:00:00 (xfr#31, to-chk=8/44)
+Backups/Websites/bartkessels.net/31-03-2016.tar.gz
+
+         32.77K   0%   50.00kB/s    0:06:32  
+         19.66M 100%   24.10MB/s    0:00:00 (xfr#32, to-chk=7/44)
+Backups/Websites/razorbit.nl/
+Backups/Websites/razorbit.nl/08-02-2016.tar.gz
+
+         32.77K   1%   40.87kB/s    0:01:14  
+          3.08M 100%    3.63MB/s    0:00:00 (xfr#33, to-chk=6/44)
+Backups/Websites/razorbit.nl/14-02-2016.tar.gz
+
+         32.77K   1%   39.31kB/s    0:01:15  
+          3.02M 100%    3.43MB/s    0:00:00 (xfr#34, to-chk=5/44)
+Backups/Websites/razorbit.nl/21-02-2016.tar.gz
+
+         32.77K   1%   37.91kB/s    0:01:15  
+          2.90M 100%    3.19MB/s    0:00:00 (xfr#35, to-chk=4/44)
+Backups/Websites/razorbit.nl/24-01-2016.tar.gz
+
+         32.77K   1%   36.61kB/s    0:01:05  
+          2.43M 100%    2.59MB/s    0:00:00 (xfr#36, to-chk=3/44)
+Backups/Websites/razorbit.nl/28-02-2016.tar.gz
+
+         32.77K   1%   35.56kB/s    0:01:21  
+          2.91M 100%    3.01MB/s    0:00:00 (xfr#37, to-chk=2/44)
+Backups/Websites/razorbit.nl/31-01-2016.tar.gz
+
+         32.77K   1%   34.45kB/s    0:01:27  
+          3.05M 100%    3.05MB/s    0:00:00 (xfr#38, to-chk=1/44)
+Backups/Websites/razorbit.nl/31-03-2016.tar.gz
+
+         32.77K   1%   33.37kB/s    0:01:26  
+          2.92M 100%    2.83MB/s    0:00:00 (xfr#39, to-chk=0/44)
+
+
+Number of files: 44 (reg: 39, dir: 5)
+Number of created files: 44 (reg: 39, dir: 5)
+Number of deleted files: 0
+Number of regular files transferred: 39
+Total file size: 2.04G bytes
+Total transferred file size: 2.04G bytes
+Literal data: 2.04G bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 2.04G
+Total bytes received: 789
+
+
+sent 2.04G bytes  received 789 bytes  6.25M bytes/sec
+total size is 2.04G  speedup is 1.00
+
+
+<font color=cyan>&nbsp;&nbsp;&nbsp;&nbsp;-----| Backing-up profile, logfiles and snapshot data -> Ok |-----</font><br>
+<font color=magenta>execution of task	: <b>Backups</b>, finished</font>
+=====================================<br>

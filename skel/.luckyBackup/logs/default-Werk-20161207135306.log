@@ -1,0 +1,1657 @@
+
+=====================================<br><font color=magenta>execution of task	: <b>Werk</b>, starting</font><br>Source	: <b><font color=blue>/home/bkessels/bk-cloud/Werk</font></b><br>Destination	: <b><font color=blue>/run/media/bkessels/USB Bart/</font></b>
+sending incremental file list
+
+Werk/
+Werk/Eigen bedrijf/
+Werk/Eigen bedrijf/Hardnekkig virus verwijderen.odt
+         18.48K 100%    0.00kB/s    0:00:00           18.48K 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=927/933)
+Werk/Eigen bedrijf/PC opschonen.docx
+          6.04K 100%    5.76MB/s    0:00:00            6.04K 100%    5.76MB/s    0:00:00 (xfr#2, to-chk=926/933)
+Werk/Eigen bedrijf/exe fix1 (W8).reg
+            430 100%  419.92kB/s    0:00:00              430 100%  419.92kB/s    0:00:00 (xfr#3, to-chk=925/933)
+Werk/Eigen bedrijf/exe fix2 (W8).reg
+          3.89K 100%    3.71MB/s    0:00:00            3.89K 100%    3.71MB/s    0:00:00 (xfr#4, to-chk=924/933)
+Werk/Eigen bedrijf/Computers opschonen/
+Werk/Eigen bedrijf/Computers opschonen/Log Bart Kessels 23-08-14.docx
+         11.48K 100%   10.94MB/s    0:00:00           11.48K 100%   10.94MB/s    0:00:00 (xfr#5, to-chk=921/933)
+Werk/Eigen bedrijf/Computers opschonen/Log Bert en Anja 10-08-15.txt
+            280 100%  273.44kB/s    0:00:00              280 100%  273.44kB/s    0:00:00 (xfr#6, to-chk=920/933)
+Werk/Eigen bedrijf/Computers opschonen/Log Bert en Anja 20-07-14.docx
+         16.88K 100%    8.05MB/s    0:00:00           16.88K 100%    8.05MB/s    0:00:00 (xfr#7, to-chk=919/933)
+Werk/Eigen bedrijf/Computers opschonen/Log Ilona van de water 27-09-14.docx
+         14.53K 100%    6.93MB/s    0:00:00           14.53K 100%    6.93MB/s    0:00:00 (xfr#8, to-chk=918/933)
+Werk/Eigen bedrijf/Computers opschonen/Log Lynn van de Water 27-02-15.docx
+          4.38K 100%    1.39MB/s    0:00:00            4.38K 100%    1.39MB/s    0:00:00 (xfr#9, to-chk=917/933)
+Werk/Eigen bedrijf/Computers opschonen/Log Riny en Chris 29-09-14.docx
+         12.94K 100%    4.11MB/s    0:00:00           12.94K 100%    4.11MB/s    0:00:00 (xfr#10, to-chk=916/933)
+Werk/Eigen bedrijf/Computers opschonen/Log Sil van de Water 30-08-14.docx
+         14.26K 100%    3.40MB/s    0:00:00           14.26K 100%    3.40MB/s    0:00:00 (xfr#11, to-chk=915/933)
+Werk/Eigen bedrijf/Instellingen die gedaan moeten worden/
+Werk/Eigen bedrijf/Instellingen die gedaan moeten worden/OEMinfo.reg
+            476 100%  116.21kB/s    0:00:00              476 100%  116.21kB/s    0:00:00 (xfr#12, to-chk=914/933)
+Werk/Eigen bedrijf/Instellingen die gedaan moeten worden/Op C plakken/
+Werk/Eigen bedrijf/Instellingen die gedaan moeten worden/Op C plakken/Windows/
+Werk/Eigen bedrijf/Instellingen die gedaan moeten worden/Op C plakken/Windows/System32/
+Werk/Eigen bedrijf/Instellingen die gedaan moeten worden/Op C plakken/Windows/System32/oemlogo.bmp
+         32.77K  75%    6.25MB/s    0:00:00           43.26K 100%    8.25MB/s    0:00:00 (xfr#13, to-chk=910/933)
+Werk/Gilde Opleidingen/
+Werk/Gilde Opleidingen/VOG 20-07-15.pdf
+         20.55K 100%    3.27MB/s    0:00:00           20.55K 100%    3.27MB/s    0:00:00 (xfr#14, to-chk=909/933)
+Werk/RazorBit/
+Werk/RazorBit/Apache server security.txt
+            165 100%   26.86kB/s    0:00:00              165 100%   26.86kB/s    0:00:00 (xfr#15, to-chk=908/933)
+Werk/RazorBit/ERD push.dia
+          1.95K 100%  318.03kB/s    0:00:00            1.95K 100%  318.03kB/s    0:00:00 (xfr#16, to-chk=907/933)
+Werk/RazorBit/ERD push.dia~
+          1.95K 100%  272.60kB/s    0:00:00            1.95K 100%  272.60kB/s    0:00:00 (xfr#17, to-chk=906/933)
+Werk/RazorBit/Firewall Servers.txt
+             94 100%   13.11kB/s    0:00:00               94 100%   13.11kB/s    0:00:00 (xfr#18, to-chk=905/933)
+Werk/RazorBit/Klasse Diagram push.dia
+          2.35K 100%  328.26kB/s    0:00:00            2.35K 100%  328.26kB/s    0:00:00 (xfr#19, to-chk=904/933)
+Werk/RazorBit/Klasse Diagram push.dia~
+          2.38K 100%  332.03kB/s    0:00:00            2.38K 100%  332.03kB/s    0:00:00 (xfr#20, to-chk=903/933)
+Werk/RazorBit/RazorBit font.txt
+            105 100%   14.65kB/s    0:00:00              105 100%   14.65kB/s    0:00:00 (xfr#21, to-chk=902/933)
+Werk/RazorBit/Apache server setup/
+Werk/RazorBit/Apache server setup/Apache hardening.txt
+          1.56K 100%  190.19kB/s    0:00:00            1.56K 100%  190.19kB/s    0:00:00 (xfr#22, to-chk=890/933)
+Werk/RazorBit/Apache server setup/Apache server security.txt
+            165 100%   20.14kB/s    0:00:00              165 100%   20.14kB/s    0:00:00 (xfr#23, to-chk=889/933)
+Werk/RazorBit/Apache server setup/Fail2ban servers.txt
+            693 100%   84.59kB/s    0:00:00              693 100%   84.59kB/s    0:00:00 (xfr#24, to-chk=888/933)
+Werk/RazorBit/Apache server setup/Firewall Servers.txt
+             94 100%   10.20kB/s    0:00:00               94 100%   10.20kB/s    0:00:00 (xfr#25, to-chk=887/933)
+Werk/RazorBit/Apache server setup/Server Cronjobs.txt
+            106 100%   11.50kB/s    0:00:00              106 100%   11.50kB/s    0:00:00 (xfr#26, to-chk=886/933)
+Werk/RazorBit/Data/
+Werk/RazorBit/Data/Bedrijven.txt
+            284 100%   30.82kB/s    0:00:00              284 100%   30.82kB/s    0:00:00 (xfr#27, to-chk=885/933)
+Werk/RazorBit/Data/Knipsel.PNG
+         32.77K  90%    3.12MB/s    0:00:00           36.06K 100%    3.44MB/s    0:00:00 (xfr#28, to-chk=884/933)
+Werk/RazorBit/Data/MijnVenray.apk
+         32.77K   2%    1.84MB/s    0:00:00            1.54M 100%   47.42MB/s    0:00:00 (xfr#29, to-chk=883/933)
+Werk/RazorBit/Data/Opzet bussinessplan.docx
+          5.46K 100%  172.06kB/s    0:00:00            5.46K 100%  172.06kB/s    0:00:00 (xfr#30, to-chk=882/933)
+Werk/RazorBit/Data/Prijzen.ods
+         10.67K 100%  325.50kB/s    0:00:00           10.67K 100%  325.50kB/s    0:00:00 (xfr#31, to-chk=881/933)
+Werk/RazorBit/Data/Administratie/
+Werk/RazorBit/Data/Administratie/Belasting/
+Werk/RazorBit/Data/Administratie/Belasting/15-36922.pdf
+         32.77K   4%  864.86kB/s    0:00:00          674.26K 100%   15.68MB/s    0:00:00 (xfr#32, to-chk=858/933)
+Werk/RazorBit/Data/Administratie/Belasting/Advies gesprek.docx
+          4.53K 100%  107.95kB/s    0:00:00            4.53K 100%  105.38kB/s    0:00:00 (xfr#33, to-chk=857/933)
+Werk/RazorBit/Data/Binnenkomende facturen/
+Werk/RazorBit/Data/Binnenkomende facturen/4Launch iPhone 30-12-2015.pdf
+         32.77K  31%  744.19kB/s    0:00:00          103.33K 100%    2.29MB/s    0:00:00 (xfr#34, to-chk=856/933)
+Werk/RazorBit/Data/Development klaar/
+Werk/RazorBit/Data/Development klaar/Android/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/MijnVenray.iml
+            916 100%   20.80kB/s    0:00:00              916 100%   20.80kB/s    0:00:00 (xfr#35, to-chk=853/933)
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/build.gradle
+            436 100%    9.68kB/s    0:00:00              436 100%    9.68kB/s    0:00:00 (xfr#36, to-chk=852/933)
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/gradle.properties
+            855 100%   18.98kB/s    0:00:00              855 100%   18.98kB/s    0:00:00 (xfr#37, to-chk=851/933)
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/gradlew
+          5.08K 100%  112.75kB/s    0:00:00            5.08K 100%  112.75kB/s    0:00:00 (xfr#38, to-chk=850/933)
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/gradlew.bat
+          2.40K 100%   52.17kB/s    0:00:00            2.40K 100%   52.17kB/s    0:00:00 (xfr#39, to-chk=849/933)
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/local.properties
+            424 100%    9.20kB/s    0:00:00              424 100%    9.20kB/s    0:00:00 (xfr#40, to-chk=848/933)
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/settings.gradle
+             15 100%    0.33kB/s    0:00:00               15 100%    0.33kB/s    0:00:00 (xfr#41, to-chk=847/933)
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/app/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/app/app.iml
+          7.77K 100%  168.71kB/s    0:00:00            7.77K 100%  168.71kB/s    0:00:00 (xfr#42, to-chk=843/933)
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/app/build.gradle
+            688 100%   14.61kB/s    0:00:00              688 100%   14.61kB/s    0:00:00 (xfr#43, to-chk=842/933)
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/app/proguard-rules.pro
+            653 100%   13.86kB/s    0:00:00              653 100%   13.86kB/s    0:00:00 (xfr#44, to-chk=841/933)
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/app/build/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/app/build/generated/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/app/build/intermediates/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/app/build/outputs/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/app/build/tmp/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/app/libs/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/app/src/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/app/src/androidTest/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/app/src/main/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/build/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/build/intermediates/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/build/intermediates/gradle_project_sync_data.bin
+            582 100%   12.36kB/s    0:00:00              582 100%   12.36kB/s    0:00:00 (xfr#45, to-chk=830/933)
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/build/intermediates/dex-cache/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/gradle/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/gradle/wrapper/
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/gradle/wrapper/gradle-wrapper.jar
+         32.77K  65%  680.85kB/s    0:00:00           49.90K 100%    1.01MB/s    0:00:00 (xfr#46, to-chk=827/933)
+Werk/RazorBit/Data/Development klaar/Android/MijnVenray/gradle/wrapper/gradle-wrapper.properties
+            232 100%    4.72kB/s    0:00:00              232 100%    4.72kB/s    0:00:00 (xfr#47, to-chk=826/933)
+Werk/RazorBit/Data/Development/
+Werk/RazorBit/Data/Development/App ideen.txt
+             77 100%    1.57kB/s    0:00:00               77 100%    1.57kB/s    0:00:00 (xfr#48, to-chk=825/933)
+Werk/RazorBit/Data/Development/Android/
+Werk/RazorBit/Data/Development/Android/androidasync-2.1.3.jar
+
+         32.77K   5%  603.77kB/s    0:00:00          573.07K 100%    9.59MB/s    0:00:00 (xfr#49, to-chk=819/933)
+Werk/RazorBit/Data/Development/Android/CorpoScoop/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/CorpoScoop.iml
+            916 100%   15.69kB/s    0:00:00              916 100%   15.69kB/s    0:00:00 (xfr#50, to-chk=814/933)
+Werk/RazorBit/Data/Development/Android/CorpoScoop/build.gradle
+            436 100%    7.47kB/s    0:00:00              436 100%    7.47kB/s    0:00:00 (xfr#51, to-chk=813/933)
+Werk/RazorBit/Data/Development/Android/CorpoScoop/gradle.properties
+            855 100%   14.40kB/s    0:00:00              855 100%   14.40kB/s    0:00:00 (xfr#52, to-chk=812/933)
+Werk/RazorBit/Data/Development/Android/CorpoScoop/gradlew
+          5.08K 100%   85.53kB/s    0:00:00            5.08K 100%   85.53kB/s    0:00:00 (xfr#53, to-chk=811/933)
+Werk/RazorBit/Data/Development/Android/CorpoScoop/gradlew.bat
+          2.40K 100%   40.48kB/s    0:00:00            2.40K 100%   40.48kB/s    0:00:00 (xfr#54, to-chk=810/933)
+Werk/RazorBit/Data/Development/Android/CorpoScoop/local.properties
+            424 100%    7.02kB/s    0:00:00              424 100%    7.02kB/s    0:00:00 (xfr#55, to-chk=809/933)
+Werk/RazorBit/Data/Development/Android/CorpoScoop/settings.gradle
+             15 100%    0.25kB/s    0:00:00               15 100%    0.25kB/s    0:00:00 (xfr#56, to-chk=808/933)
+Werk/RazorBit/Data/Development/Android/CorpoScoop/app/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/app/app.iml
+          7.77K 100%  128.67kB/s    0:00:00            7.77K 100%  128.67kB/s    0:00:00 (xfr#57, to-chk=804/933)
+Werk/RazorBit/Data/Development/Android/CorpoScoop/app/build.gradle
+            688 100%   11.20kB/s    0:00:00              688 100%   11.20kB/s    0:00:00 (xfr#58, to-chk=803/933)
+Werk/RazorBit/Data/Development/Android/CorpoScoop/app/proguard-rules.pro
+            653 100%   10.63kB/s    0:00:00              653 100%   10.63kB/s    0:00:00 (xfr#59, to-chk=802/933)
+Werk/RazorBit/Data/Development/Android/CorpoScoop/app/build/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/app/build/generated/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/app/build/intermediates/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/app/build/outputs/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/app/build/tmp/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/app/libs/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/app/src/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/app/src/androidTest/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/app/src/main/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/build/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/build/intermediates/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/build/intermediates/gradle_project_sync_data.bin
+            582 100%    9.32kB/s    0:00:00              582 100%    9.32kB/s    0:00:00 (xfr#60, to-chk=791/933)
+Werk/RazorBit/Data/Development/Android/CorpoScoop/build/intermediates/dex-cache/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/gradle/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/gradle/wrapper/
+Werk/RazorBit/Data/Development/Android/CorpoScoop/gradle/wrapper/gradle-wrapper.jar
+         32.77K  65%  524.59kB/s    0:00:00           49.90K 100%  798.80kB/s    0:00:00 (xfr#61, to-chk=788/933)
+Werk/RazorBit/Data/Development/Android/CorpoScoop/gradle/wrapper/gradle-wrapper.properties
+            232 100%    3.65kB/s    0:00:00              232 100%    3.65kB/s    0:00:00 (xfr#62, to-chk=787/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray/
+Werk/RazorBit/Data/Development/Android/MijnVenray/MijnVenray.iml
+            916 100%   14.43kB/s    0:00:00              916 100%   14.43kB/s    0:00:00 (xfr#63, to-chk=786/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray/build.gradle
+            436 100%    6.87kB/s    0:00:00              436 100%    6.87kB/s    0:00:00 (xfr#64, to-chk=785/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray/gradle.properties
+            855 100%   13.25kB/s    0:00:00              855 100%   13.25kB/s    0:00:00 (xfr#65, to-chk=784/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray/gradlew
+          5.08K 100%   78.75kB/s    0:00:00            5.08K 100%   78.75kB/s    0:00:00 (xfr#66, to-chk=783/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray/gradlew.bat
+          2.40K 100%   37.26kB/s    0:00:00            2.40K 100%   37.26kB/s    0:00:00 (xfr#67, to-chk=782/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray/local.properties
+            424 100%    6.47kB/s    0:00:00              424 100%    6.47kB/s    0:00:00 (xfr#68, to-chk=781/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray/settings.gradle
+             15 100%    0.23kB/s    0:00:00               15 100%    0.23kB/s    0:00:00 (xfr#69, to-chk=780/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray/app/
+Werk/RazorBit/Data/Development/Android/MijnVenray/app/app.iml
+          7.77K 100%  118.62kB/s    0:00:00            7.77K 100%  118.62kB/s    0:00:00 (xfr#70, to-chk=776/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray/app/build.gradle
+            688 100%   10.50kB/s    0:00:00              688 100%   10.50kB/s    0:00:00 (xfr#71, to-chk=775/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray/app/proguard-rules.pro
+            653 100%    9.81kB/s    0:00:00              653 100%    9.81kB/s    0:00:00 (xfr#72, to-chk=774/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray/app/build/
+Werk/RazorBit/Data/Development/Android/MijnVenray/app/build/generated/
+Werk/RazorBit/Data/Development/Android/MijnVenray/app/build/intermediates/
+Werk/RazorBit/Data/Development/Android/MijnVenray/app/build/outputs/
+Werk/RazorBit/Data/Development/Android/MijnVenray/app/build/tmp/
+Werk/RazorBit/Data/Development/Android/MijnVenray/app/libs/
+Werk/RazorBit/Data/Development/Android/MijnVenray/app/src/
+Werk/RazorBit/Data/Development/Android/MijnVenray/app/src/androidTest/
+Werk/RazorBit/Data/Development/Android/MijnVenray/app/src/main/
+Werk/RazorBit/Data/Development/Android/MijnVenray/build/
+Werk/RazorBit/Data/Development/Android/MijnVenray/build/intermediates/
+Werk/RazorBit/Data/Development/Android/MijnVenray/build/intermediates/gradle_project_sync_data.bin
+            582 100%    8.74kB/s    0:00:00              582 100%    8.74kB/s    0:00:00 (xfr#73, to-chk=763/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray/build/intermediates/dex-cache/
+Werk/RazorBit/Data/Development/Android/MijnVenray/gradle/
+Werk/RazorBit/Data/Development/Android/MijnVenray/gradle/wrapper/
+Werk/RazorBit/Data/Development/Android/MijnVenray/gradle/wrapper/gradle-wrapper.jar
+         32.77K  65%  484.85kB/s    0:00:00           49.90K 100%  738.28kB/s    0:00:00 (xfr#74, to-chk=760/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray/gradle/wrapper/gradle-wrapper.properties
+            232 100%    3.43kB/s    0:00:00              232 100%    3.43kB/s    0:00:00 (xfr#75, to-chk=759/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/MijnVenray_tab.iml
+            847 100%   12.35kB/s    0:00:00              847 100%   12.35kB/s    0:00:00 (xfr#76, to-chk=758/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/build.gradle
+            436 100%    6.35kB/s    0:00:00              436 100%    6.35kB/s    0:00:00 (xfr#77, to-chk=757/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/gradle.properties
+            855 100%   12.46kB/s    0:00:00              855 100%   12.46kB/s    0:00:00 (xfr#78, to-chk=756/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/gradlew
+          5.08K 100%   74.04kB/s    0:00:00            5.08K 100%   74.04kB/s    0:00:00 (xfr#79, to-chk=755/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/gradlew.bat
+          2.40K 100%   34.52kB/s    0:00:00            2.40K 100%   34.52kB/s    0:00:00 (xfr#80, to-chk=754/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/local.properties
+            489 100%    7.02kB/s    0:00:00              489 100%    7.02kB/s    0:00:00 (xfr#81, to-chk=753/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/settings.gradle
+             15 100%    0.22kB/s    0:00:00               15 100%    0.22kB/s    0:00:00 (xfr#82, to-chk=752/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/app/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/app/app.iml
+          7.41K 100%  104.82kB/s    0:00:00            7.41K 100%  104.82kB/s    0:00:00 (xfr#83, to-chk=747/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/app/build.gradle
+            641 100%    9.07kB/s    0:00:00              641 100%    9.07kB/s    0:00:00 (xfr#84, to-chk=746/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/app/proguard-rules.pro
+            653 100%    9.24kB/s    0:00:00              653 100%    9.24kB/s    0:00:00 (xfr#85, to-chk=745/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/app/build/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/app/build/generated/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/app/build/intermediates/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/app/build/outputs/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/app/build/tmp/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/app/libs/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/app/src/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/app/src/androidTest/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/app/src/main/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/build/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/build/intermediates/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/build/intermediates/gradle_project_sync_data.bin
+            582 100%    8.12kB/s    0:00:00              582 100%    8.12kB/s    0:00:00 (xfr#86, to-chk=734/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/build/intermediates/model_data.bin
+         32.77K  38%  450.70kB/s    0:00:00           85.97K 100%    1.15MB/s    0:00:00 (xfr#87, to-chk=733/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/build/intermediates/dex-cache/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/captures/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/captures/SystemInfo_2015.05.07_15.33.11.txt
+             92 100%    1.25kB/s    0:00:00               92 100%    1.25kB/s    0:00:00 (xfr#88, to-chk=731/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/gradle/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/gradle/wrapper/
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/gradle/wrapper/gradle-wrapper.jar
+         32.77K  65%  444.44kB/s    0:00:00           49.90K 100%  667.49kB/s    0:00:00 (xfr#89, to-chk=729/933)
+Werk/RazorBit/Data/Development/Android/MijnVenray_tab/gradle/wrapper/gradle-wrapper.properties
+            232 100%    3.10kB/s    0:00:00              232 100%    3.10kB/s    0:00:00 (xfr#90, to-chk=728/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/build.gradle
+            436 100%    5.83kB/s    0:00:00              436 100%    5.83kB/s    0:00:00 (xfr#91, to-chk=727/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/gradle.properties
+            855 100%   11.44kB/s    0:00:00              855 100%   11.44kB/s    0:00:00 (xfr#92, to-chk=726/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/gradlew
+          5.08K 100%   67.04kB/s    0:00:00            5.08K 100%   67.04kB/s    0:00:00 (xfr#93, to-chk=725/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/gradlew.bat
+          2.40K 100%   31.73kB/s    0:00:00            2.40K 100%   31.73kB/s    0:00:00 (xfr#94, to-chk=724/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/local.properties
+            424 100%    5.60kB/s    0:00:00              424 100%    5.60kB/s    0:00:00 (xfr#95, to-chk=723/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/myFitnessBuddyBMIcalculator_drawer.iml
+            828 100%   10.93kB/s    0:00:00              828 100%   10.93kB/s    0:00:00 (xfr#96, to-chk=722/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/settings.gradle
+             15 100%    0.20kB/s    0:00:00               15 100%    0.20kB/s    0:00:00 (xfr#97, to-chk=721/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/app/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/app/app-release.apk
+         32.77K   3%  390.24kB/s    0:00:02            1.04M 100%   10.44MB/s    0:00:00 (xfr#98, to-chk=717/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/app/app.iml
+          7.25K 100%   73.74kB/s    0:00:00            7.25K 100%   73.74kB/s    0:00:00 (xfr#99, to-chk=716/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/app/build.gradle
+            616 100%    6.20kB/s    0:00:00              616 100%    6.20kB/s    0:00:00 (xfr#100, to-chk=715/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/app/proguard-rules.pro
+            653 100%    6.57kB/s    0:00:00              653 100%    6.57kB/s    0:00:00 (xfr#101, to-chk=714/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/app/build/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/app/build/generated/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/app/build/intermediates/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/app/build/outputs/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/app/build/tmp/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/app/libs/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/app/src/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/app/src/androidTest/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/app/src/main/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/build/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/build/intermediates/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/build/intermediates/model_data.bin
+         32.77K  35%  323.23kB/s    0:00:00           91.53K 100%  893.86kB/s    0:00:00 (xfr#102, to-chk=703/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/build/intermediates/dex-cache/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/gradle/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/gradle/local.properties
+            454 100%    4.43kB/s    0:00:00              454 100%    4.43kB/s    0:00:00 (xfr#103, to-chk=701/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/gradle/wrapper/
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/gradle/wrapper/gradle-wrapper.jar
+         32.77K  65%  316.83kB/s    0:00:00           49.90K 100%  482.44kB/s    0:00:00 (xfr#104, to-chk=699/933)
+Werk/RazorBit/Data/Development/Android/myFitnessBuddyBMIcalculator_drawer/gradle/wrapper/gradle-wrapper.properties
+            232 100%    2.24kB/s    0:00:00              232 100%    2.24kB/s    0:00:00 (xfr#105, to-chk=698/933)
+Werk/RazorBit/Data/Development/Web/
+Werk/RazorBit/Data/Development/Web/ASPpagina.txt
+          1.38K 100%   13.16kB/s    0:00:00            1.38K 100%   13.16kB/s    0:00:00 (xfr#106, to-chk=697/933)
+Werk/RazorBit/Data/Development/Web/MijnVenray/
+Werk/RazorBit/Data/Development/Web/MijnVenray/articles.php
+          1.50K 100%   14.41kB/s    0:00:00            1.50K 100%   14.41kB/s    0:00:00 (xfr#107, to-chk=694/933)
+Werk/RazorBit/Data/Development/Web/MijnVenray/aspNet/
+Werk/RazorBit/Data/Development/Web/MijnVenray/aspNet/CorpoScoop_articles.aspx
+            140 100%    1.34kB/s    0:00:00              140 100%    1.34kB/s    0:00:00 (xfr#108, to-chk=692/933)
+Werk/RazorBit/Data/Development/Web/MijnVenray/aspNet/CorpoScoop_editpreferences.aspx
+            154 100%    1.46kB/s    0:00:00              154 100%    1.46kB/s    0:00:00 (xfr#109, to-chk=691/933)
+Werk/RazorBit/Data/Development/Web/MijnVenray/aspNet/CorpoScoop_preferences.aspx
+            144 100%    1.37kB/s    0:00:00              144 100%    1.37kB/s    0:00:00 (xfr#110, to-chk=690/933)
+Werk/RazorBit/Data/Development/Web/MijnVenray/aspNet/MijnVenray_articles.aspx
+            127 100%    1.20kB/s    0:00:00              127 100%    1.20kB/s    0:00:00 (xfr#111, to-chk=689/933)
+Werk/RazorBit/Data/Development/Web/MijnVenray/aspNet/MijnVenray_editpreferences.aspx
+            154 100%    1.46kB/s    0:00:00              154 100%    1.46kB/s    0:00:00 (xfr#112, to-chk=688/933)
+Werk/RazorBit/Data/Development/Web/MijnVenray/aspNet/MijnVenray_preferences.aspx
+            135 100%    1.27kB/s    0:00:00              135 100%    1.27kB/s    0:00:00 (xfr#113, to-chk=687/933)
+Werk/RazorBit/Data/Development/Web/MijnVenray/aspNet/Web.config
+            498 100%    4.68kB/s    0:00:00              498 100%    4.68kB/s    0:00:00 (xfr#114, to-chk=686/933)
+Werk/RazorBit/Data/Development/Web/MijnVenray/aspNet/login.aspx
+            110 100%    1.03kB/s    0:00:00              110 100%    1.03kB/s    0:00:00 (xfr#115, to-chk=685/933)
+Werk/RazorBit/Data/Development/Web/MijnVenray/aspNet/bin/
+Werk/RazorBit/Data/Development/Web/MijnVenray/aspNet/bin/MijnVenray_App.dll
+         20.99K 100%  195.24kB/s    0:00:00           20.99K 100%  195.24kB/s    0:00:00 (xfr#116, to-chk=683/933)
+Werk/RazorBit/Data/Development/Web/SchoolBazaar/
+Werk/RazorBit/Data/Development/Web/SchoolBazaar/fileUpload.php
+          1.34K 100%   12.46kB/s    0:00:00            1.34K 100%   12.46kB/s    0:00:00 (xfr#117, to-chk=682/933)
+Werk/RazorBit/Data/Development/Windows Desktop/
+Werk/RazorBit/Data/Development/Windows Phone/
+Werk/RazorBit/Data/Development/iOS/
+Werk/RazorBit/Data/Documentatie/
+Werk/RazorBit/Data/Documentatie/API document template.odt
+         32.77K  52%  301.89kB/s    0:00:00           62.71K 100%  577.73kB/s    0:00:00 (xfr#118, to-chk=681/933)
+Werk/RazorBit/Data/Documentatie/Installatie document template.odt
+         32.77K  48%  299.07kB/s    0:00:00           67.99K 100%  620.50kB/s    0:00:00 (xfr#119, to-chk=680/933)
+Werk/RazorBit/Data/Documentatie/BandApp/
+Werk/RazorBit/Data/Documentatie/BandApp/BandApp - API Document.odt
+         32.74K 100%  296.06kB/s    0:00:00           32.74K 100%  296.06kB/s    0:00:00 (xfr#120, to-chk=673/933)
+Werk/RazorBit/Data/Documentatie/BandApp/BandApp - API Document.pdf
+         32.77K  44%  293.58kB/s    0:00:00           73.53K 100%  658.76kB/s    0:00:00 (xfr#121, to-chk=672/933)
+Werk/RazorBit/Data/Documentatie/BandApp/BandApp - Installatie document.odt
+         32.77K  47%  290.91kB/s    0:00:00           68.44K 100%  607.59kB/s    0:00:00 (xfr#122, to-chk=671/933)
+Werk/RazorBit/Data/Documentatie/BandApp/BandApp - Installatie document.pdf
+         32.77K  22%  285.71kB/s    0:00:00          145.07K 100%    1.22MB/s    0:00:00 (xfr#123, to-chk=670/933)
+Werk/RazorBit/Data/Documentatie/BuildMyApp/
+Werk/RazorBit/Data/Documentatie/BuildMyApp/erd.xmi
+         24.48K 100%  209.69kB/s    0:00:00           24.48K 100%  209.69kB/s    0:00:00 (xfr#124, to-chk=669/933)
+Werk/RazorBit/Data/Documentatie/Facturen/
+Werk/RazorBit/Data/Documentatie/Facturen/Facturen - Installatie Document.odt
+         32.77K  48%  278.26kB/s    0:00:00           68.13K 100%  578.56kB/s    0:00:00 (xfr#125, to-chk=668/933)
+Werk/RazorBit/Data/Documentatie/Facturen/Facturen - Installatie Document.pdf
+         32.77K  22%  273.50kB/s    0:00:00          143.68K 100%    1.17MB/s    0:00:00 (xfr#126, to-chk=667/933)
+Werk/RazorBit/Data/Documentatie/MOV/
+Werk/RazorBit/Data/Documentatie/MOV/MOV - API document.pdf
+         32.77K  36%  268.91kB/s    0:00:00           88.98K 100%  730.23kB/s    0:00:00 (xfr#127, to-chk=666/933)
+Werk/RazorBit/Data/Documentatie/Menu/
+Werk/RazorBit/Data/Documentatie/Menu/160323 Menukaart APP - voorbeeld De Klomp.docx
+         32.77K  16%  264.46kB/s    0:00:00          193.04K 100%    1.51MB/s    0:00:00 (xfr#128, to-chk=665/933)
+Werk/RazorBit/Data/Documentatie/Menu/Database opzet.txt
+            812 100%    6.50kB/s    0:00:00              812 100%    6.50kB/s    0:00:00 (xfr#129, to-chk=664/933)
+Werk/RazorBit/Data/Documentatie/Menu/ERD.xmi
+         32.77K  84%  260.16kB/s    0:00:00           39.00K 100%  309.64kB/s    0:00:00 (xfr#130, to-chk=663/933)
+Werk/RazorBit/Data/Documentatie/Push/
+Werk/RazorBit/Data/Documentatie/Push/Database ontwerp.dia
+          1.90K 100%   15.05kB/s    0:00:00            1.90K 100%   15.05kB/s    0:00:00 (xfr#131, to-chk=662/933)
+Werk/RazorBit/Data/Documentatie/Push/Database ontwerp.dia~
+          1.86K 100%   14.62kB/s    0:00:00            1.86K 100%   14.62kB/s    0:00:00 (xfr#132, to-chk=661/933)
+Werk/RazorBit/Data/Documentatie/Push/Klasse diagram.dia
+          2.18K 100%   17.14kB/s    0:00:00            2.18K 100%   17.14kB/s    0:00:00 (xfr#133, to-chk=660/933)
+Werk/RazorBit/Data/Documentatie/Push/Klasse diagram.dia~
+          2.20K 100%   17.32kB/s    0:00:00            2.20K 100%   17.32kB/s    0:00:00 (xfr#134, to-chk=659/933)
+Werk/RazorBit/Data/Documentatie/Push/PUSH - API document.odt
+         32.77K  47%  253.97kB/s    0:00:00           68.89K 100%  533.91kB/s    0:00:00 (xfr#135, to-chk=658/933)
+Werk/RazorBit/Data/Documentatie/Push/PUSH - API document.pdf
+         32.77K  31%  251.97kB/s    0:00:00          105.46K 100%  810.96kB/s    0:00:00 (xfr#136, to-chk=657/933)
+Werk/RazorBit/Data/Documentatie/Push/PUSH - Installatie document.odt
+         32.77K  49%  248.06kB/s    0:00:00           66.86K 100%  506.14kB/s    0:00:00 (xfr#137, to-chk=656/933)
+Werk/RazorBit/Data/Documentatie/Push/PUSH - Installatie document.pdf
+         32.77K  22%  246.15kB/s    0:00:00          144.05K 100%    1.05MB/s    0:00:00 (xfr#138, to-chk=655/933)
+Werk/RazorBit/Data/Facturen/
+Werk/RazorBit/Data/Facturen/2016/
+Werk/RazorBit/Data/Facturen/2016/26-05-2016 - Bol.com Apple Watch.pdf
+         24.14K 100%  178.57kB/s    0:00:00           24.14K 100%  178.57kB/s    0:00:00 (xfr#139, to-chk=653/933)
+Werk/RazorBit/Data/Facturen/2016/26-05-2016 - Bol.com MOTO360.pdf
+         24.74K 100%  183.03kB/s    0:00:00           24.74K 100%  183.03kB/s    0:00:00 (xfr#140, to-chk=652/933)
+Werk/RazorBit/Data/Facturen/2016/Uitgaand/
+Werk/RazorBit/Data/Facturen/2016/Uitgaand/03-04-2016 - THD - Website kunstmanefestatie.pdf
+         32.77K  54%  240.60kB/s    0:00:00           60.35K 100%  439.83kB/s    0:00:00 (xfr#141, to-chk=650/933)
+Werk/RazorBit/Data/Facturen/2016/Uitgaand/03-06-2016 - E-vontuur - Onderhoud CorpoScoop.pdf
+         32.77K  54%  237.04kB/s    0:00:00           60.13K 100%  434.98kB/s    0:00:00 (xfr#142, to-chk=649/933)
+Werk/RazorBit/Data/Facturen/2016/Uitgaand/08-03-2016 - THD - Powerpoint Sjablonen.pdf
+         32.77K  54%  235.29kB/s    0:00:00           60.40K 100%  433.74kB/s    0:00:00 (xfr#143, to-chk=648/933)
+Werk/RazorBit/Data/Factuur van de Ligt/
+Werk/RazorBit/Data/Factuur van de Ligt/Uren lijst.odt
+          9.51K 100%   67.80kB/s    0:00:00            9.51K 100%   67.80kB/s    0:00:00 (xfr#144, to-chk=647/933)
+Werk/RazorBit/Data/Gegevens/
+Werk/RazorBit/Data/Gegevens/Bedrijfsplan.docx
+         32.77K  28%  231.88kB/s    0:00:00          116.23K 100%  816.57kB/s    0:00:00 (xfr#145, to-chk=646/933)
+Werk/RazorBit/Data/Gegevens/Begroting.xlsx
+         11.34K 100%   79.65kB/s    0:00:00           11.34K 100%   79.65kB/s    0:00:00 (xfr#146, to-chk=645/933)
+Werk/RazorBit/Data/Gegevens/Google.txt
+
+            194 100%    1.32kB/s    0:00:00              194 100%    1.32kB/s    0:00:00 (xfr#147, to-chk=644/933)
+Werk/RazorBit/Data/Gegevens/Mail.txt
+            899 100%    6.10kB/s    0:00:00              899 100%    6.10kB/s    0:00:00 (xfr#148, to-chk=643/933)
+Werk/RazorBit/Data/Gegevens/MijnVenray.txt
+             74 100%    0.50kB/s    0:00:00               74 100%    0.50kB/s    0:00:00 (xfr#149, to-chk=642/933)
+Werk/RazorBit/Data/Gegevens/PUSH server.txt
+            120 100%    0.81kB/s    0:00:00              120 100%    0.81kB/s    0:00:00 (xfr#150, to-chk=641/933)
+Werk/RazorBit/Data/Gegevens/Twitter.txt
+            214 100%    1.44kB/s    0:00:00              214 100%    1.44kB/s    0:00:00 (xfr#151, to-chk=640/933)
+Werk/RazorBit/Data/Gegevens/USinvoice database.txt
+            116 100%    0.78kB/s    0:00:00              116 100%    0.78kB/s    0:00:00 (xfr#152, to-chk=639/933)
+Werk/RazorBit/Data/Gegevens/Versio.txt
+            516 100%    3.48kB/s    0:00:00              516 100%    3.48kB/s    0:00:00 (xfr#153, to-chk=638/933)
+Werk/RazorBit/Data/Gegevens/Wordpress.txt
+            447 100%    3.01kB/s    0:00:00              447 100%    2.99kB/s    0:00:00 (xfr#154, to-chk=637/933)
+Werk/RazorBit/Data/Gegevens/invoicePlane.txt
+             67 100%    0.45kB/s    0:00:00               67 100%    0.45kB/s    0:00:00 (xfr#155, to-chk=636/933)
+Werk/RazorBit/Data/Handleidingen/
+Werk/RazorBit/Data/Handleidingen/RazorBit BandApp.odt
+         32.77K   0%  211.92kB/s    0:01:08  
+         14.51M 100%   48.23MB/s    0:00:00 (xfr#156, to-chk=635/933)
+Werk/RazorBit/Data/Handleidingen/RazorBit BandApp.pdf
+         32.77K  15%  110.34kB/s    0:00:01          211.46K 100%  712.07kB/s    0:00:00 (xfr#157, to-chk=634/933)
+Werk/RazorBit/Data/Handleidingen/RazorBit Push Dashboard.odt
+         32.77K   1%  108.11kB/s    0:00:15  
+          1.75M 100%    5.28MB/s    0:00:00 (xfr#158, to-chk=633/933)
+Werk/RazorBit/Data/Handleidingen/RazorBit Push Dashboard.pdf
+         32.77K   2%  100.00kB/s    0:00:15            1.60M 100%    4.60MB/s    0:00:00 (xfr#159, to-chk=632/933)
+Werk/RazorBit/Data/InvoicePlane/
+Werk/RazorBit/Data/InvoicePlane/RazorBit.html
+          3.02K 100%    8.88kB/s    0:00:00            3.02K 100%    8.88kB/s    0:00:00 (xfr#160, to-chk=631/933)
+Werk/RazorBit/Data/InvoicePlane/RazorBit.php
+          4.42K 100%   13.00kB/s    0:00:00            4.42K 100%   13.00kB/s    0:00:00 (xfr#161, to-chk=630/933)
+Werk/RazorBit/Data/InvoicePlane/master.css
+          1.59K 100%    4.66kB/s    0:00:00            1.59K 100%    4.66kB/s    0:00:00 (xfr#162, to-chk=629/933)
+Werk/RazorBit/Data/InvoicePlane/Email templates/
+Werk/RazorBit/Data/InvoicePlane/Email templates/Betaald.txt
+            176 100%    0.52kB/s    0:00:00              176 100%    0.52kB/s    0:00:00 (xfr#163, to-chk=626/933)
+Werk/RazorBit/Data/InvoicePlane/Email templates/Standaard.txt
+            149 100%    0.44kB/s    0:00:00              149 100%    0.44kB/s    0:00:00 (xfr#164, to-chk=625/933)
+Werk/RazorBit/Data/InvoicePlane/customFactuur/
+Werk/RazorBit/Data/InvoicePlane/customFactuur/RBInvoice/
+Werk/RazorBit/Data/KvK/
+Werk/RazorBit/Data/KvK/KvK gegevens 15-04-15.pdf
+         32.77K   0%   94.40kB/s    0:01:12  
+          6.86M 100%   16.23MB/s    0:00:00 (xfr#165, to-chk=623/933)
+Werk/RazorBit/Data/Logos/
+Werk/RazorBit/Data/Logos/Kleur palette.png
+         32.77K  59%   79.21kB/s    0:00:00           55.04K 100%  133.05kB/s    0:00:00 (xfr#166, to-chk=622/933)
+Werk/RazorBit/Data/Logos/android-store_functieafbeelding.png
+         32.77K  77%   79.01kB/s    0:00:00           42.38K 100%  102.19kB/s    0:00:00 (xfr#167, to-chk=621/933)
+Werk/RazorBit/Data/Logos/app_logo_razorbit.png
+         32.77K  79%   78.82kB/s    0:00:00           41.30K 100%   99.34kB/s    0:00:00 (xfr#168, to-chk=620/933)
+Werk/RazorBit/Data/Logos/logo_banner_wit_text_slogan.png
+         32.77K  74%   78.62kB/s    0:00:00           43.85K 100%  105.21kB/s    0:00:00 (xfr#169, to-chk=619/933)
+Werk/RazorBit/Data/Logos/logo_transparant.xcf
+         32.77K  48%   78.43kB/s    0:00:00           68.01K 100%  162.77kB/s    0:00:00 (xfr#170, to-chk=618/933)
+Werk/RazorBit/Data/Logos/logo_transparant_groot.png
+         32.77K  68%   78.24kB/s    0:00:00           48.06K 100%  114.76kB/s    0:00:00 (xfr#171, to-chk=617/933)
+Werk/RazorBit/Data/Logos/logo_transparant_klein.png
+          1.41K 100%    3.37kB/s    0:00:00            1.41K 100%    3.37kB/s    0:00:00 (xfr#172, to-chk=616/933)
+Werk/RazorBit/Data/Logos/logo_transparant_klein_text.png
+          2.50K 100%    5.96kB/s    0:00:00            2.50K 100%    5.96kB/s    0:00:00 (xfr#173, to-chk=615/933)
+Werk/RazorBit/Data/Logos/logo_transparant_rond.png
+         32.77K  66%   78.05kB/s    0:00:00           49.59K 100%  118.11kB/s    0:00:00 (xfr#174, to-chk=614/933)
+Werk/RazorBit/Data/Logos/logo_transparant_rond.xcf
+         32.77K  16%   77.67kB/s    0:00:02          195.30K 100%  461.79kB/s    0:00:00 (xfr#175, to-chk=613/933)
+Werk/RazorBit/Data/Logos/logo_wit.png
+         28.66K 100%   67.60kB/s    0:00:00           28.66K 100%   67.60kB/s    0:00:00 (xfr#176, to-chk=612/933)
+Werk/RazorBit/Data/Logos/logo_wit.xcf
+         32.77K  69%   77.29kB/s    0:00:00           47.19K 100%  111.06kB/s    0:00:00 (xfr#177, to-chk=611/933)
+Werk/RazorBit/Data/Logos/logo_wit_foreground.png
+         14.27K 100%   33.57kB/s    0:00:00           14.27K 100%   33.57kB/s    0:00:00 (xfr#178, to-chk=610/933)
+Werk/RazorBit/Data/Logos/logo_wit_foreground.xcf
+         32.77K  75%   76.92kB/s    0:00:00           43.39K 100%  101.86kB/s    0:00:00 (xfr#179, to-chk=609/933)
+Werk/RazorBit/Data/Logos/logo_wit_text.png
+          9.99K 100%   23.45kB/s    0:00:00            9.99K 100%   23.45kB/s    0:00:00 (xfr#180, to-chk=608/933)
+Werk/RazorBit/Data/Logos/mail_handtekening.png
+         32.77K  79%   76.74kB/s    0:00:00           41.05K 100%   96.12kB/s    0:00:00 (xfr#181, to-chk=607/933)
+Werk/RazorBit/Data/Opdrachten/
+Werk/RazorBit/Data/Opdrachten/E-vontuur/
+Werk/RazorBit/Data/Opdrachten/E-vontuur/CorpoScoop.apk
+         32.77K   2%   75.83kB/s    0:00:17            1.33M 100%    2.93MB/s    0:00:00 (xfr#182, to-chk=599/933)
+Werk/RazorBit/Data/Opdrachten/E-vontuur/CorpoScoop.zip
+         32.77K   2%   73.23kB/s    0:00:14            1.12M 100%    2.40MB/s    0:00:00 (xfr#183, to-chk=598/933)
+Werk/RazorBit/Data/Opdrachten/E-vontuur/MijnVenray.apk
+         32.77K   2%   71.11kB/s    0:00:19  
+          1.44M 100%    2.97MB/s    0:00:00 (xfr#184, to-chk=597/933)
+Werk/RazorBit/Data/Opdrachten/E-vontuur/MijnVenray.zip
+         32.77K   2%   68.38kB/s    0:00:17            1.21M 100%    2.42MB/s    0:00:00 (xfr#185, to-chk=596/933)
+Werk/RazorBit/Data/Opdrachten/E-vontuur/MijnVenray_encryptie.txt
+            312 100%    0.64kB/s    0:00:00              312 100%    0.64kB/s    0:00:00 (xfr#186, to-chk=595/933)
+Werk/RazorBit/Data/Opdrachten/E-vontuur/CorpoScoop/
+Werk/RazorBit/Data/Opdrachten/E-vontuur/CorpoScoop/Banner.xcf
+         15.83K 100%   32.34kB/s    0:00:00           15.83K 100%   32.34kB/s    0:00:00 (xfr#187, to-chk=592/933)
+Werk/RazorBit/Data/Opdrachten/E-vontuur/CorpoScoop/LogoCS.xcf
+         32.77K  37%   66.81kB/s    0:00:00           87.87K 100%  178.77kB/s    0:00:00 (xfr#188, to-chk=591/933)
+Werk/RazorBit/Data/Opdrachten/E-vontuur/MijnVenray/
+Werk/RazorBit/Data/Opdrachten/E-vontuur/MijnVenray/MijnVenray gesprek Jasper.txt
+            268 100%    0.55kB/s    0:00:00              268 100%    0.55kB/s    0:00:00 (xfr#189, to-chk=590/933)
+Werk/RazorBit/Data/Opdrachten/E-vontuur/MijnVenray/MijnVenray_Logo 512x512.png
+         32.77K  53%   66.53kB/s    0:00:00           60.99K 100%  123.83kB/s    0:00:00 (xfr#190, to-chk=589/933)
+Werk/RazorBit/Data/Opdrachten/E-vontuur/MijnVenray/MijnVenray_Logo_banner1024x500.jpg
+         32.77K   9%   65.98kB/s    0:00:04          330.88K 100%  664.86kB/s    0:00:00 (xfr#191, to-chk=588/933)
+Werk/RazorBit/Data/Opdrachten/E-vontuur/MijnVenray/Vragen MijnVenray app.docx
+          4.20K 100%    8.44kB/s    0:00:00            4.20K 100%    8.44kB/s    0:00:00 (xfr#192, to-chk=587/933)
+Werk/RazorBit/Data/Opdrachten/Elektro van Goch/
+Werk/RazorBit/Data/Opdrachten/Elektro van Goch/Elektro van Goch.docx
+         12.12K 100%   24.35kB/s    0:00:00           12.12K 100%   24.35kB/s    0:00:00 (xfr#193, to-chk=586/933)
+Werk/RazorBit/Data/Opdrachten/Elektro van Goch/Navigatiestructuur.pdf
+         32.77K  20%   65.44kB/s    0:00:01          159.00K 100%  317.52kB/s    0:00:00 (xfr#194, to-chk=585/933)
+Werk/RazorBit/Data/Opdrachten/Elektro van Goch/Navigatiestructuur.vsdx
+         32.77K  83%   65.31kB/s    0:00:00           39.41K 100%   78.55kB/s    0:00:00 (xfr#195, to-chk=584/933)
+Werk/RazorBit/Data/Opdrachten/Jac Nooijen/
+Werk/RazorBit/Data/Opdrachten/Jac Nooijen/Jac Nooyen.docx
+         12.16K 100%   24.24kB/s    0:00:00           12.16K 100%   24.24kB/s    0:00:00 (xfr#196, to-chk=583/933)
+Werk/RazorBit/Data/Opdrachten/Jac Nooijen/NooyenInfo.txt
+             99 100%    0.20kB/s    0:00:00               99 100%    0.20kB/s    0:00:00 (xfr#197, to-chk=582/933)
+Werk/RazorBit/Data/Opdrachten/Jac Nooijen/WP_20150413_20_43_59_Pro.jpg
+         32.77K   2%   64.52kB/s    0:00:18            1.21M 100%    2.27MB/s    0:00:00 (xfr#198, to-chk=581/933)
+Werk/RazorBit/Data/Opdrachten/Jolijn van Goch fotografie/
+Werk/RazorBit/Data/Opdrachten/Jolijn van Goch fotografie/gegevens.txt
+            266 100%    0.51kB/s    0:00:00              266 100%    0.51kB/s    0:00:00 (xfr#199, to-chk=580/933)
+Werk/RazorBit/Data/Opdrachten/Maasland Radio/
+Werk/RazorBit/Data/Opdrachten/Maasland Radio/ChrisTisWatVroeg_UC.png
+         32.77K  48%   62.99kB/s    0:00:00           67.33K 100%  129.43kB/s    0:00:00 (xfr#200, to-chk=579/933)
+Werk/RazorBit/Data/Opdrachten/Maasland Radio/Maasland_chris.docx
+         11.87K 100%   22.83kB/s    0:00:00           11.87K 100%   22.83kB/s    0:00:00 (xfr#201, to-chk=578/933)
+Werk/RazorBit/Data/Opdrachten/Maasland Radio/rodeknop.jpg
+          6.83K 100%   13.10kB/s    0:00:00            6.83K 100%   13.10kB/s    0:00:00 (xfr#202, to-chk=577/933)
+Werk/RazorBit/Data/Opdrachten/Maasland Radio/time.ly.txt
+             48 100%    0.09kB/s    0:00:00               48 100%    0.09kB/s    0:00:00 (xfr#203, to-chk=576/933)
+Werk/RazorBit/Data/Opdrachten/Maasland Radio/ChrisTisWatVroeg/
+Werk/RazorBit/Data/Opdrachten/Maasland Radio/ChrisTisWatVroeg/Aanpak.txt
+            118 100%    0.23kB/s    0:00:00              118 100%    0.23kB/s    0:00:00 (xfr#204, to-chk=574/933)
+Werk/RazorBit/Data/Opdrachten/Maasland Radio/ChrisTisWatVroeg/Background Audio Streamer Sample (3).zip
+         32.77K  40%   62.62kB/s    0:00:00           80.92K 100%  154.64kB/s    0:00:00 (xfr#205, to-chk=573/933)
+Werk/RazorBit/Data/Opdrachten/Maasland Radio/ChrisTisWatVroeg/ChrisTisWatVroeg_UC.dia
+          2.44K 100%    4.66kB/s    0:00:00            2.44K 100%    4.66kB/s    0:00:00 (xfr#206, to-chk=572/933)
+Werk/RazorBit/Data/Opdrachten/Maasland Radio/ChrisTisWatVroeg/ChrisTisWatVroeg_UC.png
+         32.77K  48%   62.50kB/s    0:00:00           67.33K 100%  128.42kB/s    0:00:00 (xfr#207, to-chk=571/933)
+Werk/RazorBit/Data/Opdrachten/Maasland Radio/ChrisTisWatVroeg/LiveStreamLink
+            265 100%    0.51kB/s    0:00:00              265 100%    0.50kB/s    0:00:00 (xfr#208, to-chk=570/933)
+Werk/RazorBit/Data/Opdrachten/Maasland Radio/ChrisTisWatVroeg/LiveStreamLink.dll
+            265 100%    0.50kB/s    0:00:00              265 100%    0.50kB/s    0:00:00 (xfr#209, to-chk=569/933)
+Werk/RazorBit/Data/Opdrachten/Maasland Radio/ChrisTisWatVroeg/Microsoft.PlayerFramework.vsix
+         32.77K   1%   61.78kB/s    0:00:29  
+          1.88M 100%    3.34MB/s    0:00:00 (xfr#210, to-chk=568/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/
+Werk/RazorBit/Data/Opdrachten/More2bFit/Aanpak.txt
+            469 100%    0.85kB/s    0:00:00              469 100%    0.85kB/s    0:00:00 (xfr#211, to-chk=567/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Connect to MySql.txt
+            374 100%    0.68kB/s    0:00:00              374 100%    0.68kB/s    0:00:00 (xfr#212, to-chk=566/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/ERD.PNG
+         22.02K 100%   39.90kB/s    0:00:00           22.02K 100%   39.90kB/s    0:00:00 (xfr#213, to-chk=565/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Logo.png
+          7.98K 100%   14.46kB/s    0:00:00            7.98K 100%   14.46kB/s    0:00:00 (xfr#214, to-chk=564/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Logo.xcf
+         19.56K 100%   35.43kB/s    0:00:00           19.56K 100%   35.43kB/s    0:00:00 (xfr#215, to-chk=563/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Query (Bart Kessels's conflicted copy 2015-03-19).txt
+          1.11K 100%    2.00kB/s    0:00:00            1.11K 100%    2.00kB/s    0:00:00 (xfr#216, to-chk=562/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Query.txt
+          1.10K 100%    1.99kB/s    0:00:00            1.10K 100%    1.99kB/s    0:00:00 (xfr#217, to-chk=561/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/db.txt
+             97 100%    0.18kB/s    0:00:00               97 100%    0.18kB/s    0:00:00 (xfr#218, to-chk=560/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/logo.ico
+         32.77K   8%   58.82kB/s    0:00:06          388.21K 100%  694.35kB/s    0:00:00 (xfr#219, to-chk=559/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/logo_256.png
+          4.86K 100%    8.67kB/s    0:00:00            4.86K 100%    8.67kB/s    0:00:00 (xfr#220, to-chk=558/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/logo_256.xcf
+         11.53K 100%   20.59kB/s    0:00:00           11.53K 100%   20.59kB/s    0:00:00 (xfr#221, to-chk=557/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/logo_512.png
+         10.18K 100%   18.14kB/s    0:00:00           10.18K 100%   18.14kB/s    0:00:00 (xfr#222, to-chk=556/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/logo_goede.ico
+         32.77K   8%   57.87kB/s    0:00:06          388.21K 100%  681.86kB/s    0:00:00 (xfr#223, to-chk=555/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/m2bf icon.ico
+         32.77K   8%   57.14kB/s    0:00:05          370.07K 100%  644.20kB/s    0:00:00 (xfr#224, to-chk=554/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/m2bf_db_250315.sql
+         18.64K 100%   32.39kB/s    0:00:00           18.64K 100%   32.39kB/s    0:00:00 (xfr#225, to-chk=553/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Laptop Programma/
+Werk/RazorBit/Data/Opdrachten/More2bFit/Laptop Programma/More2bfit-Laptop.exe
+         32.77K   1%   56.44kB/s    0:00:52            3.01M 100%    4.81MB/s    0:00:00 (xfr#226, to-chk=549/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Laptop Programma/MySql.Data.dll
+         32.77K   7%   53.16kB/s    0:00:07          456.19K 100%  737.58kB/s    0:00:00 (xfr#227, to-chk=548/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/PHP scripts/
+Werk/RazorBit/Data/Opdrachten/More2bFit/PHP scripts/check_appcode.php
+            622 100%    1.01kB/s    0:00:00              622 100%    1.01kB/s    0:00:00 (xfr#228, to-chk=547/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/PHP scripts/gl_add.php
+            540 100%    0.87kB/s    0:00:00              540 100%    0.87kB/s    0:00:00 (xfr#229, to-chk=546/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/PHP scripts/gl_remove.php
+
+            560 100%    0.90kB/s    0:00:00              560 100%    0.90kB/s    0:00:00 (xfr#230, to-chk=545/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/PHP scripts/groeplessen.php
+          1.24K 100%    1.98kB/s    0:00:00            1.24K 100%    1.98kB/s    0:00:00 (xfr#231, to-chk=544/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/PHP scripts/lid.php
+          1.42K 100%    2.27kB/s    0:00:00            1.42K 100%    2.27kB/s    0:00:00 (xfr#232, to-chk=543/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/PHP scripts/oefeningen.php
+          1.59K 100%    2.55kB/s    0:00:00            1.59K 100%    2.55kB/s    0:00:00 (xfr#233, to-chk=542/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/PHP scripts/set_appcode.php
+          1.07K 100%    1.71kB/s    0:00:00            1.07K 100%    1.71kB/s    0:00:00 (xfr#234, to-chk=541/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Standaard Schemas/
+Werk/RazorBit/Data/Opdrachten/More2bFit/Standaard Schemas/Full body training/
+Werk/RazorBit/Data/Opdrachten/More2bFit/Standaard Schemas/Full body training/Full body (algemeen, niveau 1).doc
+         32.77K  14%   52.29kB/s    0:00:03          230.91K 100%  367.86kB/s    0:00:00 (xfr#235, to-chk=537/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Standaard Schemas/Full body training/Full body training niveau 2.doc
+         32.77K   8%   51.78kB/s    0:00:07          403.46K 100%  635.48kB/s    0:00:00 (xfr#236, to-chk=536/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Standaard Schemas/Full body training/Full body training niveau 3.doc
+         32.77K  71%   51.53kB/s    0:00:00           45.57K 100%   71.66kB/s    0:00:00 (xfr#237, to-chk=535/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Standaard Schemas/Split schema 2 dagen/
+Werk/RazorBit/Data/Opdrachten/More2bFit/Standaard Schemas/Split schema 2 dagen/Dag 1 Borst-schouders-triceps.doc
+         32.77K  10%   51.12kB/s    0:00:05          315.90K 100%  492.03kB/s    0:00:00 (xfr#238, to-chk=534/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Standaard Schemas/Split schema 2 dagen/Dag 2 Rug-Biceps.doc
+         32.77K  18%   50.87kB/s    0:00:02          181.25K 100%  280.95kB/s    0:00:00 (xfr#239, to-chk=533/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Standaard Schemas/Split schema 3 dagen/
+Werk/RazorBit/Data/Opdrachten/More2bFit/Standaard Schemas/Split schema 3 dagen/Dag 1 Borst-schouders-triceps.doc
+         32.77K  10%   50.55kB/s    0:00:05          311.30K 100%  479.50kB/s    0:00:00 (xfr#240, to-chk=532/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Standaard Schemas/Split schema 3 dagen/Dag 2 rug-biceps.doc
+         32.77K  61%   50.39kB/s    0:00:00           53.25K 100%   81.89kB/s    0:00:00 (xfr#241, to-chk=531/933)
+Werk/RazorBit/Data/Opdrachten/More2bFit/Standaard Schemas/Split schema 3 dagen/Dag 3 benen-buik.docx
+         32.77K  30%   50.31kB/s    0:00:01          105.81K 100%  162.22kB/s    0:00:00 (xfr#242, to-chk=530/933)
+Werk/RazorBit/Data/Opdrachten/Venray/
+Werk/RazorBit/Data/Opdrachten/Venray/Bedrijven.txt
+             89 100%    0.14kB/s    0:00:00               89 100%    0.14kB/s    0:00:00 (xfr#243, to-chk=529/933)
+Werk/RazorBit/Data/Opdrachten/Venray/Berden Mode.docx
+         12.16K 100%   18.64kB/s    0:00:00           12.16K 100%   18.64kB/s    0:00:00 (xfr#244, to-chk=528/933)
+Werk/RazorBit/Data/Opdrachten/Venray/Kivits.docx
+         12.20K 100%   18.68kB/s    0:00:00           12.20K 100%   18.68kB/s    0:00:00 (xfr#245, to-chk=527/933)
+Werk/RazorBit/Data/Opdrachten/Venray/Schouwburg Venray.docx
+         12.20K 100%   18.67kB/s    0:00:00           12.20K 100%   18.67kB/s    0:00:00 (xfr#246, to-chk=526/933)
+Werk/RazorBit/Data/Opdrachten/Venray/Sport 2000.docx
+         12.25K 100%   18.72kB/s    0:00:00           12.25K 100%   18.72kB/s    0:00:00 (xfr#247, to-chk=525/933)
+Werk/RazorBit/Data/Opdrachten/Venray/The Phone House.docx
+         12.34K 100%   18.86kB/s    0:00:00           12.34K 100%   18.86kB/s    0:00:00 (xfr#248, to-chk=524/933)
+Werk/RazorBit/Data/Overige/
+Werk/RazorBit/Data/Overige/LOLOLOLOLOLOLOL.PNG
+         32.77K  45%   50.00kB/s    0:00:00           72.06K 100%  109.96kB/s    0:00:00 (xfr#249, to-chk=523/933)
+Werk/RazorBit/Data/Overige/LOLOLOOLOLOLOL2.PNG
+         32.77K  49%   49.92kB/s    0:00:00           65.94K 100%  100.30kB/s    0:00:00 (xfr#250, to-chk=522/933)
+Werk/RazorBit/Data/Overige/OverzichtKvK.pdf
+         32.77K  62%   49.77kB/s    0:00:00           52.49K 100%   79.72kB/s    0:00:00 (xfr#251, to-chk=521/933)
+Werk/RazorBit/Data/Overige/StickerVel_6x2.pub
+         32.77K  25%   49.69kB/s    0:00:01          129.02K 100%  195.35kB/s    0:00:00 (xfr#252, to-chk=520/933)
+Werk/RazorBit/Data/Producten/
+Werk/RazorBit/Data/Producten/MenuApp/
+Werk/RazorBit/Data/Producten/MenuApp/ERD.xmi
+         32.77K  80%   49.54kB/s    0:00:00           40.89K 100%   61.82kB/s    0:00:00 (xfr#253, to-chk=517/933)
+Werk/RazorBit/Data/Producten/myFitnessBuddy/
+Werk/RazorBit/Data/Producten/myFitnessBuddy/Banner.psd
+         32.77K   7%   49.23kB/s    0:00:08          436.91K 100%  654.41kB/s    0:00:00 (xfr#254, to-chk=516/933)
+Werk/RazorBit/Data/Producten/myFitnessBuddy/banner_img.png
+         32.77K  64%   48.93kB/s    0:00:00           50.54K 100%   75.47kB/s    0:00:00 (xfr#255, to-chk=515/933)
+Werk/RazorBit/Data/Producten/myFitnessBuddy/logo.psd
+         32.77K  18%   48.78kB/s    0:00:02          176.20K 100%  261.91kB/s    0:00:00 (xfr#256, to-chk=514/933)
+Werk/RazorBit/Data/Producten/myFitnessBuddy/mfblogo.png
+         32.77K  53%   48.63kB/s    0:00:00           61.82K 100%   91.75kB/s    0:00:00 (xfr#257, to-chk=513/933)
+Werk/RazorBit/Data/Producten/myFitnessBuddy/mfblogo_transparant.png
+         25.62K 100%   37.97kB/s    0:00:00           25.62K 100%   37.97kB/s    0:00:00 (xfr#258, to-chk=512/933)
+Werk/RazorBit/Data/Producten/myFitnessBuddy/mfblogo_transparant.xcf
+         32.77K  50%   48.48kB/s    0:00:00           65.49K 100%   96.90kB/s    0:00:00 (xfr#259, to-chk=511/933)
+Werk/RazorBit/Data/Producten/myFitnessBuddy/storelogo_mfblogo.png
+         20.08K 100%   29.66kB/s    0:00:00           20.08K 100%   29.66kB/s    0:00:00 (xfr#260, to-chk=510/933)
+Werk/RazorBit/Data/Project Documenten/
+Werk/RazorBit/Data/Project Documenten/Menu App.odt
+         32.77K   5%   48.05kB/s    0:00:10          547.25K 100%  798.83kB/s    0:00:00 (xfr#261, to-chk=509/933)
+Werk/RazorBit/Data/Project Documenten/Menu App.pdf
+         32.77K   5%   47.41kB/s    0:00:12  
+        641.93K 100%  911.18kB/s    0:00:00 (xfr#262, to-chk=508/933)
+Werk/RazorBit/Data/Support documentatie/
+Werk/RazorBit/Data/Support documentatie/ERD.xmi
+         32.77K  63%   46.44kB/s    0:00:00           51.60K 100%   73.14kB/s    0:00:00 (xfr#263, to-chk=507/933)
+Werk/RazorBit/Data/Support documentatie/Use case diagram.xmi
+         32.77K  44%   46.38kB/s    0:00:00           73.36K 100%  103.82kB/s    0:00:00 (xfr#264, to-chk=506/933)
+Werk/RazorBit/Data/Uitgaande Facturen/
+Werk/RazorBit/Data/Uitgaande Facturen/docx/
+Werk/RazorBit/Data/Uitgaande Facturen/docx/FAC0001 - E-vontuur Apple Dev Account.odt
+         24.77K 100%   35.01kB/s    0:00:00           24.77K 100%   35.01kB/s    0:00:00 (xfr#265, to-chk=503/933)
+Werk/RazorBit/Data/Uitgaande Facturen/docx/FAC0002 - E-vontuur SchoolBazaar App.odt
+         24.49K 100%   34.57kB/s    0:00:00           24.49K 100%   34.57kB/s    0:00:00 (xfr#266, to-chk=502/933)
+Werk/RazorBit/Data/Uitgaande Facturen/docx/FAC0003 - Van de Ligt.odt
+         26.35K 100%   37.18kB/s    0:00:00           26.35K 100%   37.18kB/s    0:00:00 (xfr#267, to-chk=501/933)
+Werk/RazorBit/Data/Uitgaande Facturen/docx/FAC000x - template.odt
+         24.65K 100%   34.74kB/s    0:00:00           24.65K 100%   34.74kB/s    0:00:00 (xfr#268, to-chk=500/933)
+Werk/RazorBit/Data/Uitgaande Facturen/pdf/
+Werk/RazorBit/Data/Uitgaande Facturen/pdf/FAC0001 - E-vontuur Apple Dev Account.pdf
+         32.77K  77%   46.11kB/s    0:00:00           42.40K 100%   59.66kB/s    0:00:00 (xfr#269, to-chk=499/933)
+Werk/RazorBit/Data/Uitgaande Facturen/pdf/FAC0002 - E-vontuur SchoolBazaar App.pdf
+         32.77K  85%   46.11kB/s    0:00:00           38.35K 100%   53.96kB/s    0:00:00 (xfr#270, to-chk=498/933)
+Werk/RazorBit/Data/Uitgaande Facturen/pdf/FAC0003 - Van de Ligt.pdf
+         32.77K  12%   45.91kB/s    0:00:05          264.00K 100%  369.36kB/s    0:00:00 (xfr#271, to-chk=497/933)
+Werk/RazorBit/Data/Uitgaande Offertes/
+Werk/RazorBit/Data/Uitgaande Offertes/PDF/
+Werk/RazorBit/Data/Uitgaande Offertes/PDF/Offerte 017.pdf
+         32.77K  76%   45.78kB/s    0:00:00           43.09K 100%   60.20kB/s    0:00:00 (xfr#272, to-chk=494/933)
+Werk/RazorBit/Data/Uitgaande Offertes/docx/
+Werk/RazorBit/Data/Uitgaande Offertes/docx/Offerte 017.odt
+         31.82K 100%   44.39kB/s    0:00:00           31.82K 100%   44.39kB/s    0:00:00 (xfr#273, to-chk=493/933)
+Werk/RazorBit/Data/Uitgaande mails/
+Werk/RazorBit/Data/Uitgaande mails/Mail LucIT.docx
+          4.72K 100%    6.58kB/s    0:00:00            4.72K 100%    6.58kB/s    0:00:00 (xfr#274, to-chk=492/933)
+Werk/RazorBit/Data/Uitgaande mails/Mail sportscholen.docx
+          9.88K 100%   13.77kB/s    0:00:00            9.88K 100%   13.77kB/s    0:00:00 (xfr#275, to-chk=491/933)
+Werk/RazorBit/Data/Uitgaande mails/Mails richting bedrijven Flyer.docx
+         10.25K 100%   14.28kB/s    0:00:00           10.25K 100%   14.28kB/s    0:00:00 (xfr#276, to-chk=490/933)
+Werk/RazorBit/Data/Website/
+Werk/RazorBit/Data/Website/OverOns.docx
+          4.46K 100%    6.21kB/s    0:00:00            4.46K 100%    6.21kB/s    0:00:00 (xfr#277, to-chk=489/933)
+Werk/RazorBit/Data/Website/Wat wij bieden.docx
+          4.85K 100%    6.75kB/s    0:00:00            4.85K 100%    6.75kB/s    0:00:00 (xfr#278, to-chk=488/933)
+Werk/RazorBit/HTML templates/
+Werk/RazorBit/HTML templates/signin.html
+            727 100%    1.01kB/s    0:00:00              727 100%    1.01kB/s    0:00:00 (xfr#279, to-chk=487/933)
+Werk/RazorBit/HTML templates/styles/
+Werk/RazorBit/HTML templates/styles/css/
+Werk/RazorBit/HTML templates/styles/css/signin.css
+            182 100%    0.25kB/s    0:00:00              182 100%    0.25kB/s    0:00:00 (xfr#280, to-chk=484/933)
+Werk/RazorBit/HTML templates/styles/css/signin.css.map
+            300 100%    0.42kB/s    0:00:00              300 100%    0.42kB/s    0:00:00 (xfr#281, to-chk=483/933)
+Werk/RazorBit/HTML templates/styles/css/scss/
+Werk/RazorBit/HTML templates/styles/css/scss/_page.scss
+             90 100%    0.13kB/s    0:00:00               90 100%    0.13kB/s    0:00:00 (xfr#282, to-chk=481/933)
+Werk/RazorBit/HTML templates/styles/css/scss/_variables.scss
+             23 100%    0.03kB/s    0:00:00               23 100%    0.03kB/s    0:00:00 (xfr#283, to-chk=480/933)
+Werk/RazorBit/HTML templates/styles/css/scss/signin.scss
+            368 100%    0.51kB/s    0:00:00              368 100%    0.51kB/s    0:00:00 (xfr#284, to-chk=479/933)
+Werk/RazorBit/Horeca systeem/
+Werk/RazorBit/Horeca systeem/index.php
+          3.96K 100%    5.50kB/s    0:00:00            3.96K 100%    5.50kB/s    0:00:00 (xfr#285, to-chk=478/933)
+Werk/RazorBit/Horeca systeem/classes/
+Werk/RazorBit/Horeca systeem/classes/authentication.class.php
+          7.95K 100%   11.02kB/s    0:00:00            7.95K 100%   11.02kB/s    0:00:00 (xfr#286, to-chk=472/933)
+Werk/RazorBit/Horeca systeem/html/
+Werk/RazorBit/Horeca systeem/html/company_login.php
+            424 100%    0.59kB/s    0:00:00              424 100%    0.59kB/s    0:00:00 (xfr#287, to-chk=471/933)
+Werk/RazorBit/Horeca systeem/html/employee_login.php
+            425 100%    0.59kB/s    0:00:00              425 100%    0.59kB/s    0:00:00 (xfr#288, to-chk=470/933)
+Werk/RazorBit/Horeca systeem/html/mainpage.php
+          4.30K 100%    5.95kB/s    0:00:00            4.30K 100%    5.95kB/s    0:00:00 (xfr#289, to-chk=469/933)
+Werk/RazorBit/Horeca systeem/html/open_orders.php
+            513 100%    0.71kB/s    0:00:00              513 100%    0.71kB/s    0:00:00 (xfr#290, to-chk=468/933)
+Werk/RazorBit/Horeca systeem/includes/
+Werk/RazorBit/Horeca systeem/includes/add_productorder.php
+          1.10K 100%    1.52kB/s    0:00:00            1.10K 100%    1.52kB/s    0:00:00 (xfr#291, to-chk=467/933)
+Werk/RazorBit/Horeca systeem/includes/add_tab.php
+            528 100%    0.73kB/s    0:00:00              528 100%    0.73kB/s    0:00:00 (xfr#292, to-chk=466/933)
+Werk/RazorBit/Horeca systeem/includes/database.php
+            502 100%    0.69kB/s    0:00:00              502 100%    0.69kB/s    0:00:00 (xfr#293, to-chk=465/933)
+Werk/RazorBit/Horeca systeem/includes/delete_tab.php
+            480 100%    0.66kB/s    0:00:00              480 100%    0.66kB/s    0:00:00 (xfr#294, to-chk=464/933)
+Werk/RazorBit/Horeca systeem/includes/edit_tab.php
+            603 100%    0.83kB/s    0:00:00              603 100%    0.83kB/s    0:00:00 (xfr#295, to-chk=463/933)
+Werk/RazorBit/Horeca systeem/includes/global.php
+            257 100%    0.36kB/s    0:00:00              257 100%    0.36kB/s    0:00:00 (xfr#296, to-chk=462/933)
+Werk/RazorBit/Horeca systeem/includes/load_billingoptions.php
+            733 100%    1.01kB/s    0:00:00              733 100%    1.01kB/s    0:00:00 (xfr#297, to-chk=461/933)
+Werk/RazorBit/Horeca systeem/includes/load_buttons.php
+          1.28K 100%    1.77kB/s    0:00:00            1.28K 100%    1.77kB/s    0:00:00 (xfr#298, to-chk=460/933)
+Werk/RazorBit/Horeca systeem/includes/load_open_orders.php
+          2.54K 100%    3.51kB/s    0:00:00            2.54K 100%    3.51kB/s    0:00:00 (xfr#299, to-chk=459/933)
+Werk/RazorBit/Horeca systeem/includes/load_tabs.php
+            994 100%    1.37kB/s    0:00:00              994 100%    1.37kB/s    0:00:00 (xfr#300, to-chk=458/933)
+Werk/RazorBit/Horeca systeem/includes/login.php
+          1.15K 100%    1.59kB/s    0:00:00            1.15K 100%    1.59kB/s    0:00:00 (xfr#301, to-chk=457/933)
+Werk/RazorBit/Horeca systeem/includes/logout.php
+            138 100%    0.19kB/s    0:00:00              138 100%    0.19kB/s    0:00:00 (xfr#302, to-chk=456/933)
+Werk/RazorBit/Horeca systeem/includes/payoff_tab.php
+          1.79K 100%    2.47kB/s    0:00:00            1.79K 100%    2.47kB/s    0:00:00 (xfr#303, to-chk=455/933)
+Werk/RazorBit/Horeca systeem/includes/remove_tab_product.php
+            938 100%    1.29kB/s    0:00:00              938 100%    1.29kB/s    0:00:00 (xfr#304, to-chk=454/933)
+Werk/RazorBit/Horeca systeem/includes/tab_products.php
+          3.79K 100%    5.22kB/s    0:00:00            3.79K 100%    5.22kB/s    0:00:00 (xfr#305, to-chk=453/933)
+Werk/RazorBit/Horeca systeem/manage/
+Werk/RazorBit/Horeca systeem/manage/index.php
+          3.58K 100%    4.93kB/s    0:00:00            3.58K 100%    4.93kB/s    0:00:00 (xfr#306, to-chk=452/933)
+Werk/RazorBit/Horeca systeem/manage/classes/
+Werk/RazorBit/Horeca systeem/manage/classes/authentication.class.php
+          8.59K 100%   11.83kB/s    0:00:00            8.59K 100%   11.83kB/s    0:00:00 (xfr#307, to-chk=447/933)
+Werk/RazorBit/Horeca systeem/manage/html/
+Werk/RazorBit/Horeca systeem/manage/html/add_user.php
+          1.04K 100%    1.43kB/s    0:00:00            1.04K 100%    1.43kB/s    0:00:00 (xfr#308, to-chk=446/933)
+Werk/RazorBit/Horeca systeem/manage/html/company_login.php
+            424 100%    0.58kB/s    0:00:00              424 100%    0.58kB/s    0:00:00 (xfr#309, to-chk=445/933)
+Werk/RazorBit/Horeca systeem/manage/html/employee_login.php
+            425 100%    0.58kB/s    0:00:00              425 100%    0.58kB/s    0:00:00 (xfr#310, to-chk=444/933)
+Werk/RazorBit/Horeca systeem/manage/html/main.php
+            551 100%    0.76kB/s    0:00:00              551 100%    0.76kB/s    0:00:00 (xfr#311, to-chk=443/933)
+Werk/RazorBit/Horeca systeem/manage/includes/
+Werk/RazorBit/Horeca systeem/manage/includes/add_user.php
+            427 100%    0.59kB/s    0:00:00              427 100%    0.59kB/s    0:00:00 (xfr#312, to-chk=442/933)
+Werk/RazorBit/Horeca systeem/manage/includes/database.php
+            502 100%    0.69kB/s    0:00:00              502 100%    0.69kB/s    0:00:00 (xfr#313, to-chk=441/933)
+Werk/RazorBit/Horeca systeem/manage/includes/global.php
+            253 100%    0.35kB/s    0:00:00              253 100%    0.35kB/s    0:00:00 (xfr#314, to-chk=440/933)
+Werk/RazorBit/Horeca systeem/manage/includes/load_roles.php
+            552 100%    0.76kB/s    0:00:00              552 100%    0.76kB/s    0:00:00 (xfr#315, to-chk=439/933)
+Werk/RazorBit/Horeca systeem/manage/includes/login.php
+          1.15K 100%    1.58kB/s    0:00:00            1.15K 100%    1.58kB/s    0:00:00 (xfr#316, to-chk=438/933)
+Werk/RazorBit/Horeca systeem/manage/includes/logout.php
+            138 100%    0.19kB/s    0:00:00              138 100%    0.19kB/s    0:00:00 (xfr#317, to-chk=437/933)
+Werk/RazorBit/Horeca systeem/manage/styles/
+Werk/RazorBit/Horeca systeem/manage/styles/css/
+Werk/RazorBit/Horeca systeem/manage/styles/css/master.css
+          2.58K 100%    3.54kB/s    0:00:00            2.58K 100%    3.54kB/s    0:00:00 (xfr#318, to-chk=434/933)
+Werk/RazorBit/Horeca systeem/manage/styles/scripts/
+Werk/RazorBit/Horeca systeem/manage/styles/scripts/add_user.js
+            760 100%    1.04kB/s    0:00:00              760 100%    1.04kB/s    0:00:00 (xfr#319, to-chk=433/933)
+Werk/RazorBit/Horeca systeem/manage/styles/scripts/login.js
+          1.36K 100%    1.86kB/s    0:00:00            1.36K 100%    1.86kB/s    0:00:00 (xfr#320, to-chk=432/933)
+Werk/RazorBit/Horeca systeem/styles/
+Werk/RazorBit/Horeca systeem/styles/css/
+Werk/RazorBit/Horeca systeem/styles/css/master.css
+          2.69K 100%    3.68kB/s    0:00:00            2.69K 100%    3.68kB/s    0:00:00 (xfr#321, to-chk=429/933)
+Werk/RazorBit/Horeca systeem/styles/scripts/
+Werk/RazorBit/Horeca systeem/styles/scripts/load_main.js
+          3.62K 100%    4.95kB/s    0:00:00            3.62K 100%    4.95kB/s    0:00:00 (xfr#322, to-chk=428/933)
+Werk/RazorBit/Horeca systeem/styles/scripts/login.js
+          1.37K 100%    1.87kB/s    0:00:00            1.37K 100%    1.87kB/s    0:00:00 (xfr#323, to-chk=427/933)
+Werk/RazorBit/Horeca systeem/styles/scripts/master.js
+            246 100%    0.34kB/s    0:00:00              246 100%    0.34kB/s    0:00:00 (xfr#324, to-chk=426/933)
+Werk/RazorBit/Horeca systeem/styles/scripts/productorder.js
+            271 100%    0.37kB/s    0:00:00              271 100%    0.37kB/s    0:00:00 (xfr#325, to-chk=425/933)
+Werk/RazorBit/Horeca systeem/styles/scripts/productorder.php
+            146 100%    0.20kB/s    0:00:00              146 100%    0.20kB/s    0:00:00 (xfr#326, to-chk=424/933)
+Werk/RazorBit/Horeca systeem/styles/scripts/sys_button.js
+            380 100%    0.52kB/s    0:00:00              380 100%    0.52kB/s    0:00:00 (xfr#327, to-chk=423/933)
+Werk/RazorBit/Horeca systeem/styles/scripts/sys_item.js
+          2.11K 100%    2.88kB/s    0:00:00            2.11K 100%    2.87kB/s    0:00:00 (xfr#328, to-chk=422/933)
+Werk/RazorBit/Horeca systeem/styles/scripts/sys_tab.js
+          6.94K 100%    9.45kB/s    0:00:00            6.94K 100%    9.45kB/s    0:00:00 (xfr#329, to-chk=421/933)
+Werk/RazorBit/Licensing website/
+Werk/RazorBit/Licensing website/Database inrichting.txt
+            558 100%    0.76kB/s    0:00:00              558 100%    0.76kB/s    0:00:00 (xfr#330, to-chk=420/933)
+Werk/RazorBit/Licensing website/ERD (niet af).odg
+         21.96K 100%   29.86kB/s    0:00:00           21.96K 100%   29.86kB/s    0:00:00 (xfr#331, to-chk=419/933)
+Werk/RazorBit/Licensing website/database.sql
+          1.35K 100%    1.84kB/s    0:00:00            1.35K 100%    1.84kB/s    0:00:00 (xfr#332, to-chk=418/933)
+Werk/RazorBit/Licensing website/website/
+Werk/RazorBit/Licensing website/website/index.php
+          1.35K 100%    1.84kB/s    0:00:00            1.35K 100%    1.84kB/s    0:00:00 (xfr#333, to-chk=416/933)
+Werk/RazorBit/Licensing website/website/controllers/
+Werk/RazorBit/Licensing website/website/controllers/admin_klant
+             45 100%    0.06kB/s    0:00:00               45 100%    0.06kB/s    0:00:00 (xfr#334, to-chk=410/933)
+Werk/RazorBit/Licensing website/website/controllers/admin_klant.php
+          4.70K 100%    6.38kB/s    0:00:00            4.70K 100%    6.38kB/s    0:00:00 (xfr#335, to-chk=409/933)
+Werk/RazorBit/Licensing website/website/controllers/home.php
+          1.15K 100%    1.57kB/s    0:00:00            1.15K 100%    1.57kB/s    0:00:00 (xfr#336, to-chk=408/933)
+Werk/RazorBit/Licensing website/website/controllers/homeController.php
+            650 100%    0.88kB/s    0:00:00              650 100%    0.88kB/s    0:00:00 (xfr#337, to-chk=407/933)
+Werk/RazorBit/Licensing website/website/controllers/login.php
+          1.83K 100%    2.48kB/s    0:00:00            1.83K 100%    2.48kB/s    0:00:00 (xfr#338, to-chk=406/933)
+Werk/RazorBit/Licensing website/website/includes/
+Werk/RazorBit/Licensing website/website/includes/bottom.html
+            101 100%    0.14kB/s    0:00:00              101 100%    0.14kB/s    0:00:00 (xfr#339, to-chk=405/933)
+Werk/RazorBit/Licensing website/website/includes/database.php
+            474 100%    0.64kB/s    0:00:00              474 100%    0.64kB/s    0:00:00 (xfr#340, to-chk=404/933)
+Werk/RazorBit/Licensing website/website/includes/requires.php
+             94 100%    0.13kB/s    0:00:00               94 100%    0.13kB/s    0:00:00 (xfr#341, to-chk=403/933)
+Werk/RazorBit/Licensing website/website/includes/top.html
+            735 100%    1.00kB/s    0:00:00              735 100%    1.00kB/s    0:00:00 (xfr#342, to-chk=402/933)
+Werk/RazorBit/Licensing website/website/models/
+Werk/RazorBit/Licensing website/website/models/invoice.php
+          1.05K 100%    1.42kB/s    0:00:00            1.05K 100%    1.42kB/s    0:00:00 (xfr#343, to-chk=401/933)
+Werk/RazorBit/Licensing website/website/models/product.php
+            792 100%    1.07kB/s    0:00:00              792 100%    1.07kB/s    0:00:00 (xfr#344, to-chk=400/933)
+Werk/RazorBit/Licensing website/website/styles/
+Werk/RazorBit/Licensing website/website/styles/css/
+Werk/RazorBit/Licensing website/website/styles/css/master.css
+          1.11K 100%    1.51kB/s    0:00:00            1.11K 100%    1.51kB/s    0:00:00 (xfr#345, to-chk=398/933)
+Werk/RazorBit/Licensing website/website/views/
+Werk/RazorBit/Licensing website/website/views/admin_klant.php
+            895 100%    1.21kB/s    0:00:00              895 100%    1.21kB/s    0:00:00 (xfr#346, to-chk=397/933)
+Werk/RazorBit/Licensing website/website/views/facturen.php
+            106 100%    0.14kB/s    0:00:00              106 100%    0.14kB/s    0:00:00 (xfr#347, to-chk=396/933)
+Werk/RazorBit/Licensing website/website/views/home.php
+          1.64K 100%    2.21kB/s    0:00:00            1.64K 100%    2.21kB/s    0:00:00 (xfr#348, to-chk=395/933)
+Werk/RazorBit/Licensing website/website/views/login.php
+            499 100%    0.67kB/s    0:00:00              499 100%    0.67kB/s    0:00:00 (xfr#349, to-chk=394/933)
+Werk/RazorBit/Licensing website/website/views/producten.php
+            109 100%    0.15kB/s    0:00:00              109 100%    0.15kB/s    0:00:00 (xfr#350, to-chk=393/933)
+Werk/RazorBit/Main website/
+Werk/RazorBit/Main website/404.html
+          3.86K 100%    5.21kB/s    0:00:00            3.86K 100%    5.21kB/s    0:00:00 (xfr#351, to-chk=392/933)
+Werk/RazorBit/Main website/favicon.ico
+         10.46K 100%   14.11kB/s    0:00:00           10.46K 100%   14.11kB/s    0:00:00 (xfr#352, to-chk=391/933)
+Werk/RazorBit/Main website/index.html
+         11.30K 100%   15.22kB/s    0:00:00           11.30K 100%   15.22kB/s    0:00:00 (xfr#353, to-chk=390/933)
+Werk/RazorBit/Main website/includes/
+Werk/RazorBit/Main website/includes/contact.php
+          1.16K 100%    1.57kB/s    0:00:00            1.16K 100%    1.57kB/s    0:00:00 (xfr#354, to-chk=387/933)
+Werk/RazorBit/Main website/styles/
+Werk/RazorBit/Main website/styles/css/
+Werk/RazorBit/Main website/styles/css/bootstrap.min.css
+         32.77K  26%   44.08kB/s    0:00:02          122.54K 100%  164.61kB/s    0:00:00 (xfr#355, to-chk=380/933)
+Werk/RazorBit/Main website/styles/css/font-awesome.css
+         28.75K 100%   38.56kB/s    0:00:00           28.75K 100%   38.56kB/s    0:00:00 (xfr#356, to-chk=379/933)
+Werk/RazorBit/Main website/styles/css/font-awesome.min.css
+         23.74K 100%   31.84kB/s    0:00:00           23.74K 100%   31.84kB/s    0:00:00 (xfr#357, to-chk=378/933)
+Werk/RazorBit/Main website/styles/css/master.css
+          4.79K 100%    6.43kB/s    0:00:00            4.79K 100%    6.42kB/s    0:00:00 (xfr#358, to-chk=377/933)
+Werk/RazorBit/Main website/styles/fonts/
+Werk/RazorBit/Main website/styles/fonts/FontAwesome.otf
+         32.77K  34%   43.84kB/s    0:00:01           93.89K 100%  125.60kB/s    0:00:00 (xfr#359, to-chk=376/933)
+Werk/RazorBit/Main website/styles/fonts/fontawesome-webfont.eot
+         32.77K  53%   43.78kB/s    0:00:00           60.77K 100%   81.18kB/s    0:00:00 (xfr#360, to-chk=375/933)
+Werk/RazorBit/Main website/styles/fonts/fontawesome-webfont.svg
+         32.77K  10%   43.54kB/s    0:00:06          313.40K 100%  415.83kB/s    0:00:00 (xfr#361, to-chk=374/933)
+Werk/RazorBit/Main website/styles/fonts/fontawesome-webfont.ttf
+         32.77K  26%   43.36kB/s    0:00:02          122.09K 100%  161.56kB/s    0:00:00 (xfr#362, to-chk=373/933)
+Werk/RazorBit/Main website/styles/fonts/fontawesome-webfont.woff
+         32.77K  45%   43.30kB/s    0:00:00           71.51K 100%   94.50kB/s    0:00:00 (xfr#363, to-chk=372/933)
+Werk/RazorBit/Main website/styles/fonts/fontawesome-webfont.woff2
+         32.77K  57%   43.24kB/s    0:00:00           56.78K 100%   74.93kB/s    0:00:00 (xfr#364, to-chk=371/933)
+Werk/RazorBit/Main website/styles/img/
+Werk/RazorBit/Main website/styles/img/big_background.png
+         32.77K  74%   43.18kB/s    0:00:00           43.85K 100%   57.79kB/s    0:00:00 (xfr#365, to-chk=370/933)
+Werk/RazorBit/Main website/styles/img/icon_apps.png
+          1.43K 100%    1.89kB/s    0:00:00            1.43K 100%    1.89kB/s    0:00:00 (xfr#366, to-chk=369/933)
+Werk/RazorBit/Main website/styles/img/icon_backend.png
+          2.69K 100%    3.54kB/s    0:00:00            2.69K 100%    3.54kB/s    0:00:00 (xfr#367, to-chk=368/933)
+Werk/RazorBit/Main website/styles/img/icon_support.png
+          1.96K 100%    2.57kB/s    0:00:00            1.96K 100%    2.57kB/s    0:00:00 (xfr#368, to-chk=367/933)
+Werk/RazorBit/Main website/styles/img/icon_website.png
+          1.87K 100%    2.47kB/s    0:00:00            1.87K 100%    2.47kB/s    0:00:00 (xfr#369, to-chk=366/933)
+Werk/RazorBit/Main website/styles/img/small_logo.png
+          2.50K 100%    3.28kB/s    0:00:00            2.50K 100%    3.28kB/s    0:00:00 (xfr#370, to-chk=365/933)
+Werk/RazorBit/Main website/styles/img/team_bart.png
+         32.77K  33%   43.01kB/s    0:00:01           98.07K 100%  128.73kB/s    0:00:00 (xfr#371, to-chk=364/933)
+Werk/RazorBit/Main website/styles/img/team_ties.png
+         32.77K  76%   42.95kB/s    0:00:00           43.05K 100%   56.44kB/s    0:00:00 (xfr#372, to-chk=363/933)
+Werk/RazorBit/Main website/styles/less/
+Werk/RazorBit/Main website/styles/less/animated.less
+            713 100%    0.93kB/s    0:00:00              713 100%    0.93kB/s    0:00:00 (xfr#373, to-chk=362/933)
+Werk/RazorBit/Main website/styles/less/bordered-pulled.less
+            330 100%    0.43kB/s    0:00:00              330 100%    0.43kB/s    0:00:00 (xfr#374, to-chk=361/933)
+Werk/RazorBit/Main website/styles/less/core.less
+            509 100%    0.67kB/s    0:00:00              509 100%    0.67kB/s    0:00:00 (xfr#375, to-chk=360/933)
+Werk/RazorBit/Main website/styles/less/fixed-width.less
+            119 100%    0.16kB/s    0:00:00              119 100%    0.16kB/s    0:00:00 (xfr#376, to-chk=359/933)
+Werk/RazorBit/Main website/styles/less/font-awesome.less
+            465 100%    0.61kB/s    0:00:00              465 100%    0.61kB/s    0:00:00 (xfr#377, to-chk=358/933)
+Werk/RazorBit/Main website/styles/less/icons.less
+         32.77K  87%   42.84kB/s    0:00:00           37.29K 100%   48.75kB/s    0:00:00 (xfr#378, to-chk=357/933)
+Werk/RazorBit/Main website/styles/less/larger.less
+            370 100%    0.48kB/s    0:00:00              370 100%    0.48kB/s    0:00:00 (xfr#379, to-chk=356/933)
+Werk/RazorBit/Main website/styles/less/list.less
+            377 100%    0.49kB/s    0:00:00              377 100%    0.49kB/s    0:00:00 (xfr#380, to-chk=355/933)
+Werk/RazorBit/Main website/styles/less/mixins.less
+            983 100%    1.28kB/s    0:00:00              983 100%    1.28kB/s    0:00:00 (xfr#381, to-chk=354/933)
+Werk/RazorBit/Main website/styles/less/path.less
+            770 100%    1.01kB/s    0:00:00              770 100%    1.01kB/s    0:00:00 (xfr#382, to-chk=353/933)
+Werk/RazorBit/Main website/styles/less/rotated-flipped.less
+            622 100%    0.81kB/s    0:00:00              622 100%    0.81kB/s    0:00:00 (xfr#383, to-chk=352/933)
+Werk/RazorBit/Main website/styles/less/stacked.less
+            476 100%    0.62kB/s    0:00:00              476 100%    0.62kB/s    0:00:00 (xfr#384, to-chk=351/933)
+Werk/RazorBit/Main website/styles/less/variables.less
+         16.79K 100%   21.89kB/s    0:00:00           16.79K 100%   21.89kB/s    0:00:00 (xfr#385, to-chk=350/933)
+Werk/RazorBit/Main website/styles/scripts/
+Werk/RazorBit/Main website/styles/scripts/bootstrap.min.js
+         32.77K  89%   42.67kB/s    0:00:00           36.82K 100%   47.94kB/s    0:00:00 (xfr#386, to-chk=349/933)
+Werk/RazorBit/Main website/styles/scripts/jquery-min.js
+         32.77K  38%   42.61kB/s    0:00:01           84.34K 100%  109.53kB/s    0:00:00 (xfr#387, to-chk=348/933)
+Werk/RazorBit/Main website/styles/scripts/master.js
+          2.99K 100%    3.89kB/s    0:00:00            2.99K 100%    3.89kB/s    0:00:00 (xfr#388, to-chk=347/933)
+Werk/RazorBit/Main website/styles/scss/
+Werk/RazorBit/Main website/styles/scss/_animated.scss
+            715 100%    0.93kB/s    0:00:00              715 100%    0.93kB/s    0:00:00 (xfr#389, to-chk=346/933)
+Werk/RazorBit/Main website/styles/scss/_bordered-pulled.scss
+            332 100%    0.43kB/s    0:00:00              332 100%    0.43kB/s    0:00:00 (xfr#390, to-chk=345/933)
+Werk/RazorBit/Main website/styles/scss/_core.scss
+            513 100%    0.67kB/s    0:00:00              513 100%    0.67kB/s    0:00:00 (xfr#391, to-chk=344/933)
+Werk/RazorBit/Main website/styles/scss/_fixed-width.scss
+            120 100%    0.16kB/s    0:00:00              120 100%    0.16kB/s    0:00:00 (xfr#392, to-chk=343/933)
+Werk/RazorBit/Main website/styles/scss/_icons.scss
+         32.77K  86%   42.44kB/s    0:00:00           37.88K 100%   49.07kB/s    0:00:00 (xfr#393, to-chk=342/933)
+Werk/RazorBit/Main website/styles/scss/_larger.scss
+            375 100%    0.49kB/s    0:00:00              375 100%    0.49kB/s    0:00:00 (xfr#394, to-chk=341/933)
+Werk/RazorBit/Main website/styles/scss/_list.scss
+            378 100%    0.49kB/s    0:00:00              378 100%    0.49kB/s    0:00:00 (xfr#395, to-chk=340/933)
+Werk/RazorBit/Main website/styles/scss/_mixins.scss
+          1.00K 100%    1.29kB/s    0:00:00            1.00K 100%    1.29kB/s    0:00:00 (xfr#396, to-chk=339/933)
+Werk/RazorBit/Main website/styles/scss/_path.scss
+            783 100%    1.01kB/s    0:00:00              783 100%    1.01kB/s    0:00:00 (xfr#397, to-chk=338/933)
+Werk/RazorBit/Main website/styles/scss/_rotated-flipped.scss
+            672 100%    0.87kB/s    0:00:00              672 100%    0.87kB/s    0:00:00 (xfr#398, to-chk=337/933)
+Werk/RazorBit/Main website/styles/scss/_stacked.scss
+            482 100%    0.62kB/s    0:00:00              482 100%    0.62kB/s    0:00:00 (xfr#399, to-chk=336/933)
+Werk/RazorBit/Main website/styles/scss/_variables.scss
+
+         16.86K 100%   21.78kB/s    0:00:00           16.86K 100%   21.78kB/s    0:00:00 (xfr#400, to-chk=335/933)
+Werk/RazorBit/Main website/styles/scss/font-awesome.scss
+            405 100%    0.52kB/s    0:00:00              405 100%    0.52kB/s    0:00:00 (xfr#401, to-chk=334/933)
+Werk/RazorBit/Push_oud/
+Werk/RazorBit/Push_oud/database.php
+          3.18K 100%    4.10kB/s    0:00:00            3.18K 100%    4.10kB/s    0:00:00 (xfr#402, to-chk=333/933)
+Werk/RazorBit/Push_oud/database.sql
+            435 100%    0.56kB/s    0:00:00              435 100%    0.56kB/s    0:00:00 (xfr#403, to-chk=332/933)
+Werk/RazorBit/Push_oud/index.php
+          5.46K 100%    7.03kB/s    0:00:00            5.46K 100%    7.03kB/s    0:00:00 (xfr#404, to-chk=331/933)
+Werk/RazorBit/Push_oud/send.php
+          2.18K 100%    2.80kB/s    0:00:00            2.18K 100%    2.80kB/s    0:00:00 (xfr#405, to-chk=330/933)
+Werk/RazorBit/Push_oud/tokens.php
+            663 100%    0.85kB/s    0:00:00              663 100%    0.85kB/s    0:00:00 (xfr#406, to-chk=329/933)
+Werk/RazorBit/Push_oud/unsaved document 1
+            382 100%    0.49kB/s    0:00:00              382 100%    0.49kB/s    0:00:00 (xfr#407, to-chk=328/933)
+Werk/RazorBit/Push_oud/styles/
+Werk/RazorBit/Push_oud/styles/css/
+Werk/RazorBit/Push_oud/styles/css/bootstrap.min.css
+         32.77K  26%   42.05kB/s    0:00:02          122.54K 100%  157.25kB/s    0:00:00 (xfr#408, to-chk=320/933)
+Werk/RazorBit/Push_oud/styles/css/font-awesome.css
+         28.75K 100%   36.89kB/s    0:00:00           28.75K 100%   36.84kB/s    0:00:00 (xfr#409, to-chk=319/933)
+Werk/RazorBit/Push_oud/styles/css/font-awesome.min.css
+         23.74K 100%   30.42kB/s    0:00:00           23.74K 100%   30.42kB/s    0:00:00 (xfr#410, to-chk=318/933)
+Werk/RazorBit/Push_oud/styles/css/master.css
+          1.88K 100%    2.41kB/s    0:00:00            1.88K 100%    2.41kB/s    0:00:00 (xfr#411, to-chk=317/933)
+Werk/RazorBit/Push_oud/styles/fonts/
+Werk/RazorBit/Push_oud/styles/fonts/FontAwesome.otf
+         32.77K  34%   41.88kB/s    0:00:01           93.89K 100%  120.01kB/s    0:00:00 (xfr#412, to-chk=316/933)
+Werk/RazorBit/Push_oud/styles/fonts/fontawesome-webfont.eot
+         32.77K  53%   41.83kB/s    0:00:00           60.77K 100%   77.47kB/s    0:00:00 (xfr#413, to-chk=315/933)
+Werk/RazorBit/Push_oud/styles/fonts/fontawesome-webfont.svg
+         32.77K  10%   41.61kB/s    0:00:06          313.40K 100%  397.47kB/s    0:00:00 (xfr#414, to-chk=314/933)
+Werk/RazorBit/Push_oud/styles/fonts/fontawesome-webfont.ttf
+         32.77K  26%   41.50kB/s    0:00:02          122.09K 100%  154.44kB/s    0:00:00 (xfr#415, to-chk=313/933)
+Werk/RazorBit/Push_oud/styles/fonts/fontawesome-webfont.woff
+         32.77K  45%   41.40kB/s    0:00:00           71.51K 100%   90.34kB/s    0:00:00 (xfr#416, to-chk=312/933)
+Werk/RazorBit/Push_oud/styles/fonts/fontawesome-webfont.woff2
+         32.77K  57%   41.34kB/s    0:00:00           56.78K 100%   71.64kB/s    0:00:00 (xfr#417, to-chk=311/933)
+Werk/RazorBit/Push_oud/styles/img/
+Werk/RazorBit/Push_oud/styles/img/big_background.png
+         32.77K  74%   41.29kB/s    0:00:00           43.85K 100%   55.25kB/s    0:00:00 (xfr#418, to-chk=310/933)
+Werk/RazorBit/Push_oud/styles/img/icon_apps.png
+          1.43K 100%    1.81kB/s    0:00:00            1.43K 100%    1.81kB/s    0:00:00 (xfr#419, to-chk=309/933)
+Werk/RazorBit/Push_oud/styles/img/icon_backend.png
+          2.69K 100%    3.38kB/s    0:00:00            2.69K 100%    3.38kB/s    0:00:00 (xfr#420, to-chk=308/933)
+Werk/RazorBit/Push_oud/styles/img/icon_support.png
+          1.96K 100%    2.46kB/s    0:00:00            1.96K 100%    2.46kB/s    0:00:00 (xfr#421, to-chk=307/933)
+Werk/RazorBit/Push_oud/styles/img/icon_website.png
+          1.87K 100%    2.36kB/s    0:00:00            1.87K 100%    2.36kB/s    0:00:00 (xfr#422, to-chk=306/933)
+Werk/RazorBit/Push_oud/styles/img/small_logo.png
+          2.50K 100%    3.14kB/s    0:00:00            2.50K 100%    3.14kB/s    0:00:00 (xfr#423, to-chk=305/933)
+Werk/RazorBit/Push_oud/styles/img/team_bart.png
+         32.77K  33%   41.13kB/s    0:00:01           98.07K 100%  122.94kB/s    0:00:00 (xfr#424, to-chk=304/933)
+Werk/RazorBit/Push_oud/styles/img/team_ties.png
+         32.77K  76%   41.08kB/s    0:00:00           43.05K 100%   53.97kB/s    0:00:00 (xfr#425, to-chk=303/933)
+Werk/RazorBit/Push_oud/styles/less/
+Werk/RazorBit/Push_oud/styles/less/animated.less
+            713 100%    0.89kB/s    0:00:00              713 100%    0.89kB/s    0:00:00 (xfr#426, to-chk=302/933)
+Werk/RazorBit/Push_oud/styles/less/bordered-pulled.less
+            330 100%    0.41kB/s    0:00:00              330 100%    0.41kB/s    0:00:00 (xfr#427, to-chk=301/933)
+Werk/RazorBit/Push_oud/styles/less/core.less
+            509 100%    0.64kB/s    0:00:00              509 100%    0.64kB/s    0:00:00 (xfr#428, to-chk=300/933)
+Werk/RazorBit/Push_oud/styles/less/fixed-width.less
+            119 100%    0.15kB/s    0:00:00              119 100%    0.15kB/s    0:00:00 (xfr#429, to-chk=299/933)
+Werk/RazorBit/Push_oud/styles/less/font-awesome.less
+            465 100%    0.58kB/s    0:00:00              465 100%    0.58kB/s    0:00:00 (xfr#430, to-chk=298/933)
+Werk/RazorBit/Push_oud/styles/less/icons.less
+         32.77K  87%   40.97kB/s    0:00:00           37.29K 100%   46.57kB/s    0:00:00 (xfr#431, to-chk=297/933)
+Werk/RazorBit/Push_oud/styles/less/larger.less
+            370 100%    0.46kB/s    0:00:00              370 100%    0.46kB/s    0:00:00 (xfr#432, to-chk=296/933)
+Werk/RazorBit/Push_oud/styles/less/list.less
+            377 100%    0.47kB/s    0:00:00              377 100%    0.47kB/s    0:00:00 (xfr#433, to-chk=295/933)
+Werk/RazorBit/Push_oud/styles/less/mixins.less
+            983 100%    1.23kB/s    0:00:00              983 100%    1.23kB/s    0:00:00 (xfr#434, to-chk=294/933)
+Werk/RazorBit/Push_oud/styles/less/path.less
+            770 100%    0.96kB/s    0:00:00              770 100%    0.96kB/s    0:00:00 (xfr#435, to-chk=293/933)
+Werk/RazorBit/Push_oud/styles/less/rotated-flipped.less
+            622 100%    0.78kB/s    0:00:00              622 100%    0.78kB/s    0:00:00 (xfr#436, to-chk=292/933)
+Werk/RazorBit/Push_oud/styles/less/stacked.less
+            476 100%    0.59kB/s    0:00:00              476 100%    0.59kB/s    0:00:00 (xfr#437, to-chk=291/933)
+Werk/RazorBit/Push_oud/styles/less/variables.less
+         16.79K 100%   20.92kB/s    0:00:00           16.79K 100%   20.92kB/s    0:00:00 (xfr#438, to-chk=290/933)
+Werk/RazorBit/Push_oud/styles/scripts/
+Werk/RazorBit/Push_oud/styles/scripts/bootstrap.min.js
+         32.77K  89%   40.76kB/s    0:00:00           36.82K 100%   45.80kB/s    0:00:00 (xfr#439, to-chk=289/933)
+Werk/RazorBit/Push_oud/styles/scripts/jquery-min.js
+         32.77K  38%   40.71kB/s    0:00:01           84.34K 100%  104.66kB/s    0:00:00 (xfr#440, to-chk=288/933)
+Werk/RazorBit/Push_oud/styles/scripts/master.js
+          2.43K 100%    3.01kB/s    0:00:00            2.43K 100%    3.01kB/s    0:00:00 (xfr#441, to-chk=287/933)
+Werk/RazorBit/Push_oud/styles/scss/
+Werk/RazorBit/Push_oud/styles/scss/_animated.scss
+            715 100%    0.89kB/s    0:00:00              715 100%    0.89kB/s    0:00:00 (xfr#442, to-chk=286/933)
+Werk/RazorBit/Push_oud/styles/scss/_bordered-pulled.scss
+            332 100%    0.41kB/s    0:00:00              332 100%    0.41kB/s    0:00:00 (xfr#443, to-chk=285/933)
+Werk/RazorBit/Push_oud/styles/scss/_core.scss
+            513 100%    0.64kB/s    0:00:00              513 100%    0.64kB/s    0:00:00 (xfr#444, to-chk=284/933)
+Werk/RazorBit/Push_oud/styles/scss/_fixed-width.scss
+            120 100%    0.15kB/s    0:00:00              120 100%    0.15kB/s    0:00:00 (xfr#445, to-chk=283/933)
+Werk/RazorBit/Push_oud/styles/scss/_icons.scss
+         32.77K  86%   40.56kB/s    0:00:00           37.88K 100%   46.89kB/s    0:00:00 (xfr#446, to-chk=282/933)
+Werk/RazorBit/Push_oud/styles/scss/_larger.scss
+            375 100%    0.46kB/s    0:00:00              375 100%    0.46kB/s    0:00:00 (xfr#447, to-chk=281/933)
+Werk/RazorBit/Push_oud/styles/scss/_list.scss
+            378 100%    0.47kB/s    0:00:00              378 100%    0.47kB/s    0:00:00 (xfr#448, to-chk=280/933)
+Werk/RazorBit/Push_oud/styles/scss/_mixins.scss
+          1.00K 100%    1.24kB/s    0:00:00            1.00K 100%    1.24kB/s    0:00:00 (xfr#449, to-chk=279/933)
+Werk/RazorBit/Push_oud/styles/scss/_path.scss
+            783 100%    0.97kB/s    0:00:00              783 100%    0.97kB/s    0:00:00 (xfr#450, to-chk=278/933)
+Werk/RazorBit/Push_oud/styles/scss/_rotated-flipped.scss
+            672 100%    0.83kB/s    0:00:00              672 100%    0.83kB/s    0:00:00 (xfr#451, to-chk=277/933)
+Werk/RazorBit/Push_oud/styles/scss/_stacked.scss
+            482 100%    0.60kB/s    0:00:00              482 100%    0.60kB/s    0:00:00 (xfr#452, to-chk=276/933)
+Werk/RazorBit/Push_oud/styles/scss/_variables.scss
+         16.86K 100%   20.82kB/s    0:00:00           16.86K 100%   20.82kB/s    0:00:00 (xfr#453, to-chk=275/933)
+Werk/RazorBit/Push_oud/styles/scss/font-awesome.scss
+            405 100%    0.50kB/s    0:00:00              405 100%    0.50kB/s    0:00:00 (xfr#454, to-chk=274/933)
+Werk/RazorBit/Uren registratie website/
+Werk/RazorBit/Uren registratie website/Use cases.txt
+          1.41K 100%    1.73kB/s    0:00:00            1.41K 100%    1.73kB/s    0:00:00 (xfr#455, to-chk=273/933)
+Werk/RazorBit/Uren registratie website/api.odt
+         15.00K 100%   18.48kB/s    0:00:00           15.00K 100%   18.48kB/s    0:00:00 (xfr#456, to-chk=272/933)
+Werk/RazorBit/Uren registratie website/database.sql
+          4.71K 100%    5.80kB/s    0:00:00            4.71K 100%    5.80kB/s    0:00:00 (xfr#457, to-chk=271/933)
+Werk/RazorBit/Uren registratie website/database.txt
+          1.37K 100%    1.69kB/s    0:00:00            1.37K 100%    1.69kB/s    0:00:00 (xfr#458, to-chk=270/933)
+Werk/RazorBit/Uren registratie website/api/
+Werk/RazorBit/Uren registratie website/api/api.php
+          1.25K 100%    1.54kB/s    0:00:00            1.25K 100%    1.54kB/s    0:00:00 (xfr#459, to-chk=266/933)
+Werk/RazorBit/Uren registratie website/api/application/
+Werk/RazorBit/Uren registratie website/api/application/app_1.0.php
+             86 100%    0.11kB/s    0:00:00               86 100%    0.11kB/s    0:00:00 (xfr#460, to-chk=264/933)
+Werk/RazorBit/Uren registratie website/api/application/web_1.0.php
+          3.73K 100%    4.59kB/s    0:00:00            3.73K 100%    4.59kB/s    0:00:00 (xfr#461, to-chk=263/933)
+Werk/RazorBit/Uren registratie website/cron_jobs/
+Werk/RazorBit/Uren registratie website/cron_jobs/lock_out.php
+          2.02K 100%    2.48kB/s    0:00:00            2.02K 100%    2.48kB/s    0:00:00 (xfr#462, to-chk=262/933)
+Werk/RazorBit/Uren registratie website/require/
+Werk/RazorBit/Uren registratie website/require/db.php
+          1.77K 100%    2.18kB/s    0:00:00            1.77K 100%    2.18kB/s    0:00:00 (xfr#463, to-chk=261/933)
+Werk/RazorBit/app-status/
+Werk/RazorBit/app-status/applicatie-details.php
+          5.37K 100%    6.60kB/s    0:00:00            5.37K 100%    6.60kB/s    0:00:00 (xfr#464, to-chk=260/933)
+Werk/RazorBit/app-status/applicaties.php
+          2.44K 100%    2.99kB/s    0:00:00            2.44K 100%    2.99kB/s    0:00:00 (xfr#465, to-chk=259/933)
+Werk/RazorBit/app-status/bug-rapporteren.php
+          3.14K 100%    3.85kB/s    0:00:00            3.14K 100%    3.85kB/s    0:00:00 (xfr#466, to-chk=258/933)
+Werk/RazorBit/app-status/bug.php
+          2.56K 100%    3.14kB/s    0:00:00            2.56K 100%    3.14kB/s    0:00:00 (xfr#467, to-chk=257/933)
+Werk/RazorBit/app-status/database.sql
+          4.39K 100%    5.38kB/s    0:00:00            4.39K 100%    5.38kB/s    0:00:00 (xfr#468, to-chk=256/933)
+Werk/RazorBit/app-status/dev-applicatie-details.php
+          3.45K 100%    4.23kB/s    0:00:00            3.45K 100%    4.23kB/s    0:00:00 (xfr#469, to-chk=255/933)
+Werk/RazorBit/app-status/dev-applicatie-toevoegen.php
+          1.84K 100%    2.25kB/s    0:00:00            1.84K 100%    2.25kB/s    0:00:00 (xfr#470, to-chk=254/933)
+Werk/RazorBit/app-status/dev-bug.php
+          7.28K 100%    8.91kB/s    0:00:00            7.28K 100%    8.91kB/s    0:00:00 (xfr#471, to-chk=253/933)
+Werk/RazorBit/app-status/dev-bugs.php
+          7.52K 100%    9.21kB/s    0:00:00            7.52K 100%    9.21kB/s    0:00:00 (xfr#472, to-chk=252/933)
+Werk/RazorBit/app-status/dev-gegevens.php
+          2.61K 100%    3.19kB/s    0:00:00            2.61K 100%    3.19kB/s    0:00:00 (xfr#473, to-chk=251/933)
+Werk/RazorBit/app-status/dev-klant-toevoegen.php
+          2.05K 100%    2.51kB/s    0:00:00            2.05K 100%    2.51kB/s    0:00:00 (xfr#474, to-chk=250/933)
+Werk/RazorBit/app-status/dev-klant.php
+          3.45K 100%    4.22kB/s    0:00:00            3.45K 100%    4.22kB/s    0:00:00 (xfr#475, to-chk=249/933)
+Werk/RazorBit/app-status/dev-klanten.php
+          1.14K 100%    1.39kB/s    0:00:00            1.14K 100%    1.39kB/s    0:00:00 (xfr#476, to-chk=248/933)
+Werk/RazorBit/app-status/dev-ontwikkelaar-toevoegen.php
+          2.37K 100%    2.89kB/s    0:00:00            2.37K 100%    2.89kB/s    0:00:00 (xfr#477, to-chk=247/933)
+Werk/RazorBit/app-status/dev-ontwikkelaar.php
+          2.87K 100%    3.50kB/s    0:00:00            2.87K 100%    3.50kB/s    0:00:00 (xfr#478, to-chk=246/933)
+Werk/RazorBit/app-status/dev-ontwikkelaars.php
+          1.06K 100%    1.30kB/s    0:00:00            1.06K 100%    1.30kB/s    0:00:00 (xfr#479, to-chk=245/933)
+Werk/RazorBit/app-status/dev-sprint-toevoegen.php
+          2.72K 100%    3.32kB/s    0:00:00            2.72K 100%    3.32kB/s    0:00:00 (xfr#480, to-chk=244/933)
+Werk/RazorBit/app-status/dev-sprint.php
+          6.99K 100%    8.52kB/s    0:00:00            6.99K 100%    8.52kB/s    0:00:00 (xfr#481, to-chk=243/933)
+Werk/RazorBit/app-status/dev-sprints.php
+          7.73K 100%    9.42kB/s    0:00:00            7.73K 100%    9.42kB/s    0:00:00 (xfr#482, to-chk=242/933)
+Werk/RazorBit/app-status/dev-wachtwoord-wijzigen.php
+          1.57K 100%    1.91kB/s    0:00:00            1.57K 100%    1.91kB/s    0:00:00 (xfr#483, to-chk=241/933)
+Werk/RazorBit/app-status/developer-details.php
+          1.67K 100%    2.03kB/s    0:00:00            1.67K 100%    2.03kB/s    0:00:00 (xfr#484, to-chk=240/933)
+Werk/RazorBit/app-status/index.php
+          1.71K 100%    2.09kB/s    0:00:00            1.71K 100%    2.09kB/s    0:00:00 (xfr#485, to-chk=239/933)
+Werk/RazorBit/app-status/sprint.php
+          2.42K 100%    2.95kB/s    0:00:00            2.42K 100%    2.95kB/s    0:00:00 (xfr#486, to-chk=238/933)
+Werk/RazorBit/app-status/wachtwoord-reset.php
+          2.60K 100%    3.17kB/s    0:00:00            2.60K 100%    3.17kB/s    0:00:00 (xfr#487, to-chk=237/933)
+Werk/RazorBit/app-status/wachtwoord-vergeten.php
+            934 100%    1.14kB/s    0:00:00              934 100%    1.14kB/s    0:00:00 (xfr#488, to-chk=236/933)
+Werk/RazorBit/app-status/wachtwoord-wijzigen.php
+          1.37K 100%    1.66kB/s    0:00:00            1.37K 100%    1.66kB/s    0:00:00 (xfr#489, to-chk=235/933)
+Werk/RazorBit/app-status/werkgever-gegevens.php
+          2.35K 100%    2.86kB/s    0:00:00            2.35K 100%    2.86kB/s    0:00:00 (xfr#490, to-chk=234/933)
+Werk/RazorBit/app-status/classes/
+Werk/RazorBit/app-status/classes/application.class.php
+          3.02K 100%    3.68kB/s    0:00:00            3.02K 100%    3.68kB/s    0:00:00 (xfr#491, to-chk=229/933)
+Werk/RazorBit/app-status/classes/bug.class.php
+          4.65K 100%    5.65kB/s    0:00:00            4.65K 100%    5.65kB/s    0:00:00 (xfr#492, to-chk=228/933)
+Werk/RazorBit/app-status/classes/developer.class.php
+          1.96K 100%    2.38kB/s    0:00:00            1.96K 100%    2.38kB/s    0:00:00 (xfr#493, to-chk=227/933)
+Werk/RazorBit/app-status/classes/employer.class.php
+          3.33K 100%    4.04kB/s    0:00:00            3.33K 100%    4.04kB/s    0:00:00 (xfr#494, to-chk=226/933)
+Werk/RazorBit/app-status/classes/platform.class.php
+          1.21K 100%    1.46kB/s    0:00:00            1.21K 100%    1.46kB/s    0:00:00 (xfr#495, to-chk=225/933)
+Werk/RazorBit/app-status/classes/sprint.class.php
+          4.57K 100%    5.55kB/s    0:00:00            4.57K 100%    5.55kB/s    0:00:00 (xfr#496, to-chk=224/933)
+Werk/RazorBit/app-status/classes/status.class.php
+          1.21K 100%    1.46kB/s    0:00:00            1.21K 100%    1.46kB/s    0:00:00 (xfr#497, to-chk=223/933)
+Werk/RazorBit/app-status/html/
+Werk/RazorBit/app-status/html/bottom-page.php
+          1.53K 100%    1.85kB/s    0:00:00            1.53K 100%    1.85kB/s    0:00:00 (xfr#498, to-chk=222/933)
+Werk/RazorBit/app-status/html/top-page.php
+          4.95K 100%    6.00kB/s    0:00:00            4.95K 100%    6.00kB/s    0:00:00 (xfr#499, to-chk=221/933)
+Werk/RazorBit/app-status/required/
+Werk/RazorBit/app-status/required/authentication.php
+         31.79K 100%   38.51kB/s    0:00:00           31.79K 100%   38.51kB/s    0:00:00 (xfr#500, to-chk=220/933)
+Werk/RazorBit/app-status/required/config.php
+             98 100%    0.12kB/s    0:00:00               98 100%    0.12kB/s    0:00:00 (xfr#501, to-chk=219/933)
+Werk/RazorBit/app-status/required/core.php
+          4.39K 100%    5.32kB/s    0:00:00            4.39K 100%    5.32kB/s    0:00:00 (xfr#502, to-chk=218/933)
+Werk/RazorBit/app-status/required/database.php
+         27.06K 100%   32.74kB/s    0:00:00           27.06K 100%   32.74kB/s    0:00:00 (xfr#503, to-chk=217/933)
+Werk/RazorBit/app-status/required/init.php
+          1.02K 100%    1.24kB/s    0:00:00            1.02K 100%    1.24kB/s    0:00:00 (xfr#504, to-chk=216/933)
+Werk/RazorBit/app-status/required/controls/
+Werk/RazorBit/app-status/required/controls/application/
+Werk/RazorBit/app-status/required/controls/application/dev-add-application.php
+          1.79K 100%    2.17kB/s    0:00:00            1.79K 100%    2.17kB/s    0:00:00 (xfr#505, to-chk=208/933)
+Werk/RazorBit/app-status/required/controls/application/dev-delete-application.php
+            961 100%    1.16kB/s    0:00:00              961 100%    1.16kB/s    0:00:00 (xfr#506, to-chk=207/933)
+Werk/RazorBit/app-status/required/controls/application/dev-save-application.php
+          2.40K 100%    2.90kB/s    0:00:00            2.40K 100%    2.90kB/s    0:00:00 (xfr#507, to-chk=206/933)
+Werk/RazorBit/app-status/required/controls/bug/
+Werk/RazorBit/app-status/required/controls/bug/dev-delete-bug.php
+            854 100%    1.03kB/s    0:00:00              854 100%    1.03kB/s    0:00:00 (xfr#508, to-chk=205/933)
+Werk/RazorBit/app-status/required/controls/bug/dev-edit-bug.php
+          3.03K 100%    3.66kB/s    0:00:00            3.03K 100%    3.66kB/s    0:00:00 (xfr#509, to-chk=204/933)
+Werk/RazorBit/app-status/required/controls/bug/report-bug.php
+          1.86K 100%    2.25kB/s    0:00:00            1.86K 100%    2.25kB/s    0:00:00 (xfr#510, to-chk=203/933)
+Werk/RazorBit/app-status/required/controls/developer/
+Werk/RazorBit/app-status/required/controls/developer/dev-add-developer.php
+          3.14K 100%    3.79kB/s    0:00:00            3.14K 100%    3.79kB/s    0:00:00 (xfr#511, to-chk=202/933)
+Werk/RazorBit/app-status/required/controls/developer/dev-change-developer-password.php
+          1.83K 100%    2.21kB/s    0:00:00            1.83K 100%    2.21kB/s    0:00:00 (xfr#512, to-chk=201/933)
+Werk/RazorBit/app-status/required/controls/developer/dev-delete-developer.php
+            916 100%    1.11kB/s    0:00:00              916 100%    1.11kB/s    0:00:00 (xfr#513, to-chk=200/933)
+Werk/RazorBit/app-status/required/controls/developer/dev-edit-developer.php
+          2.79K 100%    3.36kB/s    0:00:00            2.79K 100%    3.36kB/s    0:00:00 (xfr#514, to-chk=199/933)
+Werk/RazorBit/app-status/required/controls/developer/dev-edit-other-developer.php
+          2.84K 100%    3.42kB/s    0:00:00            2.84K 100%    3.42kB/s    0:00:00 (xfr#515, to-chk=198/933)
+Werk/RazorBit/app-status/required/controls/employer/
+Werk/RazorBit/app-status/required/controls/employer/change-password.php
+          1.81K 100%    2.19kB/s    0:00:00            1.81K 100%    2.19kB/s    0:00:00 (xfr#516, to-chk=197/933)
+Werk/RazorBit/app-status/required/controls/employer/dev-add-employer.php
+          2.39K 100%    2.88kB/s    0:00:00            2.39K 100%    2.88kB/s    0:00:00 (xfr#517, to-chk=196/933)
+Werk/RazorBit/app-status/required/controls/employer/dev-delete-employer.php
+            930 100%    1.12kB/s    0:00:00              930 100%    1.12kB/s    0:00:00 (xfr#518, to-chk=195/933)
+Werk/RazorBit/app-status/required/controls/employer/dev-edit-employer.php
+          2.40K 100%    2.89kB/s    0:00:00            2.40K 100%    2.89kB/s    0:00:00 (xfr#519, to-chk=194/933)
+Werk/RazorBit/app-status/required/controls/employer/dev-reset-password.php
+          1.13K 100%    1.36kB/s    0:00:00            1.13K 100%    1.36kB/s    0:00:00 (xfr#520, to-chk=193/933)
+Werk/RazorBit/app-status/required/controls/employer/edit-employer.php
+          3.19K 100%    3.84kB/s    0:00:00            3.19K 100%    3.84kB/s    0:00:00 (xfr#521, to-chk=192/933)
+Werk/RazorBit/app-status/required/controls/employer/forgot-password.php
+            856 100%    1.03kB/s    0:00:00              856 100%    1.03kB/s    0:00:00 (xfr#522, to-chk=191/933)
+Werk/RazorBit/app-status/required/controls/employer/reset-password.php
+          1.56K 100%    1.88kB/s    0:00:00            1.56K 100%    1.88kB/s    0:00:00 (xfr#523, to-chk=190/933)
+Werk/RazorBit/app-status/required/controls/index/
+Werk/RazorBit/app-status/required/controls/index/login.php
+            907 100%    1.09kB/s    0:00:00              907 100%    1.09kB/s    0:00:00 (xfr#524, to-chk=189/933)
+Werk/RazorBit/app-status/required/controls/index/signout.php
+            110 100%    0.13kB/s    0:00:00              110 100%    0.13kB/s    0:00:00 (xfr#525, to-chk=188/933)
+Werk/RazorBit/app-status/required/controls/sprint/
+Werk/RazorBit/app-status/required/controls/sprint/dev-add-sprint.php
+          2.25K 100%    2.70kB/s    0:00:00            2.25K 100%    2.70kB/s    0:00:00 (xfr#526, to-chk=187/933)
+Werk/RazorBit/app-status/required/controls/sprint/dev-delete-sprint.php
+            904 100%    1.09kB/s    0:00:00              904 100%    1.09kB/s    0:00:00 (xfr#527, to-chk=186/933)
+Werk/RazorBit/app-status/required/controls/sprint/dev-edit-sprint.php
+          3.40K 100%    4.08kB/s    0:00:00            3.40K 100%    4.08kB/s    0:00:00 (xfr#528, to-chk=185/933)
+Werk/RazorBit/app-status/styles/
+Werk/RazorBit/app-status/styles/css/
+Werk/RazorBit/app-status/styles/css/bootstrap.min.css
+         32.77K  27%   39.31kB/s    0:00:02          121.26K 100%  145.30kB/s    0:00:00 (xfr#529, to-chk=178/933)
+Werk/RazorBit/app-status/styles/css/font-awesome.css
+         28.75K 100%   34.40kB/s    0:00:00           28.75K 100%   34.40kB/s    0:00:00 (xfr#530, to-chk=177/933)
+Werk/RazorBit/app-status/styles/css/font-awesome.min.css
+         23.74K 100%   28.38kB/s    0:00:00           23.74K 100%   28.38kB/s    0:00:00 (xfr#531, to-chk=176/933)
+Werk/RazorBit/app-status/styles/css/master.css
+          5.26K 100%    6.29kB/s    0:00:00            5.26K 100%    6.29kB/s    0:00:00 (xfr#532, to-chk=175/933)
+Werk/RazorBit/app-status/styles/fonts/
+Werk/RazorBit/app-status/styles/fonts/FontAwesome.otf
+         32.77K  34%   39.07kB/s    0:00:01           93.89K 100%  111.95kB/s    0:00:00 (xfr#533, to-chk=174/933)
+Werk/RazorBit/app-status/styles/fonts/fontawesome-webfont.eot
+         32.77K  53%   39.02kB/s    0:00:00           60.77K 100%   72.37kB/s    0:00:00 (xfr#534, to-chk=173/933)
+Werk/RazorBit/app-status/styles/fonts/fontawesome-webfont.svg
+         32.77K  10%   38.83kB/s    0:00:07          313.40K 100%  370.97kB/s    0:00:00 (xfr#535, to-chk=172/933)
+Werk/RazorBit/app-status/styles/fonts/fontawesome-webfont.ttf
+         32.77K  26%   38.74kB/s    0:00:02          122.09K 100%  144.17kB/s    0:00:00 (xfr#536, to-chk=171/933)
+Werk/RazorBit/app-status/styles/fonts/fontawesome-webfont.woff
+         32.77K  45%   38.65kB/s    0:00:01           71.51K 100%   84.34kB/s    0:00:00 (xfr#537, to-chk=170/933)
+Werk/RazorBit/app-status/styles/fonts/fontawesome-webfont.woff2
+         32.77K  57%   38.60kB/s    0:00:00           56.78K 100%   66.89kB/s    0:00:00 (xfr#538, to-chk=169/933)
+Werk/RazorBit/app-status/styles/img/
+Werk/RazorBit/app-status/styles/img/big_background.png
+         32.77K  74%   38.55kB/s    0:00:00           43.85K 100%   51.59kB/s    0:00:00 (xfr#539, to-chk=168/933)
+Werk/RazorBit/app-status/styles/img/icon_apps.png
+          1.43K 100%    1.69kB/s    0:00:00            1.43K 100%    1.69kB/s    0:00:00 (xfr#540, to-chk=167/933)
+Werk/RazorBit/app-status/styles/img/small_logo.png
+          2.50K 100%    2.94kB/s    0:00:00            2.50K 100%    2.94kB/s    0:00:00 (xfr#541, to-chk=166/933)
+Werk/RazorBit/app-status/styles/less/
+Werk/RazorBit/app-status/styles/less/animated.less
+            713 100%    0.84kB/s    0:00:00              713 100%    0.84kB/s    0:00:00 (xfr#542, to-chk=165/933)
+Werk/RazorBit/app-status/styles/less/bordered-pulled.less
+            330 100%    0.39kB/s    0:00:00              330 100%    0.39kB/s    0:00:00 (xfr#543, to-chk=164/933)
+Werk/RazorBit/app-status/styles/less/core.less
+            509 100%    0.60kB/s    0:00:00              509 100%    0.60kB/s    0:00:00 (xfr#544, to-chk=163/933)
+Werk/RazorBit/app-status/styles/less/fixed-width.less
+            119 100%    0.14kB/s    0:00:00              119 100%    0.14kB/s    0:00:00 (xfr#545, to-chk=162/933)
+Werk/RazorBit/app-status/styles/less/font-awesome.less
+            465 100%    0.55kB/s    0:00:00              465 100%    0.55kB/s    0:00:00 (xfr#546, to-chk=161/933)
+Werk/RazorBit/app-status/styles/less/icons.less
+         32.77K  87%   38.42kB/s    0:00:00           37.29K 100%   43.72kB/s    0:00:00 (xfr#547, to-chk=160/933)
+Werk/RazorBit/app-status/styles/less/larger.less
+            370 100%    0.43kB/s    0:00:00              370 100%    0.43kB/s    0:00:00 (xfr#548, to-chk=159/933)
+Werk/RazorBit/app-status/styles/less/list.less
+            377 100%    0.44kB/s    0:00:00              377 100%    0.44kB/s    0:00:00 (xfr#549, to-chk=158/933)
+Werk/RazorBit/app-status/styles/less/mixins.less
+            983 100%    1.15kB/s    0:00:00              983 100%    1.15kB/s    0:00:00 (xfr#550, to-chk=157/933)
+Werk/RazorBit/app-status/styles/less/path.less
+            770 100%    0.90kB/s    0:00:00              770 100%    0.90kB/s    0:00:00 (xfr#551, to-chk=156/933)
+Werk/RazorBit/app-status/styles/less/rotated-flipped.less
+            622 100%    0.73kB/s    0:00:00              622 100%    0.73kB/s    0:00:00 (xfr#552, to-chk=155/933)
+Werk/RazorBit/app-status/styles/less/stacked.less
+            476 100%    0.56kB/s    0:00:00              476 100%    0.56kB/s    0:00:00 (xfr#553, to-chk=154/933)
+Werk/RazorBit/app-status/styles/less/variables.less
+         16.79K 100%   19.64kB/s    0:00:00           16.79K 100%   19.64kB/s    0:00:00 (xfr#554, to-chk=153/933)
+Werk/RazorBit/app-status/styles/scripts/
+Werk/RazorBit/app-status/styles/scripts/bootstrap.min.js
+         32.77K  88%   38.28kB/s    0:00:00           36.87K 100%   43.07kB/s    0:00:00 (xfr#555, to-chk=152/933)
+Werk/RazorBit/app-status/styles/scripts/jquery.min.js
+         32.77K  38%   38.19kB/s    0:00:01           85.59K 100%   99.74kB/s    0:00:00 (xfr#556, to-chk=151/933)
+Werk/RazorBit/app-status/styles/scripts/master.js
+          1.48K 100%    1.72kB/s    0:00:00            1.48K 100%    1.72kB/s    0:00:00 (xfr#557, to-chk=150/933)
+Werk/RazorBit/app-status/styles/scripts/application/
+Werk/RazorBit/app-status/styles/scripts/application/dev-add-application.js
+          1.58K 100%    1.84kB/s    0:00:00            1.58K 100%    1.84kB/s    0:00:00 (xfr#558, to-chk=142/933)
+Werk/RazorBit/app-status/styles/scripts/application/dev-save-application.js
+          2.69K 100%    3.14kB/s    0:00:00            2.69K 100%    3.14kB/s    0:00:00 (xfr#559, to-chk=141/933)
+Werk/RazorBit/app-status/styles/scripts/bug/
+Werk/RazorBit/app-status/styles/scripts/bug/dev-edit-bug.js
+          2.74K 100%    3.18kB/s    0:00:00            2.74K 100%    3.18kB/s    0:00:00 (xfr#560, to-chk=140/933)
+Werk/RazorBit/app-status/styles/scripts/bug/report.js
+          1.37K 100%    1.59kB/s    0:00:00            1.37K 100%    1.59kB/s    0:00:00 (xfr#561, to-chk=139/933)
+Werk/RazorBit/app-status/styles/scripts/developer/
+Werk/RazorBit/app-status/styles/scripts/developer/dev-add-developer.js
+          1.90K 100%    2.21kB/s    0:00:00            1.90K 100%    2.21kB/s    0:00:00 (xfr#562, to-chk=138/933)
+Werk/RazorBit/app-status/styles/scripts/developer/dev-change-developer-password.js
+          1.77K 100%    2.06kB/s    0:00:00            1.77K 100%    2.06kB/s    0:00:00 (xfr#563, to-chk=137/933)
+Werk/RazorBit/app-status/styles/scripts/developer/dev-edit-developer.js
+          1.92K 100%    2.23kB/s    0:00:00            1.92K 100%    2.23kB/s    0:00:00 (xfr#564, to-chk=136/933)
+Werk/RazorBit/app-status/styles/scripts/developer/dev-edit-other-developer.js
+          1.73K 100%    2.01kB/s    0:00:00            1.73K 100%    2.01kB/s    0:00:00 (xfr#565, to-chk=135/933)
+Werk/RazorBit/app-status/styles/scripts/employer/
+Werk/RazorBit/app-status/styles/scripts/employer/change-password.js
+          1.98K 100%    2.29kB/s    0:00:00            1.98K 100%    2.29kB/s    0:00:00 (xfr#566, to-chk=134/933)
+Werk/RazorBit/app-status/styles/scripts/employer/dev-add-employer.js
+          1.81K 100%    2.11kB/s    0:00:00            1.81K 100%    2.11kB/s    0:00:00 (xfr#567, to-chk=133/933)
+Werk/RazorBit/app-status/styles/scripts/employer/dev-edit-employer.js
+          3.72K 100%    4.31kB/s    0:00:00            3.72K 100%    4.31kB/s    0:00:00 (xfr#568, to-chk=132/933)
+Werk/RazorBit/app-status/styles/scripts/employer/edit-employer.js
+          1.80K 100%    2.08kB/s    0:00:00            1.80K 100%    2.08kB/s    0:00:00 (xfr#569, to-chk=131/933)
+Werk/RazorBit/app-status/styles/scripts/employer/forgot-password.js
+            884 100%    1.03kB/s    0:00:00              884 100%    1.03kB/s    0:00:00 (xfr#570, to-chk=130/933)
+Werk/RazorBit/app-status/styles/scripts/employer/reset-password.js
+          2.76K 100%    3.20kB/s    0:00:00            2.76K 100%    3.20kB/s    0:00:00 (xfr#571, to-chk=129/933)
+Werk/RazorBit/app-status/styles/scripts/filter/
+Werk/RazorBit/app-status/styles/scripts/filter/dev-bugs-filter.js
+            463 100%    0.54kB/s    0:00:00              463 100%    0.54kB/s    0:00:00 (xfr#572, to-chk=128/933)
+Werk/RazorBit/app-status/styles/scripts/filter/dev-sprints-filter.js
+            466 100%    0.54kB/s    0:00:00              466 100%    0.54kB/s    0:00:00 (xfr#573, to-chk=127/933)
+Werk/RazorBit/app-status/styles/scripts/index/
+Werk/RazorBit/app-status/styles/scripts/index/login.js
+          1.26K 100%    1.46kB/s    0:00:00            1.26K 100%    1.46kB/s    0:00:00 (xfr#574, to-chk=126/933)
+Werk/RazorBit/app-status/styles/scripts/sprint/
+Werk/RazorBit/app-status/styles/scripts/sprint/dev-add-sprint.js
+          1.62K 100%    1.88kB/s    0:00:00            1.62K 100%    1.88kB/s    0:00:00 (xfr#575, to-chk=125/933)
+Werk/RazorBit/app-status/styles/scripts/sprint/dev-edit-sprint.js
+          2.86K 100%    3.31kB/s    0:00:00            2.86K 100%    3.31kB/s    0:00:00 (xfr#576, to-chk=124/933)
+Werk/RazorBit/app-status/styles/scss/
+Werk/RazorBit/app-status/styles/scss/_animated.scss
+            715 100%    0.83kB/s    0:00:00              715 100%    0.83kB/s    0:00:00 (xfr#577, to-chk=123/933)
+Werk/RazorBit/app-status/styles/scss/_bordered-pulled.scss
+            332 100%    0.38kB/s    0:00:00              332 100%    0.38kB/s    0:00:00 (xfr#578, to-chk=122/933)
+Werk/RazorBit/app-status/styles/scss/_core.scss
+            513 100%    0.59kB/s    0:00:00              513 100%    0.59kB/s    0:00:00 (xfr#579, to-chk=121/933)
+Werk/RazorBit/app-status/styles/scss/_fixed-width.scss
+            120 100%    0.14kB/s    0:00:00              120 100%    0.14kB/s    0:00:00 (xfr#580, to-chk=120/933)
+Werk/RazorBit/app-status/styles/scss/_icons.scss
+         32.77K  86%   37.87kB/s    0:00:00           37.88K 100%   43.78kB/s    0:00:00 (xfr#581, to-chk=119/933)
+Werk/RazorBit/app-status/styles/scss/_larger.scss
+            375 100%    0.43kB/s    0:00:00              375 100%    0.43kB/s    0:00:00 (xfr#582, to-chk=118/933)
+Werk/RazorBit/app-status/styles/scss/_list.scss
+            378 100%    0.44kB/s    0:00:00              378 100%    0.44kB/s    0:00:00 (xfr#583, to-chk=117/933)
+Werk/RazorBit/app-status/styles/scss/_mixins.scss
+          1.00K 100%    1.15kB/s    0:00:00            1.00K 100%    1.15kB/s    0:00:00 (xfr#584, to-chk=116/933)
+Werk/RazorBit/app-status/styles/scss/_path.scss
+            783 100%    0.90kB/s    0:00:00              783 100%    0.90kB/s    0:00:00 (xfr#585, to-chk=115/933)
+Werk/RazorBit/app-status/styles/scss/_rotated-flipped.scss
+            672 100%    0.77kB/s    0:00:00              672 100%    0.77kB/s    0:00:00 (xfr#586, to-chk=114/933)
+Werk/RazorBit/app-status/styles/scss/_stacked.scss
+            482 100%    0.56kB/s    0:00:00              482 100%    0.56kB/s    0:00:00 (xfr#587, to-chk=113/933)
+Werk/RazorBit/app-status/styles/scss/_variables.scss
+         16.86K 100%   19.42kB/s    0:00:00           16.86K 100%   19.42kB/s    0:00:00 (xfr#588, to-chk=112/933)
+Werk/RazorBit/app-status/styles/scss/font-awesome.scss
+            405 100%    0.47kB/s    0:00:00              405 100%    0.47kB/s    0:00:00 (xfr#589, to-chk=111/933)
+Werk/RazorBit/push/
+Werk/RazorBit/push/database.sql
+          1.89K 100%    2.18kB/s    0:00:00            1.89K 100%    2.18kB/s    0:00:00 (xfr#590, to-chk=110/933)
+Werk/RazorBit/push/classes/
+Werk/RazorBit/push/classes/application.class.php
+          2.41K 100%    2.77kB/s    0:00:00            2.41K 100%    2.77kB/s    0:00:00 (xfr#591, to-chk=107/933)
+Werk/RazorBit/push/classes/developer.class.php
+          1.41K 100%    1.62kB/s    0:00:00            1.41K 100%    1.62kB/s    0:00:00 (xfr#592, to-chk=106/933)
+Werk/RazorBit/push/classes/employer.class.php
+          2.32K 100%    2.67kB/s    0:00:00            2.32K 100%    2.67kB/s    0:00:00 (xfr#593, to-chk=105/933)
+Werk/RazorBit/push/classes/platform.class.php
+          1.24K 100%    1.43kB/s    0:00:00            1.24K 100%    1.42kB/s    0:00:00 (xfr#594, to-chk=104/933)
+Werk/RazorBit/push/classes/token.class.php
+          2.50K 100%    2.87kB/s    0:00:00            2.50K 100%    2.87kB/s    0:00:00 (xfr#595, to-chk=103/933)
+Werk/RazorBit/push/required/
+Werk/RazorBit/push/required/authentication.php
+         12.39K 100%   14.23kB/s    0:00:00           12.39K 100%   14.23kB/s    0:00:00 (xfr#596, to-chk=102/933)
+Werk/RazorBit/push/required/core.php
+              0 100%    0.00kB/s    0:00:00 (xfr#597, to-chk=101/933)
+Werk/RazorBit/push/required/database.php
+          1.86K 100%    2.14kB/s    0:00:00            1.86K 100%    2.14kB/s    0:00:00 (xfr#598, to-chk=100/933)
+Werk/RazorBit/push/required/init.php
+            483 100%    0.55kB/s    0:00:00              483 100%    0.55kB/s    0:00:00 (xfr#599, to-chk=99/933)
+Werk/RazorBit/push_tijdelijk/
+Werk/RazorBit/push_tijdelijk/index.php
+          6.74K 100%    7.74kB/s    0:00:00            6.74K 100%    7.74kB/s    0:00:00 (xfr#600, to-chk=98/933)
+Werk/RazorBit/push_tijdelijk/send.php
+          1.79K 100%    2.05kB/s    0:00:00            1.79K 100%    2.05kB/s    0:00:00 (xfr#601, to-chk=97/933)
+Werk/RazorBit/push_tijdelijk/styles/
+Werk/RazorBit/push_tijdelijk/styles/css/
+Werk/RazorBit/push_tijdelijk/styles/css/bootstrap.min.css
+         32.77K  26%   37.51kB/s    0:00:02          122.54K 100%  140.13kB/s    0:00:00 (xfr#602, to-chk=89/933)
+Werk/RazorBit/push_tijdelijk/styles/css/font-awesome.css
+         28.75K 100%   32.83kB/s    0:00:00           28.75K 100%   32.83kB/s    0:00:00 (xfr#603, to-chk=88/933)
+Werk/RazorBit/push_tijdelijk/styles/css/font-awesome.min.css
+         23.74K 100%   27.11kB/s    0:00:00           23.74K 100%   27.11kB/s    0:00:00 (xfr#604, to-chk=87/933)
+Werk/RazorBit/push_tijdelijk/styles/css/master.css
+          1.88K 100%    2.15kB/s    0:00:00            1.88K 100%    2.15kB/s    0:00:00 (xfr#605, to-chk=86/933)
+Werk/RazorBit/push_tijdelijk/styles/fonts/
+Werk/RazorBit/push_tijdelijk/styles/fonts/FontAwesome.otf
+         32.77K  34%   37.34kB/s    0:00:01           93.89K 100%  106.74kB/s    0:00:00 (xfr#606, to-chk=85/933)
+Werk/RazorBit/push_tijdelijk/styles/fonts/fontawesome-webfont.eot
+         32.77K  53%   37.21kB/s    0:00:00           60.77K 100%   69.00kB/s    0:00:00 (xfr#607, to-chk=84/933)
+Werk/RazorBit/push_tijdelijk/styles/fonts/fontawesome-webfont.svg
+
+         32.77K  10%   37.08kB/s    0:00:07          313.40K 100%  354.23kB/s    0:00:00 (xfr#608, to-chk=83/933)
+Werk/RazorBit/push_tijdelijk/styles/fonts/fontawesome-webfont.ttf
+         32.77K  26%   36.95kB/s    0:00:02          122.09K 100%  137.68kB/s    0:00:00 (xfr#609, to-chk=82/933)
+Werk/RazorBit/push_tijdelijk/styles/fonts/fontawesome-webfont.woff
+         32.77K  45%   36.91kB/s    0:00:01           71.51K 100%   80.45kB/s    0:00:00 (xfr#610, to-chk=81/933)
+Werk/RazorBit/push_tijdelijk/styles/fonts/fontawesome-webfont.woff2
+         32.77K  57%   36.87kB/s    0:00:00           56.78K 100%   63.88kB/s    0:00:00 (xfr#611, to-chk=80/933)
+Werk/RazorBit/push_tijdelijk/styles/img/
+Werk/RazorBit/push_tijdelijk/styles/img/big_background.png
+         32.77K  74%   36.82kB/s    0:00:00           43.85K 100%   49.28kB/s    0:00:00 (xfr#612, to-chk=79/933)
+Werk/RazorBit/push_tijdelijk/styles/img/icon_apps.png
+          1.43K 100%    1.61kB/s    0:00:00            1.43K 100%    1.61kB/s    0:00:00 (xfr#613, to-chk=78/933)
+Werk/RazorBit/push_tijdelijk/styles/img/icon_backend.png
+          2.69K 100%    3.01kB/s    0:00:00            2.69K 100%    3.01kB/s    0:00:00 (xfr#614, to-chk=77/933)
+Werk/RazorBit/push_tijdelijk/styles/img/icon_support.png
+          1.96K 100%    2.19kB/s    0:00:00            1.96K 100%    2.19kB/s    0:00:00 (xfr#615, to-chk=76/933)
+Werk/RazorBit/push_tijdelijk/styles/img/icon_website.png
+          1.87K 100%    2.10kB/s    0:00:00            1.87K 100%    2.10kB/s    0:00:00 (xfr#616, to-chk=75/933)
+Werk/RazorBit/push_tijdelijk/styles/img/small_logo.png
+          2.50K 100%    2.80kB/s    0:00:00            2.50K 100%    2.80kB/s    0:00:00 (xfr#617, to-chk=74/933)
+Werk/RazorBit/push_tijdelijk/styles/img/team_bart.png
+         32.77K  33%   36.70kB/s    0:00:01           98.07K 100%  109.70kB/s    0:00:00 (xfr#618, to-chk=73/933)
+Werk/RazorBit/push_tijdelijk/styles/img/team_ties.png
+         32.77K  76%   36.66kB/s    0:00:00           43.05K 100%   48.16kB/s    0:00:00 (xfr#619, to-chk=72/933)
+Werk/RazorBit/push_tijdelijk/styles/less/
+Werk/RazorBit/push_tijdelijk/styles/less/animated.less
+            713 100%    0.80kB/s    0:00:00              713 100%    0.80kB/s    0:00:00 (xfr#620, to-chk=71/933)
+Werk/RazorBit/push_tijdelijk/styles/less/bordered-pulled.less
+            330 100%    0.37kB/s    0:00:00              330 100%    0.37kB/s    0:00:00 (xfr#621, to-chk=70/933)
+Werk/RazorBit/push_tijdelijk/styles/less/core.less
+            509 100%    0.57kB/s    0:00:00              509 100%    0.57kB/s    0:00:00 (xfr#622, to-chk=69/933)
+Werk/RazorBit/push_tijdelijk/styles/less/fixed-width.less
+            119 100%    0.13kB/s    0:00:00              119 100%    0.13kB/s    0:00:00 (xfr#623, to-chk=68/933)
+Werk/RazorBit/push_tijdelijk/styles/less/font-awesome.less
+            465 100%    0.52kB/s    0:00:00              465 100%    0.52kB/s    0:00:00 (xfr#624, to-chk=67/933)
+Werk/RazorBit/push_tijdelijk/styles/less/icons.less
+         32.77K  87%   36.53kB/s    0:00:00           37.29K 100%   41.57kB/s    0:00:00 (xfr#625, to-chk=66/933)
+Werk/RazorBit/push_tijdelijk/styles/less/larger.less
+            370 100%    0.41kB/s    0:00:00              370 100%    0.41kB/s    0:00:00 (xfr#626, to-chk=65/933)
+Werk/RazorBit/push_tijdelijk/styles/less/list.less
+            377 100%    0.42kB/s    0:00:00              377 100%    0.42kB/s    0:00:00 (xfr#627, to-chk=64/933)
+Werk/RazorBit/push_tijdelijk/styles/less/mixins.less
+            983 100%    1.09kB/s    0:00:00              983 100%    1.09kB/s    0:00:00 (xfr#628, to-chk=63/933)
+Werk/RazorBit/push_tijdelijk/styles/less/path.less
+            770 100%    0.86kB/s    0:00:00              770 100%    0.86kB/s    0:00:00 (xfr#629, to-chk=62/933)
+Werk/RazorBit/push_tijdelijk/styles/less/rotated-flipped.less
+            622 100%    0.69kB/s    0:00:00              622 100%    0.69kB/s    0:00:00 (xfr#630, to-chk=61/933)
+Werk/RazorBit/push_tijdelijk/styles/less/stacked.less
+            476 100%    0.53kB/s    0:00:00              476 100%    0.53kB/s    0:00:00 (xfr#631, to-chk=60/933)
+Werk/RazorBit/push_tijdelijk/styles/less/variables.less
+         16.79K 100%   18.66kB/s    0:00:00           16.79K 100%   18.66kB/s    0:00:00 (xfr#632, to-chk=59/933)
+Werk/RazorBit/push_tijdelijk/styles/scripts/
+Werk/RazorBit/push_tijdelijk/styles/scripts/bootstrap.min.js
+         32.77K  89%   36.36kB/s    0:00:00           36.82K 100%   40.86kB/s    0:00:00 (xfr#633, to-chk=58/933)
+Werk/RazorBit/push_tijdelijk/styles/scripts/jquery-min.js
+         32.77K  38%   36.32kB/s    0:00:01           84.34K 100%   93.49kB/s    0:00:00 (xfr#634, to-chk=57/933)
+Werk/RazorBit/push_tijdelijk/styles/scripts/master.js
+          2.43K 100%    2.69kB/s    0:00:00            2.43K 100%    2.69kB/s    0:00:00 (xfr#635, to-chk=56/933)
+Werk/RazorBit/push_tijdelijk/styles/scss/
+Werk/RazorBit/push_tijdelijk/styles/scss/_animated.scss
+            715 100%    0.79kB/s    0:00:00              715 100%    0.79kB/s    0:00:00 (xfr#636, to-chk=55/933)
+Werk/RazorBit/push_tijdelijk/styles/scss/_bordered-pulled.scss
+            332 100%    0.37kB/s    0:00:00              332 100%    0.37kB/s    0:00:00 (xfr#637, to-chk=54/933)
+Werk/RazorBit/push_tijdelijk/styles/scss/_core.scss
+            513 100%    0.57kB/s    0:00:00              513 100%    0.57kB/s    0:00:00 (xfr#638, to-chk=53/933)
+Werk/RazorBit/push_tijdelijk/styles/scss/_fixed-width.scss
+            120 100%    0.13kB/s    0:00:00              120 100%    0.13kB/s    0:00:00 (xfr#639, to-chk=52/933)
+Werk/RazorBit/push_tijdelijk/styles/scss/_icons.scss
+         32.77K  86%   36.24kB/s    0:00:00           37.88K 100%   41.90kB/s    0:00:00 (xfr#640, to-chk=51/933)
+Werk/RazorBit/push_tijdelijk/styles/scss/_larger.scss
+            375 100%    0.41kB/s    0:00:00              375 100%    0.41kB/s    0:00:00 (xfr#641, to-chk=50/933)
+Werk/RazorBit/push_tijdelijk/styles/scss/_list.scss
+            378 100%    0.42kB/s    0:00:00              378 100%    0.42kB/s    0:00:00 (xfr#642, to-chk=49/933)
+Werk/RazorBit/push_tijdelijk/styles/scss/_mixins.scss
+          1.00K 100%    1.10kB/s    0:00:00            1.00K 100%    1.10kB/s    0:00:00 (xfr#643, to-chk=48/933)
+Werk/RazorBit/push_tijdelijk/styles/scss/_path.scss
+            783 100%    0.86kB/s    0:00:00              783 100%    0.86kB/s    0:00:00 (xfr#644, to-chk=47/933)
+Werk/RazorBit/push_tijdelijk/styles/scss/_rotated-flipped.scss
+            672 100%    0.74kB/s    0:00:00              672 100%    0.74kB/s    0:00:00 (xfr#645, to-chk=46/933)
+Werk/RazorBit/push_tijdelijk/styles/scss/_stacked.scss
+            482 100%    0.53kB/s    0:00:00              482 100%    0.53kB/s    0:00:00 (xfr#646, to-chk=45/933)
+Werk/RazorBit/push_tijdelijk/styles/scss/_variables.scss
+         16.86K 100%   18.61kB/s    0:00:00           16.86K 100%   18.61kB/s    0:00:00 (xfr#647, to-chk=44/933)
+Werk/RazorBit/push_tijdelijk/styles/scss/font-awesome.scss
+            405 100%    0.45kB/s    0:00:00              405 100%    0.45kB/s    0:00:00 (xfr#648, to-chk=43/933)
+Werk/Van de Ligt/
+Werk/Van de Ligt/2014 urenlijst.xlsx
+         32.77K  78%   36.12kB/s    0:00:00           41.77K 100%   46.04kB/s    0:00:00 (xfr#649, to-chk=42/933)
+Werk/Van de Ligt/2015 urenlijst.xlsx
+         32.77K  89%   36.08kB/s    0:00:00           36.76K 100%   40.47kB/s    0:00:00 (xfr#650, to-chk=41/933)
+Werk/Van de Ligt/Lijst Part-timer loon 2014 definitief.xlsx
+         32.77K  77%   36.04kB/s    0:00:00           42.47K 100%   46.70kB/s    0:00:00 (xfr#651, to-chk=40/933)
+Werk/Van de Ligt/Nieuwe hosting wachtwoorden.txt
+            260 100%    0.29kB/s    0:00:00              260 100%    0.29kB/s    0:00:00 (xfr#652, to-chk=39/933)
+Werk/Van de Ligt/Plan van aanpak webshop-laptop_BK.docx
+         15.24K 100%   16.74kB/s    0:00:00           15.24K 100%   16.74kB/s    0:00:00 (xfr#653, to-chk=38/933)
+Werk/Van de Ligt/Plan van aanpak webshop.docx
+         15.24K 100%   16.74kB/s    0:00:00           15.24K 100%   16.74kB/s    0:00:00 (xfr#654, to-chk=37/933)
+Werk/Van de Ligt/Upgrade van Windows XP.docx
+         16.39K 100%   17.98kB/s    0:00:00           16.39K 100%   17.98kB/s    0:00:00 (xfr#655, to-chk=36/933)
+Werk/Van de Ligt/Wachtwoorden Dierxxl.passm
+          6.38K 100%    7.00kB/s    0:00:00            6.38K 100%    7.00kB/s    0:00:00 (xfr#656, to-chk=35/933)
+Werk/Van de Ligt/Wachtwoorden.txt
+          1.09K 100%    1.20kB/s    0:00:00            1.09K 100%    1.20kB/s    0:00:00 (xfr#657, to-chk=34/933)
+Werk/Van de Ligt/prijslijst.PNG
+         32.77K  27%   35.87kB/s    0:00:02          119.60K 100%  130.94kB/s    0:00:00 (xfr#658, to-chk=33/933)
+Werk/Van de Ligt/van de Ligt Allicht prijslijst 2013.pdf
+         12.01K 100%   13.15kB/s    0:00:00           12.01K 100%   13.15kB/s    0:00:00 (xfr#659, to-chk=32/933)
+Werk/Van de Ligt/Contract/
+Werk/Van de Ligt/Contract/Bart Kessels contract 31-mrt-2014 tot 31-mrt-2015_ontertekend.pdf
+         32.77K   1%   35.63kB/s    0:00:47            1.73M 100%    1.81MB/s    0:00:00 (xfr#660, to-chk=25/933)
+Werk/Van de Ligt/Contract/Contract 2015-2016.odg
+         32.77K   6%   34.90kB/s    0:00:14          532.04K 100%  564.14kB/s    0:00:00 (xfr#661, to-chk=24/933)
+Werk/Van de Ligt/Contract/Contract 2015-2016.pdf
+         32.77K  54%   34.71kB/s    0:00:00           60.05K 100%   63.60kB/s    0:00:00 (xfr#662, to-chk=23/933)
+Werk/Van de Ligt/Contract/Contract 2015-2016_ondertekend.pdf
+         32.77K   5%   34.52kB/s    0:00:15          559.37K 100%  587.38kB/s    0:00:00 (xfr#663, to-chk=22/933)
+Werk/Van de Ligt/Contract/Contract ondertekend.docx
+         32.77K   0%   34.22kB/s    0:01:45            3.65M 100%    3.60MB/s    0:00:00 (xfr#664, to-chk=21/933)
+Werk/Van de Ligt/Contract/Contract_2015_ondertekend.JPG
+
+         32.77K   6%   32.89kB/s    0:00:14          511.06K 100%  511.36kB/s    0:00:00 (xfr#665, to-chk=20/933)
+Werk/Van de Ligt/Contract/Nieuwe werknemer.docx
+         16.00K 100%   16.01kB/s    0:00:00           16.00K 100%   16.01kB/s    0:00:00 (xfr#666, to-chk=19/933)
+Werk/Van de Ligt/Documentatie/
+Werk/Van de Ligt/Documentatie/Een product reactie verwijderen.docx
+         32.77K   4%   32.62kB/s    0:00:20          708.61K 100%  702.54kB/s    0:00:00 (xfr#667, to-chk=18/933)
+Werk/Van de Ligt/Documentatie/Joomla-laptop_BK.docx
+         32.77K  69%   32.45kB/s    0:00:00           47.35K 100%   46.90kB/s    0:00:00 (xfr#668, to-chk=17/933)
+Werk/Van de Ligt/Documentatie/VanDeLigtAllicht.docx
+         32.77K  63%   32.42kB/s    0:00:00           51.42K 100%   50.88kB/s    0:00:00 (xfr#669, to-chk=16/933)
+Werk/Van de Ligt/Documentatie/VuurwerkEnCarbid.docx
+         32.77K   0%   32.19kB/s    0:01:54          557.06K  15%  542.91kB/s    0:00:05            3.71M 100%    3.44MB/s    0:00:01 (xfr#670, to-chk=15/933)
+Werk/Van de Ligt/Eigen Project (oscommerce, OpenERP)/
+Werk/Van de Ligt/Eigen Project (oscommerce, OpenERP)/OScommerce documentatie.txt
+          1.42K 100%   53.15kB/s    0:00:00            1.42K 100%   53.15kB/s    0:00:00 (xfr#671, to-chk=14/933)
+Werk/Van de Ligt/Loonstroken/
+Werk/Van de Ligt/Loonstroken/Loonstrook 02-2015.pdf
+         32.77K   9%    1.04MB/s    0:00:00          360.00K 100%   11.07MB/s    0:00:00 (xfr#672, to-chk=13/933)
+Werk/Van de Ligt/Uren/
+Werk/Van de Ligt/Uren/2013 - Uren December.xlsx
+         11.62K 100%  354.52kB/s    0:00:00           11.62K 100%  354.52kB/s    0:00:00 (xfr#673, to-chk=12/933)
+Werk/Van de Ligt/Uren/2013 - Uren November.xlsx
+         10.56K 100%  322.20kB/s    0:00:00           10.56K 100%  322.20kB/s    0:00:00 (xfr#674, to-chk=11/933)
+Werk/Van de Ligt/Uren/2013 - Uren Oktober.xlsx
+         10.62K 100%  314.25kB/s    0:00:00           10.62K 100%  314.25kB/s    0:00:00 (xfr#675, to-chk=10/933)
+Werk/Van de Ligt/Uren/2013 - Uren overzicht.xlsx
+         32.77K  76%  941.18kB/s    0:00:00           42.80K 100%    1.20MB/s    0:00:00 (xfr#676, to-chk=9/933)
+Werk/Van de Ligt/Uren/2014 - Uren December.xlsx
+         11.76K 100%  337.78kB/s    0:00:00           11.76K 100%  337.78kB/s    0:00:00 (xfr#677, to-chk=8/933)
+Werk/Van de Ligt/Uren/2014 - Uren Maart.xlsx
+         11.38K 100%  317.47kB/s    0:00:00           11.38K 100%  317.47kB/s    0:00:00 (xfr#678, to-chk=7/933)
+Werk/Van de Ligt/Uren/2014 - Uren Mei.xlsx
+          7.21K 100%  201.31kB/s    0:00:00            7.21K 100%  201.31kB/s    0:00:00 (xfr#679, to-chk=6/933)
+Werk/Van de Ligt/Uren/2014 - Uren Oktober.xlsx
+         10.61K 100%  295.90kB/s    0:00:00           10.61K 100%  295.90kB/s    0:00:00 (xfr#680, to-chk=5/933)
+Werk/Van de Ligt/Uren/2015 - Uren April.xlsx
+          7.10K 100%  192.63kB/s    0:00:00            7.10K 100%  192.63kB/s    0:00:00 (xfr#681, to-chk=4/933)
+Werk/Van de Ligt/Uren/2015 - Uren Januari.xlsx
+          7.12K 100%  193.22kB/s    0:00:00            7.12K 100%  193.22kB/s    0:00:00 (xfr#682, to-chk=3/933)
+Werk/Van de Ligt/Uren/2015 - Uren Juni.ods
+         32.77K  56%  864.86kB/s    0:00:00           58.32K 100%    1.50MB/s    0:00:00 (xfr#683, to-chk=2/933)
+Werk/Van de Ligt/Werkzaamheden/
+Werk/Van de Ligt/Werkzaamheden/09-12-13.docx
+          6.70K 100%  176.92kB/s    0:00:00            6.70K 100%  176.92kB/s    0:00:00 (xfr#684, to-chk=1/933)
+Werk/Van de Ligt/Werkzaamheden/10-12-13.docx
+          8.58K 100%  220.45kB/s    0:00:00            8.58K 100%  220.45kB/s    0:00:00 (xfr#685, to-chk=0/933)
+
+
+Number of files: 933 (reg: 685, dir: 248)
+Number of created files: 933 (reg: 685, dir: 248)
+Number of deleted files: 0
+Number of regular files transferred: 685
+Total file size: 68.94M bytes
+Total transferred file size: 68.94M bytes
+Literal data: 68.94M bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 69.01M
+Total bytes received: 14.43K
+
+sent 69.01M bytes  received 14.43K bytes  46.02M bytes/sec
+total size is 68.94M  speedup is 1.00
+
+
+<font color=cyan>&nbsp;&nbsp;&nbsp;&nbsp;-----| Backing-up profile, logfiles and snapshot data -> Ok |-----</font><br>
+<font color=magenta>execution of task	: <b>Werk</b>, finished</font>
+=====================================<br>

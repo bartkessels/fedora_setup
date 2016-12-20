@@ -138,7 +138,7 @@ hostnamectl set-hostname --static "BKlaptop"
 #####################################################################################
 
 # Utilities
-dnf install -y whois pandoc redshift deja-dup grsync gpick pdfmod gnome-todo
+dnf install -y whois pandoc redshift deja-dup grsync gpick pdfmod gnome-todo luckybackup
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
