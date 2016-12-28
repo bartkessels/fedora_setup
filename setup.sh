@@ -62,7 +62,7 @@ chmod +x fedy-installer
 rm fedy-installer
 
 # Repos for multimedia
-dnf -y config-manager --add-repo=http://negativo17.org/repos/fedora-handbrake.repo
+dnf -y config-manager --add-repo=http://negativo17.org/repos/fedora-multimedia.repo
 
 # Enable copr repos
 dnf copr -y enable heikoada/gtk-themes
