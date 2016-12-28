@@ -61,9 +61,6 @@ chmod +x fedy-installer
 ./fedy-installer
 rm fedy-installer
 
-# Repos for multimedia
-dnf -y config-manager --add-repo=http://negativo17.org/repos/fedora-multimedia.repo
-
 # Enable copr repos
 dnf copr -y enable heikoada/gtk-themes
 dnf copr -y enable rommon/telegram
@@ -155,7 +152,7 @@ dnf install -y clementine
 dnf install -y gimp
 
 # Video Editors / Recorders / Libs
-dnf install -y blender HandBrake-gui pitivi
+dnf install -y blender pitivi
 dnf install -y simplescreenrecorder
 dnf install -y libdvdcss
 
