@@ -1,0 +1,6 @@
+If a kernel modules fails to load run
+$ sudo akmods
+
+This works for
+- wl
+- vboxdrv
