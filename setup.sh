@@ -64,6 +64,7 @@ rm fedy-installer
 # Enable copr repos
 dnf copr -y enable heikoada/gtk-themes
 dnf copr -y enable rommon/telegram
+dnf copr -y enable abn/ghostwriter
 
 # Update
 dnf update -y
@@ -135,7 +136,7 @@ hostnamectl set-hostname --static "BKlaptop"
 #####################################################################################
 
 # Utilities
-dnf install -y whois pandoc redshift deja-dup grsync gpick pdfmod gnome-todo luckybackup
+dnf install -y whois pandoc redshift deja-dup grsync gpick pdfmod gnome-todo luckybackup ghostwriter
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
