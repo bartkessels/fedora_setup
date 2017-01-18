@@ -168,7 +168,7 @@ wget -O atom.rpm https://atom.io/download/rpm
 dnf install -y atom.rpm
 rm atom.rpm
 
-apm install atom-material-ui atom-material-syntax file-icons language-blade blade-snippets minimap docblock-format-helper
+apm install atom-material-ui atom-material-syntax file-icons language-blade blade-snippets minimap docblockr
 
 # Browsers / Web / Chat / Chrome
 dnf install -y epiphany
