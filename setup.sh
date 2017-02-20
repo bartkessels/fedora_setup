@@ -63,9 +63,7 @@ rm fedy-installer
 
 # Enable copr repos
 dnf copr -y enable heikoada/gtk-themes
-dnf copr -y enable rommon/telegram
 dnf copr -y enable abn/ghostwriter
-dnf copr -y enable mystro256/gnome-redshift
 
 # Update
 dnf update -y
@@ -137,7 +135,7 @@ hostnamectl set-hostname --static "BKlaptop"
 #####################################################################################
 
 # Utilities
-dnf install -y whois pandoc deja-dup grsync gpick pdfmod gnome-todo luckybackup ghostwriter ffmpeg gnome-shell-extension-redshift
+dnf install -y whois pandoc deja-dup grsync gpick pdfmod gnome-todo luckybackup ghostwriter ffmpeg
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
@@ -174,7 +172,6 @@ apm install atom-material-ui atom-material-syntax file-icons language-blade blad
 # Browsers / Web / Chat / Chrome
 dnf install -y epiphany
 dnf install -y filezilla transmission youtube-dl offlineimap
-dnf install -y telegram-desktop
 
 rpm --import https://dl-ssl.google.com/linux/linux_signing_key.pub
 dnf install -y https://dl.google.com/linux/direct/google-chrome-stable_current_$(uname -i).rpm
