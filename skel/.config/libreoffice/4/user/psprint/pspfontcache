@@ -1,720 +1,688 @@
 LibreOffice PspFontCacheFile format 6
-FontCacheDirectory:1465922397:/usr/share/fonts/adobe-source-han-sans-tw
-File:SourceHanSansTW-Bold.otf
+FontCacheDirectory:1479245900:/usr/share/fonts/lohit-gurmukhi
+File:Lohit-Gurmukhi.ttf
 2;1
-Source Han Sans TW Bold;思源黑體 TW Bold
-0;SourceHanSansTW-Bold;0;8;5;2;65535;1160;320;480;1;3939;1480;3939;1480;0;0;0;65536;Bold
+Lohit Gurmukhi
+0;Lohit-Gurmukhi;0;5;5;2;65535;1232;700;260;0;2400;1932;2400;1932;0;0;0;0;Regular
 
-File:SourceHanSansTW-Regular.otf
+FontCacheDirectory:1479245903:/usr/share/fonts/lohit-gujarati
+File:Lohit-Gujarati.ttf
 2;1
-Source Han Sans TW Regular;思源黑體 TW Regular
-0;SourceHanSansTW-Regular;0;5;5;2;65535;1160;320;480;1;3930;1480;3930;1480;0;0;0;65536;Regular
+Lohit Gujarati
+0;Lohit-Gujarati;0;5;5;2;65535;930;367;240;0;2301;1297;2301;1297;0;0;0;0;Regular
 
-File:SourceHanSansTW-ExtraLight.otf
+FontCacheDirectory:1479245903:/usr/share/fonts/lohit-devanagari
+File:Lohit-Devanagari.ttf
 2;1
-Source Han Sans TW ExtraLight;思源黑體 TW ExtraLight
-0;SourceHanSansTW-ExtraLight;0;3;5;2;65535;1160;320;480;1;3921;1480;3921;1480;0;0;0;65536;ExtraLight
+Lohit Devanagari
+0;Lohit-Devanagari;0;5;5;2;65535;1094;502;259;0;1922;1596;1922;1596;0;0;0;0;Regular
 
-File:SourceHanSansTW-Normal.otf
+FontCacheDirectory:1479245902:/usr/share/fonts/lohit-bengali
+File:Lohit-Bengali.ttf
 2;1
-Source Han Sans TW Normal;思源黑體 TW Normal
-0;SourceHanSansTW-Normal;0;4;5;2;65535;1160;320;480;1;3928;1480;3928;1480;0;0;0;65536;Normal
+Lohit Bengali
+0;Lohit-Bengali;0;5;5;2;65535;988;422;260;0;2089;1410;2089;1410;0;0;0;0;Regular
 
-File:SourceHanSansTW-Heavy.otf
+FontCacheDirectory:1479245898:/usr/share/fonts/lohit-assamese
+File:Lohit-Assamese.ttf
 2;1
-Source Han Sans TW Heavy;思源黑體 TW Heavy
-0;SourceHanSansTW-Heavy;0;10;5;2;65535;1160;320;480;1;3944;1480;3944;1480;0;0;0;65536;Heavy
+Lohit Assamese
+0;Lohit-Assamese;0;5;5;2;65535;988;422;260;0;2089;1410;2089;1410;0;0;0;0;Regular
 
-File:SourceHanSansTW-Medium.otf
+FontCacheDirectory:1479245258:/usr/share/fonts/liberation
+File:LiberationSans-Bold.ttf
 2;1
-Source Han Sans TW Medium;思源黑體 TW Medium
-0;SourceHanSansTW-Medium;0;6;5;2;65535;1160;320;480;1;3934;1480;3934;1480;0;0;0;65536;Medium
+Liberation Sans
+0;LiberationSans-Bold;0;8;5;2;65535;905;211;32;0;1246;1116;1246;1116;0;0;0;0;Bold
 
-File:SourceHanSansTW-Light.otf
+File:LiberationSans-Regular.ttf
 2;1
-Source Han Sans TW Light;思源黑體 TW Light
-0;SourceHanSansTW-Light;0;3;5;2;65535;1160;320;480;1;3924;1480;3924;1480;0;0;0;65536;Light
+Liberation Sans
+0;LiberationSans;0;5;5;2;65535;905;211;32;0;1253;1116;1253;1116;0;0;0;0;Regular
 
-FontCacheDirectory:1465922392:/usr/share/fonts/thai-scalable
-File:Waree-Bold.ttf
+File:LiberationMono-Bold.ttf
 2;1
-Waree
-0;Waree-Bold;0;8;5;2;65535;1240;515;755;0;2225;1755;2225;1755;0;0;0;0;Bold
+Liberation Mono
+0;LiberationMono-Bold;0;8;5;1;65535;832;300;169;0;640;1132;640;1132;0;0;0;0;Bold
 
-File:Waree-BoldOblique.ttf
+File:LiberationMono-BoldItalic.ttf
 2;1
-Waree
-0;Waree-BoldOblique;1;8;5;2;65535;1240;515;755;0;2133;1755;2133;1755;0;0;0;0;BoldOblique
+Liberation Mono
+0;LiberationMono-BoldItalic;2;8;5;1;65535;832;300;169;0;791;1132;791;1132;0;0;0;0;Bold Italic
 
-File:Waree-Oblique.ttf
+File:LiberationMono-Italic.ttf
 2;1
-Waree
-0;Waree-Oblique;1;5;5;2;65535;1232;430;662;0;1878;1662;1878;1662;0;0;0;0;Oblique
+Liberation Mono
+0;LiberationMono-Italic;2;5;5;1;65535;832;300;169;0;798;1132;798;1132;0;0;0;0;Italic
 
-File:Waree.ttf
+File:LiberationSans-BoldItalic.ttf
 2;1
-Waree
-0;Waree;0;5;5;2;65535;1232;430;662;0;1972;1662;1972;1662;0;0;0;0;Book
+Liberation Sans
+0;LiberationSans-BoldItalic;2;8;5;2;65535;905;211;32;0;1336;1116;1336;1116;0;0;0;0;Bold Italic
 
-FontCacheDirectory:1465922408:/usr/share/fonts/vlgothic
-File:VL-Gothic-Regular.ttf
+File:LiberationSerif-Regular.ttf
 2;1
-VL Gothic;VL ゴシック
-0;VL-Gothic-Regular;0;5;5;2;65535;1000;270;270;0;1332;1270;1332;1270;0;0;0;0;regular
+Liberation Serif
+0;LiberationSerif;0;5;5;2;65535;891;216;42;0;1182;1107;1182;1107;0;0;0;0;Regular
 
-FontCacheDirectory:1477676020:/usr/share/fonts/gdouros-symbola
-File:Symbola.ttf
+File:LiberationSerif-Italic.ttf
 2;1
-Symbola
-0;Symbola;0;5;4;2;65535;784;215;-1;0;3992;999;3992;999;0;0;0;0;Regular
+Liberation Serif
+0;LiberationSerif-Italic;2;5;5;2;65535;891;216;42;0;1263;1107;1263;1107;0;0;0;0;Italic
 
-FontCacheDirectory:1465922405:/usr/share/fonts/adobe-source-han-sans-cn
-File:SourceHanSansCN-Regular.otf
+File:LiberationSerif-BoldItalic.ttf
 2;1
-Source Han Sans CN Regular;思源黑体 CN Regular
-0;SourceHanSansCN-Regular;0;5;5;2;65535;1160;320;480;1;3930;1480;3930;1480;0;0;0;65536;Regular
+Liberation Serif
+0;LiberationSerif-BoldItalic;2;8;5;2;65535;891;216;42;0;1328;1107;1328;1107;0;0;0;0;Bold Italic
 
-File:SourceHanSansCN-Normal.otf
+File:LiberationMono-Regular.ttf
 2;1
-Source Han Sans CN Normal;思源黑体 CN Normal
-0;SourceHanSansCN-Normal;0;4;5;2;65535;1160;320;480;1;3928;1480;3928;1480;0;0;0;65536;Normal
+Liberation Mono
+0;LiberationMono;0;5;5;1;65535;832;300;169;0;632;1132;632;1132;0;0;0;0;Regular
 
-File:SourceHanSansCN-Heavy.otf
+File:LiberationSans-Italic.ttf
 2;1
-Source Han Sans CN Heavy;思源黑体 CN Heavy
-0;SourceHanSansCN-Heavy;0;10;5;2;65535;1160;320;480;1;3944;1480;3944;1480;0;0;0;65536;Heavy
+Liberation Sans
+0;LiberationSans-Italic;2;5;5;2;65535;905;211;32;0;1333;1116;1333;1116;0;0;0;0;Italic
 
-File:SourceHanSansCN-Medium.otf
+File:LiberationSerif-Bold.ttf
 2;1
-Source Han Sans CN Medium;思源黑体 CN Medium
-0;SourceHanSansCN-Medium;0;6;5;2;65535;1160;320;480;1;3934;1480;3934;1480;0;0;0;65536;Medium
+Liberation Serif
+0;LiberationSerif-Bold;0;8;5;2;65535;891;216;42;0;1266;1107;1266;1107;0;0;0;0;Bold
 
-File:SourceHanSansCN-Light.otf
+FontCacheDirectory:1488155800:/usr/share/fonts/lm
+File:lmsansquot8-regular.otf
 2;1
-Source Han Sans CN Light;思源黑体 CN Light
-0;SourceHanSansCN-Light;0;3;5;2;65535;1160;320;480;1;3924;1480;3924;1480;0;0;0;65536;Light
+LM Sans Quot 8;Latin Modern Sans Quotation
+0;LMSansQuot8-Regular;0;5;5;2;65535;1107;288;209;0;2286;1395;2286;1395;0;0;0;65548;8 Regular
 
-File:SourceHanSansCN-ExtraLight.otf
+File:lmsansquot8-oblique.otf
 2;1
-Source Han Sans CN ExtraLight;思源黑体 CN ExtraLight
-0;SourceHanSansCN-ExtraLight;0;3;5;2;65535;1160;320;480;1;3921;1480;3921;1480;0;0;0;65536;ExtraLight
+LM Sans Quot 8;Latin Modern Sans Quotation
+0;LMSansQuot8-Oblique;1;5;5;2;65535;1107;288;209;0;2359;1395;2359;1395;0;0;0;65548;8 Oblique
 
-File:SourceHanSansCN-Bold.otf
+File:lmsansdemicond10-oblique.otf
 2;1
-Source Han Sans CN Bold;思源黑体 CN Bold
-0;SourceHanSansCN-Bold;0;8;5;2;65535;1160;320;480;1;3939;1480;3939;1480;0;0;0;65536;Bold
+LM Sans Demi Cond 10;Latin Modern Sans Demi Cond
+0;LMSansDemiCond10-Oblique;1;7;5;2;65535;1143;264;211;0;1995;1407;1995;1407;0;0;0;65548;10 Oblique
 
-FontCacheDirectory:1465922408:/usr/share/fonts/stix
-File:STIX-BoldItalic.otf
+File:lmsansdemicond10-regular.otf
 2;1
-STIX
-0;STIX-BoldItalic;2;8;5;2;65535;1004;359;363;0;2183;1363;2183;1363;0;0;0;65536;Bold Italic
+LM Sans Demi Cond 10;Latin Modern Sans Demi Cond
+0;LMSansDemiCond10-Regular;0;7;5;2;65535;1143;264;211;0;1920;1407;1920;1407;0;0;0;65548;10 Regular
 
-File:STIX-Italic.otf
+File:lmsans10-bold.otf
 2;1
-STIX
-0;STIX-Italic;2;5;5;2;65535;1023;305;328;0;2399;1328;2399;1328;0;0;0;65536;Italic
+LM Sans 10;Latin Modern Sans
+0;LMSans10-Bold;0;8;5;2;65535;1134;297;214;0;2221;1431;2221;1431;0;0;0;65548;10 Bold
 
-File:STIX-Regular.otf
+File:lmsans10-oblique.otf
 2;1
-STIX
-0;STIX-Regular;0;5;5;2;65535;1023;486;509;0;3178;1509;3178;1509;0;0;0;65536;Regular
+LM Sans 10;Latin Modern Sans
+0;LMSans10-Oblique;1;5;5;2;65535;1154;309;219;0;1929;1463;1929;1463;0;0;0;65548;10 Oblique
 
-File:STIX-Bold.otf
+File:lmsans10-regular.otf
 2;1
-STIX
-0;STIX-Bold;0;8;5;2;65535;1055;552;607;0;2998;1607;2998;1607;0;0;0;65536;Bold
+LM Sans 10;Latin Modern Sans
+0;LMSans10-Regular;0;5;5;2;65535;1154;309;219;0;1851;1463;1851;1463;0;0;0;65548;10 Regular
 
-FontCacheDirectory:1465922408:/usr/share/fonts/paktype-naskh-basic
-File:PakTypeNaskhBasic.ttf
+File:lmsans12-oblique.otf
 2;1
-PakType Naskh Basic
-0;PakTypeNaskhBasic;0;5;5;2;65535;1601;956;1557;0;3273;2557;3273;2557;0;0;0;0;Regular
+LM Sans 12;Latin Modern Sans
+0;LMSans12-Oblique;1;5;5;2;65535;1154;308;219;0;1897;1462;1897;1462;0;0;0;65548;12 Oblique
 
-FontCacheDirectory:1465922397:/usr/share/fonts/sil-padauk
-File:Padauk.ttf
+File:lmsans12-regular.otf
 2;1
-Padauk;á??á??á??á?±á?¬á??á?º;áá­áá±á¬ááº
-0;ပိတောက်-Regular;0;5;5;2;65535;986;488;474;0;2790;1474;2790;1474;0;0;0;0;Regular
+LM Sans 12;Latin Modern Sans
+0;LMSans12-Regular;0;5;5;2;65535;1154;308;219;0;1818;1462;1818;1462;0;0;0;65548;12 Regular
 
-File:Padauk-bold.ttf
+File:lmsans17-oblique.otf
 2;1
-Padauk;á??á??á??á?±á?¬á??á?º;áá­áá±á¬ááº
-0;ပိတောက်-စာလုံးမဲ;0;8;5;2;65535;986;488;474;0;2888;1474;2888;1474;0;0;0;0;Bold
+LM Sans 17;Latin Modern Sans
+0;LMSans17-Oblique;1;5;5;2;65535;1159;305;219;0;1834;1464;1834;1464;0;0;0;65548;17 Oblique
 
-FontCacheDirectory:1465922407:/usr/share/fonts/paratype-pt-sans
-File:PTN57F.ttf
+File:lmromanslant8-regular.otf
 2;1
-PT Sans Narrow
-0;PTSans-Narrow;0;5;3;2;65535;1018;276;294;0;1299;1294;1299;1294;0;0;0;0;Regular
+LM Roman Slanted 8;Latin Modern Roman Slanted
+0;LMRomanSlant8-Regular;0;5;5;2;65535;1125;292;212;0;2009;1417;2009;1417;0;0;0;65548;8 Regular
 
-File:PTN77F.ttf
+File:lmromanslant17-regular.otf
 2;1
-PT Sans Narrow
-0;PTSans-NarrowBold;0;8;3;2;65535;1018;276;294;0;1433;1294;1433;1294;0;0;0;0;Bold
+LM Roman Slanted 17;Latin Modern Roman Slanted
+0;LMRomanSlant17-Regular;0;5;5;2;65535;1125;286;211;0;1795;1411;1795;1411;0;0;0;65548;17 Regular
 
-File:PTS76F.ttf
+File:lmromanslant10-regular.otf
 2;1
-PT Sans
-0;PTSans-BoldItalic;2;8;5;2;65535;1018;276;294;0;1468;1294;1468;1294;0;0;0;0;Bold Italic
+LM Roman Slanted 10;Latin Modern Roman Slanted
+0;LMRomanSlant10-Regular;0;5;5;2;65535;1127;290;212;0;1903;1417;1903;1417;0;0;0;65548;10 Regular
 
-File:PTS75F.ttf
+File:lmsans8-regular.otf
 2;1
-PT Sans
-0;PTSans-Bold;0;8;5;2;65535;1018;276;294;0;1578;1294;1578;1294;0;0;0;0;Bold
+LM Sans 8;Latin Modern Sans
+0;LMSans8-Regular;0;5;5;2;65535;1154;314;220;0;1956;1468;1956;1468;0;0;0;65548;8 Regular
 
-File:PTS56F.ttf
+File:lmromanslant10-bold.otf
 2;1
-PT Sans
-0;PTSans-Italic;2;5;5;2;65535;1018;276;294;0;1372;1294;1372;1294;0;0;0;0;Italic
+LM Roman Slanted 10;Latin Modern Roman Slanted
+0;LMRomanSlant10-Bold;0;8;5;2;65535;1133;295;214;0;2148;1428;2148;1428;0;0;0;65548;10 Bold
 
-File:PTS55F.ttf
+File:lmromandunh10-regular.otf
 2;1
-PT Sans
-0;PTSans-Regular;0;5;5;2;65535;1018;276;294;0;1448;1294;1448;1294;0;0;0;0;Regular
+LM Roman Dunhill 10;Latin Modern Roman Dunhill
+0;LMRomanDunh10-Regular;0;5;5;2;65535;1514;549;309;0;1926;2063;1926;2063;0;0;0;65548;10 Regular
 
-FontCacheDirectory:1477673955:/usr/share/fonts/opensymbol
-File:opens___.ttf
+File:lmmonoproplt10-oblique.otf
 2;1
-OpenSymbol
-0;OpenSymbol;0;5;5;2;65535;799;200;-1;0;1262;999;1262;999;0;0;0;8;Regular
+LM Mono Prop Light 10;Latin Modern Mono Prop Light
+0;LMMonoPropLt10-Oblique;1;5;5;2;65535;968;326;194;0;1965;1294;1965;1294;0;0;0;65548;10 Oblique
 
-FontCacheDirectory:1478264946:/usr/share/fonts/open-sans
-File:OpenSans-Light.ttf
+File:lmsansquot8-bold.otf
 2;1
-Open Sans Light
-0;OpenSans-Light;0;3;5;2;65535;1068;292;360;0;1660;1360;1660;1360;0;0;0;0;Light
+LM Sans Quot 8;Latin Modern Sans Quotation
+0;LMSansQuot8-Bold;0;8;5;2;65535;1104;313;212;0;2545;1417;2545;1417;0;0;0;65548;8 Bold
 
-File:OpenSans-LightItalic.ttf
+File:lmmonoslant10-regular.otf
 2;1
-Open Sans Light
-0;OpenSansLight-Italic;2;3;5;2;65535;1068;292;360;0;1730;1360;1730;1360;0;0;0;0;Light Italic
+LM Mono Slanted 10;Latin Modern Mono Slanted
+0;LMMonoSlant10-Regular;0;5;5;1;65535;1016;316;199;0;1263;1332;1263;1332;0;0;0;65548;10 Regular
 
-File:OpenSans-ExtraBoldItalic.ttf
+File:lmromandemi10-oblique.otf
 2;1
-Open Sans Extrabold
-0;OpenSans-ExtraboldItalic;2;9;5;2;65535;1068;292;360;0;1869;1360;1869;1360;0;0;0;0;Extrabold Italic
+LM Roman Demi 10;Latin Modern Roman Demi
+0;LMRomanDemi10-Oblique;1;7;5;2;65535;1136;295;214;0;1884;1431;1884;1431;0;0;0;65548;10 Oblique
 
-File:OpenSans-BoldItalic.ttf
+File:lmroman9-regular.otf
 2;1
-Open Sans
-0;OpenSans-BoldItalic;2;8;5;2;65535;1068;292;360;0;1805;1360;1805;1360;0;0;0;0;Bold Italic
+LM Roman 9;Latin Modern Roman
+0;LMRoman9-Regular;0;5;5;2;65535;1128;292;213;0;1897;1420;1897;1420;0;0;0;65548;9 Regular
 
-File:OpenSans-Italic.ttf
+File:lmmonoproplt10-regular.otf
 2;1
-Open Sans
-0;OpenSans-Italic;2;5;5;2;65535;1068;292;360;0;1728;1360;1728;1360;0;0;0;0;Italic
+LM Mono Prop Light 10;Latin Modern Mono Prop Light
+0;LMMonoPropLt10-Regular;0;5;5;2;65535;968;326;194;0;1918;1294;1918;1294;0;0;0;65548;10 Regular
 
-File:OpenSans-Regular.ttf
+File:lmromanunsl10-regular.otf
 2;1
-Open Sans
-0;OpenSans;0;5;5;2;65535;1068;292;360;0;1753;1360;1753;1360;0;0;0;0;Regular
+LM Roman Unslanted 10;Latin Modern Roman Unslanted
+0;LMRomanUnsl10-Regular;0;5;5;2;65535;1124;292;212;0;1906;1416;1906;1416;0;0;0;65548;10 Regular
 
-File:OpenSans-SemiboldItalic.ttf
+File:lmmonoprop10-regular.otf
 2;1
-Open Sans Semibold
-0;OpenSans-SemiboldItalic;2;7;5;2;65535;1068;292;360;0;1746;1360;1746;1360;0;0;0;0;Semibold Italic
+LM Mono Prop 10;Latin Modern Mono Prop
+0;LMMonoProp10-Regular;0;5;5;2;65535;996;316;196;0;1910;1312;1910;1312;0;0;0;65548;10 Regular
 
-File:OpenSans-ExtraBold.ttf
+File:lmmonoltcond10-oblique.otf
 2;1
-Open Sans Extrabold
-0;OpenSans-Extrabold;0;9;5;2;65535;1068;292;360;0;2134;1360;2134;1360;0;0;0;0;Extrabold
+LM Mono Light Cond 10;Latin Modern Mono Light Cond
+0;LMMonoLtCond10-Oblique;1;5;5;1;65535;991;321;196;0;900;1312;900;1312;0;0;0;65548;10 Oblique
 
-File:OpenSans-Semibold.ttf
+File:lmroman7-italic.otf
 2;1
-Open Sans Semibold
-0;OpenSans-Semibold;0;7;5;2;65535;1068;292;360;0;1844;1360;1844;1360;0;0;0;0;Semibold
+LM Roman 7;Latin Modern Roman
+0;LMRoman7-Italic;2;5;5;2;65535;1123;292;212;0;2099;1415;2099;1415;0;0;0;65548;7 Italic
 
-File:OpenSans-Bold.ttf
+File:lmroman6-regular.otf
 2;1
-Open Sans
-0;OpenSans-Bold;0;8;5;2;65535;1068;292;360;0;1937;1360;1937;1360;0;0;0;0;Bold
+LM Roman 6;Latin Modern Roman
+0;LMRoman6-Regular;0;5;5;2;65535;1125;298;213;0;2162;1423;2162;1423;0;0;0;65548;6 Regular
 
-FontCacheDirectory:1465922408:/usr/share/fonts/sil-nuosu
-File:NuosuSIL.ttf
+File:lmmonoltcond10-regular.otf
 2;1
-Nuosu SIL
-0;NuosuSIL;0;5;5;2;65535;1074;244;318;0;1080;1318;1080;1318;0;0;0;0;Regular
+LM Mono Light Cond 10;Latin Modern Mono Light Cond
+0;LMMonoLtCond10-Regular;0;5;5;1;65535;991;321;196;0;820;1312;820;1312;0;0;0;65548;10 Regular
 
-FontCacheDirectory:1477676010:/usr/share/fonts/google-noto
-File:NotoSansTaiViet-Regular.ttf
+File:lmmono10-italic.otf
 2;1
-Noto Sans Tai Viet
-0;NotoSansTaiViet;0;5;5;2;65535;1068;292;360;0;2255;1360;2255;1360;0;0;0;0;Regular
+LM Mono 10;Latin Modern Mono
+0;LMMono10-Italic;2;5;5;1;65535;1016;316;199;0;1325;1332;1325;1332;0;0;0;65548;10 Italic
 
-File:NotoSansTaiTham-Regular.ttf
+File:lmsans8-oblique.otf
 2;1
-Noto Sans Tai Tham
-0;NotoSansTaiTham;0;5;5;2;65535;1068;296;364;0;1927;1364;1927;1364;0;0;0;0;Regular
+LM Sans 8;Latin Modern Sans
+0;LMSans8-Oblique;1;5;5;2;65535;1154;314;220;0;2034;1468;2034;1468;0;0;0;65548;8 Oblique
 
-File:NotoSansLisu-Regular.ttf
+File:lmmonoproplt10-boldoblique.otf
 2;1
-Noto Sans Lisu
-0;NotoSansLisu;0;5;5;2;65535;1068;292;360;0;916;1360;916;1360;0;0;0;0;Regular
+LM Mono Prop Light 10;Latin Modern Mono Prop Light
+0;LMMonoPropLt10-BoldOblique;1;8;5;2;65535;1021;307;199;0;1967;1328;1967;1328;0;0;0;65548;10 BoldOblique
 
-File:NotoSansMeeteiMayek-Regular.ttf
+File:lmromandemi10-regular.otf
 2;1
-Noto Sans Meetei Mayek
-0;NotoSansMeeteiMayek;0;5;5;2;65535;1068;317;385;0;2294;1385;2294;1385;0;0;0;0;Regular
+LM Roman Demi 10;Latin Modern Roman Demi
+0;LMRomanDemi10-Regular;0;7;5;2;65535;1136;295;214;0;1848;1431;1848;1431;0;0;0;65548;10 Regular
 
-File:NotoSansMandaic-Regular.ttf
+File:lmmono12-regular.otf
 2;1
-Noto Sans Mandaic
-0;NotoSansMandaic;0;5;5;2;65535;723;403;126;0;1204;1126;1204;1126;0;0;0;0;Regular
+LM Mono 12;Latin Modern Mono
+0;LMMono12-Regular;0;5;5;1;65535;1019;311;199;0;1159;1330;1159;1330;0;0;0;65548;12 Regular
 
-File:NotoSansTagalog-Regular.ttf
+File:lmsans10-boldoblique.otf
 2;1
-Noto Sans Tagalog
-0;NotoSansTagalog;0;5;5;2;65535;1068;292;360;0;1393;1360;1393;1360;0;0;0;0;Regular
+LM Sans 10;Latin Modern Sans
+0;LMSans10-BoldOblique;1;8;5;2;65535;1134;297;214;0;2297;1431;2297;1431;0;0;0;65548;10 Bold Oblique
 
-FontCacheDirectory:1477673334:/usr/share/fonts/google-noto-emoji
-File:NotoEmoji-Regular.ttf
+File:lmmonoprop10-oblique.otf
 2;1
-Noto Emoji
-0;NotoEmoji;0;5;5;1;65535;1068;292;360;0;1332;1360;1332;1360;0;0;0;0;Regular
+LM Mono Prop 10;Latin Modern Mono Prop
+0;LMMonoProp10-Oblique;1;5;5;2;65535;996;316;196;0;1958;1312;1958;1312;0;0;0;65548;10 Oblique
 
-FontCacheDirectory:1465922391:/usr/share/fonts/naver-nanum
-File:NanumGothicLight.ttf
+File:lmroman7-regular.otf
 2;1
-NanumGothic Light;NanumGothic;나눔고딕;나눔고딕 Light
-0;NanumGothicLight;0;3;5;2;65535;920;230;150;0;1029;1150;1029;1150;0;0;0;8;Light
+LM Roman 7;Latin Modern Roman
+0;LMRoman7-Regular;0;5;5;2;65535;1124;292;212;0;2045;1416;2045;1416;0;0;0;65548;7 Regular
 
-File:NanumGothic.ttf
+File:lmsans9-oblique.otf
 2;1
-NanumGothic;나눔고딕
-0;NanumGothic;0;5;5;2;65535;920;230;150;0;1005;1150;1005;1150;0;0;0;8;Regular
+LM Sans 9;Latin Modern Sans
+0;LMSans9-Oblique;1;5;5;2;65535;1155;313;220;0;1977;1468;1977;1468;0;0;0;65548;9 Oblique
 
-File:NanumGothicExtraBold.ttf
+File:lmromancaps10-oblique.otf
 2;1
-NanumGothicExtraBold;NanumGothic;나눔고딕;나눔고딕 ExtraBold
-0;NanumGothicExtraBold;0;8;5;2;65535;920;230;150;0;1049;1150;1049;1150;0;0;0;8;ExtraBold
+LM Roman Caps 10;Latin Modern Roman Caps
+0;LMRomanCaps10-Oblique;1;5;5;2;65535;1100;290;208;0;2053;1390;2053;1390;0;0;0;65548;10 Oblique
 
-File:NanumGothicBold.ttf
+File:lmroman9-bold.otf
 2;1
-NanumGothic;나눔고딕
-0;NanumGothicBold;0;7;5;2;65535;920;230;150;0;1033;1150;1033;1150;0;0;0;8;Bold
+LM Roman 9;Latin Modern Roman
+0;LMRoman9-Bold;0;8;5;2;65535;1136;299;215;0;2150;1435;2150;1435;0;0;0;65548;9 Bold
 
-FontCacheDirectory:1465922393:/usr/share/fonts/julietaula-montserrat
-File:MontserratAlternates-Medium.otf
+File:lmmono9-regular.otf
 2;1
-Montserrat Alternates Medium;Montserrat Alternates
-0;MontserratAlternates-Medium;0;6;5;2;65535;968;251;219;0;1675;1219;1675;1219;0;0;0;65536;Medium
+LM Mono 9;Latin Modern Mono
+0;LMMono9-Regular;0;5;5;1;65535;1016;318;200;0;1185;1334;1185;1334;0;0;0;65548;9 Regular
 
-File:MontserratAlternates-Black.otf
+File:lmroman10-bold.otf
 2;1
-Montserrat Alternates Black;Montserrat Alternates
-0;MontserratAlternates-Black;0;10;5;2;65535;968;251;219;0;1775;1219;1775;1219;0;0;0;65536;Black
+LM Roman 10;Latin Modern Roman
+0;LMRoman10-Bold;0;8;5;2;65535;1133;295;214;0;2093;1428;2093;1428;0;0;0;65548;10 Bold
 
-File:MontserratAlternates-Bold.ttf
+File:lmroman9-italic.otf
 2;1
-Montserrat Alternates
-0;MontserratAlternates-Bold;0;8;5;2;65535;968;251;219;0;1725;1219;1725;1219;0;0;0;0;Bold
+LM Roman 9;Latin Modern Roman
+0;LMRoman9-Italic;2;5;5;2;65535;1127;292;212;0;1888;1419;1888;1419;0;0;0;65548;9 Italic
 
-File:MontserratAlternates-Light.otf
+File:lmromanslant12-regular.otf
 2;1
-Montserrat Alternates Light;Montserrat Alternates
-0;MontserratAlternates-Light;0;3;5;2;65535;968;251;219;0;1620;1219;1620;1219;0;0;0;65536;Light
+LM Roman Slanted 12;Latin Modern Roman Slanted
+0;LMRomanSlant12-Regular;0;5;5;2;65535;1127;280;211;0;1873;1407;1873;1407;0;0;0;65548;12 Regular
 
-File:MontserratAlternates-Light.ttf
+File:lmmonocaps10-regular.otf
 2;1
-Montserrat Alternates Light;Montserrat Alternates
-0;MontserratAlternates-Light;0;3;5;2;65535;968;251;219;0;1620;1219;1620;1219;0;0;0;0;Light
+LM Mono Caps 10;Latin Modern Mono Caps
+0;LMMonoCaps10-Regular;0;5;5;1;65535;985;316;195;0;1424;1301;1424;1301;0;0;0;65548;10 Regular
 
-File:MontserratAlternates-Medium.ttf
+File:lmmonolt10-bold.otf
 2;1
-Montserrat Alternates Medium;Montserrat Alternates
-0;MontserratAlternates-Medium;0;6;5;2;65535;968;251;219;0;1675;1219;1675;1219;0;0;0;0;Medium
+LM Mono Light 10;Latin Modern Mono Light
+0;LMMonoLt10-Bold;0;8;5;1;65535;1039;308;202;0;1188;1347;1188;1347;0;0;0;65548;10 Bold
 
-File:MontserratAlternates-ExtraBold.ttf
+File:lmmono10-regular.otf
 2;1
-Montserrat Alternates Ex Bold;Montserrat Alternates
-0;MontserratAlternates-ExtraBold;0;9;5;2;65535;968;251;219;0;1751;1219;1751;1219;0;0;0;0;Extra Bold
+LM Mono 10;Latin Modern Mono
+0;LMMono10-Regular;0;5;5;1;65535;1016;316;199;0;1182;1332;1182;1332;0;0;0;65548;10 Regular
 
-File:MontserratAlternates-Regular.otf
+File:lmroman8-regular.otf
 2;1
-Montserrat Alternates
-0;MontserratAlternates-Regular;0;5;5;2;65535;968;251;219;0;1658;1219;1658;1219;0;0;0;65536;Regular
+LM Roman 8;Latin Modern Roman
+0;LMRoman8-Regular;0;5;5;2;65535;1125;292;212;0;1953;1417;1953;1417;0;0;0;65548;8 Regular
 
-File:MontserratAlternates-SemiBold.otf
+File:lmmonoproplt10-bold.otf
 2;1
-Montserrat Alternates Semi Bold;Montserrat Alternates
-0;MontserratAlternates-SemiBold;0;7;5;2;65535;968;251;219;0;1700;1219;1700;1219;0;0;0;65536;Semi Bold
+LM Mono Prop Light 10;Latin Modern Mono Prop Light
+0;LMMonoPropLt10-Bold;0;8;5;2;65535;1021;307;199;0;1922;1328;1922;1328;0;0;0;65548;10 Bold
 
-File:MontserratAlternates-SemiBold.ttf
+File:lmroman6-bold.otf
 2;1
-Montserrat Alternates Semi Bold;Montserrat Alternates
-0;MontserratAlternates-SemiBold;0;7;5;2;65535;968;251;219;0;1700;1219;1700;1219;0;0;0;0;Semi Bold
+LM Roman 6;Latin Modern Roman
+0;LMRoman6-Bold;0;8;5;2;65535;1146;313;218;0;2452;1459;2452;1459;0;0;0;65548;6 Bold
 
-File:MontserratAlternates-Thin.otf
+File:lmmono8-regular.otf
 2;1
-Montserrat Alternates Thin;Montserrat Alternates
-0;MontserratAlternates-Thin;0;1;5;2;65535;968;251;219;0;1558;1219;1558;1219;0;0;0;65536;Thin
+LM Mono 8;Latin Modern Mono
+0;LMMono8-Regular;0;5;5;1;65535;1014;320;200;0;1199;1334;1199;1334;0;0;0;65548;8 Regular
 
-File:MontserratAlternates-ExtraBold.otf
+File:lmmonolt10-boldoblique.otf
 2;1
-Montserrat Alternates Ex Bold;Montserrat Alternates
-0;MontserratAlternates-ExtraBold;0;9;5;2;65535;968;251;219;0;1751;1219;1751;1219;0;0;0;65536;Extra Bold
+LM Mono Light 10;Latin Modern Mono Light
+0;LMMonoLt10-BoldOblique;1;8;5;1;65535;1039;308;202;0;1269;1347;1269;1347;0;0;0;65548;10 Bold Oblique
 
-File:Montserrat-Medium.ttf
+File:lmmonocaps10-oblique.otf
 2;1
-Montserrat Medium;Montserrat
-0;Montserrat-Medium;0;6;5;2;65535;968;251;219;0;1675;1219;1675;1219;0;0;0;0;Medium
+LM Mono Caps 10;Latin Modern Mono Caps
+0;LMMonoCaps10-Oblique;1;5;5;1;65535;985;316;195;0;1500;1301;1500;1301;0;0;0;65548;10 Oblique
 
-File:Montserrat-SemiBold.ttf
+File:lmroman12-italic.otf
 2;1
-Montserrat Semi Bold;Montserrat
-0;Montserrat-SemiBold;0;7;5;2;65535;968;251;219;0;1700;1219;1700;1219;0;0;0;0;Semi Bold
+LM Roman 12;Latin Modern Roman
+0;LMRoman12-Italic;2;5;5;2;65535;1125;289;212;0;1807;1414;1807;1414;0;0;0;65548;12 Italic
 
-File:Montserrat-Regular.otf
+File:lmmonolt10-regular.otf
 2;1
-Montserrat
-0;Montserrat-Regular;0;5;5;2;65535;968;251;219;0;1658;1219;1658;1219;0;0;0;65536;Regular
+LM Mono Light 10;Latin Modern Mono Light
+0;LMMonoLt10-Regular;0;5;5;1;65535;986;327;196;0;1184;1313;1184;1313;0;0;0;65548;10 Regular
 
-File:Montserrat-ExtraBold.ttf
+File:lmroman7-bold.otf
 2;1
-Montserrat Extra Bold;Montserrat
-0;Montserrat-ExtraBold;0;9;5;2;65535;968;251;219;0;1751;1219;1751;1219;0;0;0;0;Extra Bold
+LM Roman 7;Latin Modern Roman
+0;LMRoman7-Bold;0;8;5;2;65535;1146;304;217;0;2318;1450;2318;1450;0;0;0;65548;7 Bold
 
-File:MontserratAlternates-Regular.ttf
+File:lmroman8-bold.otf
 2;1
-Montserrat Alternates
-0;MontserratAlternates-Regular;0;5;5;2;65535;968;251;219;0;1658;1219;1658;1219;0;0;0;0;Regular
+LM Roman 8;Latin Modern Roman
+0;LMRoman8-Bold;0;8;5;2;65535;1136;307;216;0;2223;1443;2223;1443;0;0;0;65548;8 Bold
 
-File:Montserrat-SemiBold.otf
+File:lmroman8-italic.otf
 2;1
-Montserrat Semi Bold;Montserrat
-0;Montserrat-SemiBold;0;7;5;2;65535;968;251;219;0;1700;1219;1700;1219;0;0;0;65536;Semi Bold
+LM Roman 8;Latin Modern Roman
+0;LMRoman8-Italic;2;5;5;2;65535;1124;292;212;0;1961;1416;1961;1416;0;0;0;65548;8 Italic
 
-File:Montserrat-Medium.otf
+File:lmsans9-regular.otf
 2;1
-Montserrat Medium;Montserrat
-0;Montserrat-Medium;0;6;5;2;65535;968;251;219;0;1675;1219;1675;1219;0;0;0;65536;Medium
+LM Sans 9;Latin Modern Sans
+0;LMSans9-Regular;0;5;5;2;65535;1155;313;220;0;1899;1468;1899;1468;0;0;0;65548;9 Regular
 
-File:Montserrat-Thin.otf
+File:lmromancaps10-regular.otf
 2;1
-Montserrat Thin;Montserrat
-0;Montserrat-Thin;0;1;5;2;65535;968;251;219;0;1558;1219;1558;1219;0;0;0;65536;Thin
+LM Roman Caps 10;Latin Modern Roman Caps
+0;LMRomanCaps10-Regular;0;5;5;2;65535;1100;290;208;0;1997;1390;1997;1390;0;0;0;65548;10 Regular
 
-File:Montserrat-UltraLight.ttf
+File:lmroman5-bold.otf
 2;1
-Montserrat Ultra Light;Montserrat
-0;Montserrat-UltraLight;0;2;5;2;65535;968;251;219;0;1580;1219;1580;1219;0;0;0;0;Ultra Light
+LM Roman 5;Latin Modern Roman
+0;LMRoman5-Bold;0;8;5;2;65535;1163;325;223;0;2636;1488;2636;1488;0;0;0;65548;5 Bold
 
-File:MontserratAlternates-Bold.otf
+File:lmsans17-regular.otf
 2;1
-Montserrat Alternates
-0;MontserratAlternates-Bold;0;8;5;2;65535;968;251;219;0;1725;1219;1725;1219;0;0;0;65536;Bold
+LM Sans 17;Latin Modern Sans
+0;LMSans17-Regular;0;5;5;2;65535;1159;305;219;0;1750;1464;1750;1464;0;0;0;65548;17 Regular
 
-File:Montserrat-Regular.ttf
+File:lmmonolt10-oblique.otf
 2;1
-Montserrat
-0;Montserrat-Regular;0;5;5;2;65535;968;251;219;0;1658;1219;1658;1219;0;0;0;0;Regular
+LM Mono Light 10;Latin Modern Mono Light
+0;LMMonoLt10-Oblique;1;5;5;1;65535;986;327;196;0;1265;1313;1265;1313;0;0;0;65548;10 Oblique
 
-File:Montserrat-Thin.ttf
+File:lmroman10-bolditalic.otf
 2;1
-Montserrat Thin;Montserrat
-0;Montserrat-Thin;0;1;5;2;65535;968;251;219;0;1558;1219;1558;1219;0;0;0;0;Thin
+LM Roman 10;Latin Modern Roman
+0;LMRoman10-BoldItalic;2;8;5;2;65535;1147;307;218;0;2083;1454;2083;1454;0;0;0;65548;10 Bold Italic
 
-File:Montserrat-UltraLight.otf
+File:lmromanslant9-regular.otf
 2;1
-Montserrat Ultra Light;Montserrat
-0;Montserrat-UltraLight;0;2;5;2;65535;968;251;219;0;1580;1219;1580;1219;0;0;0;65536;Ultra Light
+LM Roman Slanted 9;Latin Modern Roman Slanted
+0;LMRomanSlant9-Regular;0;5;5;2;65535;1128;292;213;0;1953;1420;1953;1420;0;0;0;65548;9 Regular
 
-File:Montserrat-Light.ttf
+File:lmroman10-italic.otf
 2;1
-Montserrat Light;Montserrat
-0;Montserrat-Light;0;3;5;2;65535;968;251;219;0;1620;1219;1620;1219;0;0;0;0;Light
+LM Roman 10;Latin Modern Roman
+0;LMRoman10-Italic;2;5;5;2;65535;1125;290;212;0;1844;1415;1844;1415;0;0;0;65548;10 Italic
 
-File:Montserrat-Light.otf
+File:lmroman12-bold.otf
 2;1
-Montserrat Light;Montserrat
-0;Montserrat-Light;0;3;5;2;65535;968;251;219;0;1620;1219;1620;1219;0;0;0;65536;Light
+LM Roman 12;Latin Modern Roman
+0;LMRoman12-Bold;0;8;5;2;65535;1137;289;213;0;2053;1426;2053;1426;0;0;0;65548;12 Bold
 
-File:Montserrat-Black.otf
+File:lmsansquot8-boldoblique.otf
 2;1
-Montserrat Black;Montserrat
-0;Montserrat-Black;0;10;5;2;65535;968;251;219;0;1775;1219;1775;1219;0;0;0;65536;Black
+LM Sans Quot 8;Latin Modern Sans Quotation
+0;LMSansQuot8-BoldOblique;1;8;5;2;65535;1104;313;212;0;2622;1417;2622;1417;0;0;0;65548;8 Bold Oblique
 
-File:Montserrat-Bold.otf
+File:lmroman10-regular.otf
 2;1
-Montserrat
-0;Montserrat-Bold;0;8;5;2;65535;968;251;219;0;1725;1219;1725;1219;0;0;0;65536;Bold
+LM Roman 10;Latin Modern Roman
+0;LMRoman10-Regular;0;5;5;2;65535;1127;290;212;0;1847;1417;1847;1417;0;0;0;65548;10 Regular
 
-File:Montserrat-ExtraBold.otf
+File:lmroman12-regular.otf
 2;1
-Montserrat Extra Bold;Montserrat
-0;Montserrat-ExtraBold;0;9;5;2;65535;968;251;219;0;1751;1219;1751;1219;0;0;0;65536;Extra Bold
+LM Roman 12;Latin Modern Roman
+0;LMRoman12-Regular;0;5;5;2;65535;1127;280;211;0;1816;1407;1816;1407;0;0;0;65548;12 Regular
 
-File:Montserrat-Bold.ttf
+File:lmroman5-regular.otf
 2;1
-Montserrat
-0;Montserrat-Bold;0;8;5;2;65535;968;251;219;0;1725;1219;1725;1219;0;0;0;0;Bold
+LM Roman 5;Latin Modern Roman
+0;LMRoman5-Regular;0;5;5;2;65535;1126;303;214;0;2338;1429;2338;1429;0;0;0;65548;5 Regular
 
-File:Montserrat-Black.ttf
+File:lmroman17-regular.otf
 2;1
-Montserrat Black;Montserrat
-0;Montserrat-Black;0;10;5;2;65535;968;251;219;0;1775;1219;1775;1219;0;0;0;0;Black
+LM Roman 17;Latin Modern Roman
+0;LMRoman17-Regular;0;5;5;2;65535;1125;286;211;0;1738;1411;1738;1411;0;0;0;65548;17 Regular
 
-File:MontserratAlternates-UltraLight.otf
+File:lmromandunh10-oblique.otf
 2;1
-Montserrat Alternates Ultra Light;Montserrat Alternates
-0;MontserratAlternates-UltraLight;0;2;5;2;65535;968;251;219;0;1580;1219;1580;1219;0;0;0;65536;Ultra Light
+LM Roman Dunhill 10;Latin Modern Roman Dunhill
+0;LMRomanDunh10-Oblique;1;5;5;2;65535;1514;549;309;0;1974;2063;1974;2063;0;0;0;65548;10 Oblique
 
-File:MontserratAlternates-Black.ttf
+FontCacheDirectory:1479245901:/usr/share/fonts/lklug
+File:lklug.ttf
 2;1
-Montserrat Alternates Black;Montserrat Alternates
-0;MontserratAlternates-Black;0;10;5;2;65535;968;251;219;0;1775;1219;1775;1219;0;0;0;0;Black
+LKLUG
+0;LKLUG;0;5;5;2;65535;883;423;184;0;2195;1306;2195;1306;0;0;0;0;Regular
 
-File:MontserratAlternates-UltraLight.ttf
+FontCacheDirectory:1479245890:/usr/share/fonts/khmeros
+File:KhmerOS_sys.ttf
 2;1
-Montserrat Alternates Ultra Light;Montserrat Alternates
-0;MontserratAlternates-UltraLight;0;2;5;2;65535;968;251;219;0;1580;1219;1580;1219;0;0;0;0;Ultra Light
+Khmer OS System
+0;KhmerOSsys;0;5;5;2;65535;1123;634;18;0;3710;1757;3710;1757;0;0;0;0;Regular
 
-File:MontserratAlternates-Thin.ttf
+File:KhmerOS_content.ttf
 2;1
-Montserrat Alternates Thin;Montserrat Alternates
-0;MontserratAlternates-Thin;0;1;5;2;65535;968;251;219;0;1558;1219;1558;1219;0;0;0;0;Thin
+Khmer OS Content
+0;KhmerOScontent;0;5;5;2;65535;1220;634;18;0;3266;1854;3266;1854;0;0;0;0;Regular
 
-FontCacheDirectory:1465922401:/usr/share/fonts/sil-mingzat
-File:Mingzat-R.ttf
+File:KhmerOS.ttf
 2;1
-Mingzat
-0;Mingzat;0;5;5;2;65535;1360;670;1030;0;3243;2030;3243;2030;0;0;0;0;Regular
+Khmer OS
+0;KhmerOS;0;5;5;2;65535;1269;732;18;0;3710;2001;3710;2001;0;0;0;0;Regular
 
-FontCacheDirectory:1465922392:/usr/share/fonts/smc
-File:Meera.ttf
+FontCacheDirectory:1479245904:/usr/share/fonts/jomolhari
+File:Jomolhari-alpha3c-0605331.ttf
 2;1
-Meera
-0;Meera;0;5;5;2;65535;705;527;232;0;2446;1232;2446;1232;0;0;0;8;Regular
+Jomolhari
+0;Jomolhari;0;5;5;2;65535;1218;382;240;0;2536;1600;2536;1600;0;0;0;0;Regular
 
-FontCacheDirectory:1465922407:/usr/share/fonts/lohit-telugu
-File:Lohit-Telugu.ttf
+FontCacheDirectory:1479245894:/usr/share/fonts/gnu-free
+File:FreeSerif.ttf
 2;1
-Lohit Telugu
-0;Lohit-Telugu;0;5;5;2;65535;975;658;633;0;2642;1633;2642;1633;0;0;0;0;Regular
+FreeSerif
+0;FreeSerif;0;5;5;2;65535;900;200;100;0;2646;1100;2646;1100;0;0;0;0;Regular
 
-FontCacheDirectory:1465922400:/usr/share/fonts/lohit-tamil
-File:Lohit-Tamil.ttf
+File:FreeSerifBold.ttf
 2;1
-Lohit Tamil
-0;Lohit-Tamil;0;5;5;2;65535;849;347;196;0;2164;1196;2164;1196;0;0;0;0;Regular
+FreeSerif
+0;FreeSerifBold;0;8;5;2;65535;900;200;100;0;2653;1100;2653;1100;0;0;0;0;Bold
 
-FontCacheDirectory:1465922407:/usr/share/fonts/lohit-odia
-File:Lohit-Odia.ttf
+File:FreeSansBold.ttf
 2;1
-Lohit Odia
-0;Lohit-Odia;0;5;5;2;65535;1118;610;728;0;2092;1728;2092;1728;0;0;0;0;Regular
+FreeSans
+0;FreeSansBold;0;7;5;2;65535;900;200;100;0;2524;1100;2524;1100;0;0;0;0;Bold
 
-FontCacheDirectory:1465922398:/usr/share/fonts/lohit-kannada
-File:Lohit-Kannada.ttf
+File:FreeMonoOblique.ttf
 2;1
-Lohit Kannada
-0;Lohit-Kannada;0;5;5;2;65535;878;683;561;0;3418;1561;3418;1561;0;0;0;0;Regular
+FreeMono
+0;FreeMonoOblique;2;5;5;1;65535;800;200;150;0;1460;1000;1460;1000;0;0;0;0;Oblique
 
-FontCacheDirectory:1477678627:/usr/share/fonts/google-droid
-File:DroidSansFallback.ttf
+File:FreeMonoBold.ttf
 2;1
-Droid Sans Fallback
-0;DroidSansFallback;0;5;5;2;65535;1042;265;307;1;1425;1307;1425;1307;0;0;0;8;Regular
+FreeMono
+0;FreeMonoBold;0;8;5;1;65535;800;200;150;0;1336;1000;1336;1000;0;0;0;0;Bold
 
-File:DroidSansJapanese.ttf
+File:FreeSerifItalic.ttf
 2;1
-Droid Sans Japanese
-0;DroidSansJapanese;0;5;5;2;65535;1042;265;307;0;996;1307;996;1307;0;0;0;8;Regular
+FreeSerif
+0;FreeSerifItalic;2;5;5;2;65535;900;200;100;0;2437;1100;2437;1100;0;0;0;0;Italic
 
-File:DroidSansTamil-Bold.ttf
+File:FreeMono.ttf
 2;1
-Droid Sans Tamil
-0;DroidSansTamil-Bold;0;8;5;2;65535;870;370;240;0;3001;1240;3001;1240;0;0;0;8;Bold
+FreeMono
+0;FreeMono;0;5;5;1;65535;800;200;150;0;1492;1000;1492;1000;0;0;0;0;Regular
 
-File:DroidSansEthiopic-Regular.ttf
+File:FreeSansBoldOblique.ttf
 2;1
-Droid Sans Ethiopic
-0;DroidSansEthiopic;0;5;5;2;65535;963;240;203;0;1671;1203;1671;1203;0;0;0;8;Regular
+FreeSans
+0;FreeSansBoldOblique;2;7;5;2;65535;900;200;100;0;2499;1100;2499;1100;0;0;0;0;Bold Oblique
 
-File:DroidSansThai.ttf
+File:FreeSerifBoldItalic.ttf
 2;1
-Droid Sans Thai
-0;DroidSansThai;0;5;5;2;65535;1116;255;371;0;1443;1371;1443;1371;0;0;0;8;Regular
+FreeSerif
+0;FreeSerifBoldItalic;2;8;5;2;65535;900;200;100;0;2519;1100;2519;1100;0;0;0;0;Bold Italic
 
-File:DroidSansHebrew-Bold.ttf
+File:FreeMonoBoldOblique.ttf
 2;1
-Droid Sans Hebrew
-0;DroidSansHebrew-Bold;0;7;5;2;65535;979;203;182;0;1086;1182;1086;1182;0;0;0;8;Bold
+FreeMono
+0;FreeMonoBoldOblique;2;8;5;1;65535;800;200;150;0;1476;1000;1476;1000;0;0;0;0;Bold Oblique
 
-File:DroidSansHebrew-Regular.ttf
+File:FreeSans.ttf
 2;1
-Droid Sans Hebrew
-0;DroidSansHebrew;0;5;5;2;65535;979;203;182;0;1052;1182;1052;1182;0;0;0;8;Regular
+FreeSans
+0;FreeSans;0;5;5;2;65535;900;200;100;0;3426;1100;3426;1100;0;0;0;0;Regular
 
-File:DroidSansEthiopic-Bold.ttf
+File:FreeSansOblique.ttf
 2;1
-Droid Sans Ethiopic
-0;DroidSansEthiopic-Bold;0;8;5;2;65535;963;240;203;0;1816;1203;1816;1203;0;0;0;8;Bold
+FreeSans
+0;FreeSansOblique;2;5;5;2;65535;900;200;100;0;2738;1100;2738;1100;0;0;0;0;Oblique
 
-File:DroidSans.ttf
+FontCacheDirectory:1479245901:/usr/share/fonts/tabish-eeyek
+File:eeyek.ttf
 2;1
-Droid Sans
-0;DroidSans;0;5;5;2;65535;928;235;163;0;1726;1163;1726;1163;0;0;0;8;Regular
+Eeyek Unicode;Meetei Mayek
+0;NewUnicodeFont;0;5;5;2;65535;905;211;32;0;2090;1116;2090;1116;0;0;0;8;Regular
 
-File:DroidSans-Bold.ttf
+FontCacheDirectory:1479245259:/usr/share/fonts/google-crosextra-caladea
+File:Caladea-Italic.ttf
 2;1
-Droid Sans
-0;DroidSans-Bold;0;8;5;2;65535;928;235;163;0;1877;1163;1877;1163;0;0;0;8;Bold
+Caladea
+0;Caladea-Italic;2;5;5;2;65535;950;222;175;0;1350;1172;1350;1172;0;0;0;0;Italic
 
-File:DroidSansArmenian.ttf
+File:Caladea-Bold.ttf
 2;1
-Droid Sans Armenian
-0;DroidSansArmenian;0;5;5;2;65535;770;240;10;0;1406;1010;1406;1010;0;0;0;8;Regular
+Caladea
+0;Caladea-Bold;0;8;5;2;65535;950;222;175;0;1441;1172;1441;1172;0;0;0;0;Bold
 
-File:DroidSansDevanagari-Regular.ttf
+File:Caladea-BoldItalic.ttf
 2;1
-Droid Sans Devanagari
-0;DroidSansDevanagari;0;5;5;2;65535;896;408;304;0;1893;1304;1893;1304;0;0;0;8;Regular
+Caladea
+0;Caladea-BoldItalic;2;8;5;2;65535;950;222;175;0;1467;1172;1467;1172;0;0;0;0;Bold Italic
 
-File:DroidSansGeorgian.ttf
+File:Caladea-Regular.ttf
 2;1
-Droid Sans Georgian
-0;DroidSansGeorgian;0;5;5;2;65535;912;243;155;0;1059;1155;1059;1155;0;0;0;8;Regular
+Caladea
+0;Caladea-Regular;0;5;5;2;65535;950;222;175;0;1322;1172;1322;1172;0;0;0;0;Regular
 
-File:DroidSansMono.ttf
-2;1
-Droid Sans Mono
-0;DroidSansMono;0;5;5;1;65535;928;235;163;0;794;1163;794;1163;0;0;0;8;Regular
-
-File:DroidSansTamil-Regular.ttf
-2;1
-Droid Sans Tamil
-0;DroidSansTamil;0;5;5;2;65535;870;370;240;0;2617;1240;2617;1240;0;0;0;8;Regular
-
-File:DroidSansArabic.ttf
-2;1
-Droid Sans Arabic
-0;DroidSansArabic;0;5;5;2;65535;1030;387;417;0;1392;1417;1392;1417;0;0;0;8;Regular
-
-FontCacheDirectory:1465921950:/usr/share/fonts/dejavu
-File:DejaVuSerifCondensed-Italic.ttf
-2;1
-DejaVu Serif Condensed
-0;DejaVuSerifCondensed-Italic;2;5;4;2;65535;928;235;163;0;2251;1163;2251;1163;0;0;0;0;Condensed Italic
-
-File:DejaVuSerifCondensed-Bold.ttf
-2;1
-DejaVu Serif Condensed
-0;DejaVuSerifCondensed-Bold;0;8;4;2;65535;938;235;173;0;2368;1173;2368;1173;0;0;0;0;Condensed Bold
-
-File:DejaVuSerif.ttf
-2;1
-DejaVu Serif
-0;DejaVuSerif;0;5;5;2;65535;928;235;163;0;2874;1163;2874;1163;0;0;0;0;Book
+FontCacheDirectory:1488156068:/usr/share/X11/fonts/Type1
+File:c0649bt_.pfb
+1;1
+Bitstream Charter
+0;CharterBT-Italic;2;5;5;2;91;980;237;217;0;1175;672;1175;672;0;0;0;c0649bt_.afm;Italic
 
-File:DejaVuSerif-Italic.ttf
-2;1
-DejaVu Serif
-0;DejaVuSerif-Italic;2;5;5;2;65535;928;235;163;0;2501;1163;2501;1163;0;0;0;0;Italic
+File:c0648bt_.pfb
+1;1
+Bitstream Charter
+0;CharterBT-Roman;0;5;5;2;91;963;237;200;0;1194;672;1194;672;0;0;0;c0648bt_.afm;Regular
 
-File:DejaVuSerifCondensed-BoldItalic.ttf
-2;1
-DejaVu Serif Condensed
-0;DejaVuSerifCondensed-BoldItalic;2;8;4;2;65535;938;235;173;0;2410;1173;2410;1173;0;0;0;0;Condensed Bold Italic
+File:UTBI____.pfa
+1;1
+Utopia
+0;Utopia-BoldItalic;2;8;5;2;91;916;250;166;0;1297;692;1297;692;0;0;0;UTBI____.afm;Bold Italic
 
-File:DejaVuSerif-BoldItalic.ttf
-2;1
-DejaVu Serif
-0;DejaVuSerif-BoldItalic;2;8;5;2;65535;938;235;173;0;2677;1173;2677;1173;0;0;0;0;Bold Italic
+File:c0633bt_.pfb
+1;1
+Bitstream Charter
+0;CharterBT-BoldItalic;2;8;5;2;91;972;237;209;0;1243;672;1243;672;0;0;0;c0633bt_.afm;Bold Italic
 
-File:DejaVuSansCondensed-BoldOblique.ttf
-2;1
-DejaVu Sans Condensed
-0;DejaVuSansCondensed-BoldOblique;1;8;4;2;65535;928;235;163;0;2780;1163;2780;1163;0;0;0;0;Condensed Bold Oblique
+File:c0582bt_.pfb
+1;1
+Courier 10 Pitch
+0;Courier10PitchBT-Italic;2;5;5;1;91;858;299;157;0;664;579;664;579;0;0;0;c0582bt_.afm;Italic
 
-File:DejaVuSansCondensed-Oblique.ttf
-2;1
-DejaVu Sans Condensed
-0;DejaVuSansCondensed-Oblique;1;5;4;2;65535;928;235;163;0;2407;1163;2407;1163;0;0;0;0;Condensed Oblique
+File:c0611bt_.pfb
+1;1
+Courier 10 Pitch
+0;Courier10PitchBT-BoldItalic;2;8;5;1;91;875;310;185;0;665;579;665;579;0;0;0;c0611bt_.afm;Bold Italic
 
-File:DejaVuSansCondensed-Bold.ttf
-2;1
-DejaVu Sans Condensed
-0;DejaVuSansCondensed-Bold;0;8;4;2;65535;928;235;163;0;2739;1163;2739;1163;0;0;0;0;Condensed Bold
+File:UTB_____.pfa
+1;1
+Utopia
+0;Utopia-Bold;0;8;5;2;91;916;250;166;0;1249;692;1249;692;0;0;0;UTB_____.afm;Bold
 
-File:DejaVuSansCondensed.ttf
-2;1
-DejaVu Sans Condensed
-0;DejaVuSansCondensed;0;5;4;2;65535;928;235;163;1;2532;1163;2532;1163;0;0;0;0;Condensed
+File:UTI_____.pfa
+1;1
+Utopia
+0;Utopia-Italic;2;5;5;2;91;890;250;140;0;1205;692;1205;692;0;0;0;UTI_____.afm;Italic
 
-File:DejaVuSans.ttf
-2;1
-DejaVu Sans
-0;DejaVuSans;0;5;5;2;65535;928;235;163;1;2813;1163;2813;1163;0;0;0;0;Book
+File:c0583bt_.pfb
+1;1
+Courier 10 Pitch
+0;Courier10PitchBT-Bold;0;8;5;1;91;875;310;185;0;665;579;665;579;0;0;0;c0583bt_.afm;Bold
 
-File:DejaVuSans-Oblique.ttf
-2;1
-DejaVu Sans
-0;DejaVuSans-Oblique;1;5;5;2;65535;928;235;163;0;2674;1163;2674;1163;0;0;0;0;Oblique
+File:c0419bt_.pfb
+1;1
+Courier 10 Pitch
+0;Courier10PitchBT-Roman;0;5;5;1;91;858;299;157;0;664;579;664;579;0;0;0;c0419bt_.afm;Regular
 
-File:DejaVuSans-ExtraLight.ttf
-2;1
-DejaVu Sans Light
-0;DejaVuSans-ExtraLight;0;2;5;2;65535;928;235;163;0;2391;1163;2391;1163;0;0;0;0;ExtraLight
+File:c0632bt_.pfb
+1;1
+Bitstream Charter
+0;CharterBT-Bold;0;8;5;2;91;963;237;200;0;1263;672;1263;672;0;0;0;c0632bt_.afm;Bold
 
-File:DejaVuSerif-Bold.ttf
-2;1
-DejaVu Serif
-0;DejaVuSerif-Bold;0;8;5;2;65535;938;235;173;0;2630;1173;2630;1173;0;0;0;0;Bold
+File:UTRG____.pfa
+1;1
+Utopia
+0;Utopia-Regular;0;5;5;2;91;890;250;140;0;1158;692;1158;692;0;0;0;UTRG____.afm;Regular
 
-File:DejaVuSansMono-Bold.ttf
+FontCacheDirectory:1479245914:/usr/share/fonts/google-android-emoji
+File:AndroidEmoji.ttf
 2;1
-DejaVu Sans Mono
-0;DejaVuSansMono-Bold;0;8;5;1;65535;928;235;163;0;1177;1163;1177;1163;0;0;0;0;Bold
+Android Emoji
+0;AndroidEmoji;0;5;5;2;65535;928;235;174;0;958;1163;958;1163;0;0;0;8;Regular
 
-File:DejaVuSans-BoldOblique.ttf
+FontCacheDirectory:1479245897:/usr/share/fonts/sil-abyssinica
+File:AbyssinicaSIL-R.ttf
 2;1
-DejaVu Sans
-0;DejaVuSans-BoldOblique;1;8;5;2;65535;928;235;163;0;3088;1163;3088;1163;0;0;0;0;Bold Oblique
+Abyssinica SIL
+0;AbyssinicaSIL;0;5;5;2;65535;844;155;250;0;2325;999;2325;999;0;0;0;0;Regular
 
-File:DejaVuSerifCondensed.ttf
+FontCacheDirectory:1479245258:/usr/share/fonts/abattis-cantarell
+File:Cantarell-BoldOblique.otf
 2;1
-DejaVu Serif Condensed
-0;DejaVuSerifCondensed;0;5;4;2;65535;928;235;163;0;2587;1163;2587;1163;0;0;0;0;Condensed
+Cantarell
+0;Cantarell-BoldOblique;1;8;5;2;65535;964;293;188;0;1697;1257;1697;1257;0;0;0;65536;BoldOblique
 
-File:DejaVuSansMono-Oblique.ttf
+File:Cantarell-Bold.otf
 2;1
-DejaVu Sans Mono
-0;DejaVuSansMono-Oblique;1;5;5;1;65535;928;235;163;0;1167;1163;1167;1163;0;0;0;0;Oblique
+Cantarell
+0;Cantarell-Bold;0;8;5;2;65535;964;293;188;0;1645;1257;1645;1257;0;0;0;65536;Bold
 
-File:DejaVuSans-Bold.ttf
+File:Cantarell-Oblique.otf
 2;1
-DejaVu Sans
-0;DejaVuSans-Bold;0;8;5;2;65535;928;235;163;0;3044;1163;3044;1163;0;0;0;0;Bold
+Cantarell
+0;Cantarell-Oblique;1;5;5;2;65535;964;293;188;0;1478;1257;1478;1257;0;0;0;65536;Oblique
 
-File:DejaVuSansMono-BoldOblique.ttf
+File:Cantarell-Regular.otf
 2;1
-DejaVu Sans Mono
-0;DejaVuSansMono-BoldOblique;1;8;5;1;65535;928;235;163;0;1253;1163;1253;1163;0;0;0;0;Bold Oblique
+Cantarell
+0;Cantarell-Regular;0;5;5;2;65535;964;293;188;0;1445;1257;1445;1257;0;0;0;65536;Regular
 
-File:DejaVuSansMono.ttf
+FontCacheDirectory:1479245259:/usr/share/fonts/google-crosextra-carlito
+File:Carlito-Regular.ttf
 2;1
-DejaVu Sans Mono
-0;DejaVuSansMono;0;5;5;1;65535;928;235;163;0;1275;1163;1275;1163;0;0;0;0;Book
+Carlito
+0;Carlito;0;5;5;2;65535;750;250;220;0;1636;1000;1636;1000;0;0;0;0;Regular
 
-FontCacheDirectory:1465922406:/usr/share/fonts/aajohan-comfortaa
-File:Comfortaa-Regular.ttf
+File:Carlito-Italic.ttf
 2;1
-Comfortaa
-0;Comfortaa;0;5;5;2;65535;1015;234;249;0;1445;1249;1445;1249;0;0;0;8;Regular
+Carlito
+0;Carlito-Italic;2;5;5;2;65535;750;250;220;0;1536;1000;1536;1000;0;0;0;0;Italic
 
-File:Comfortaa-Bold.ttf
+File:Carlito-Bold.ttf
 2;1
-Comfortaa
-0;Comfortaa-Bold;0;8;5;2;65535;1015;234;249;0;1454;1249;1454;1249;0;0;0;8;Bold
+Carlito
+0;Carlito-Bold;0;8;5;2;65535;750;250;220;0;1665;1000;1665;1000;0;0;0;0;Bold
 
-File:Comfortaa-Light.ttf
+File:Carlito-BoldItalic.ttf
 2;1
-Comfortaa
-0;Comfortaa-Light;0;3;5;2;65535;1015;234;249;0;1469;1249;1469;1249;0;0;0;8;Light
+Carlito
+0;Carlito-BoldItalic;2;8;5;2;65535;750;250;220;0;1568;1000;1568;1000;0;0;0;0;Bold Italic
 
-FontCacheDirectory:1465922054:/usr/share/fonts/default/Type1
+FontCacheDirectory:1479245447:/usr/share/fonts/default/Type1
 File:p052003l.pfb
 1;1
 URW Palladio L
@@ -735,15 +703,15 @@ File:a010035l.pfb
 URW Gothic L
 0;URWGothicL-DemiObli;1;7;5;2;91;1054;251;305;0;1281;739;1281;739;0;0;0;a010035l.afm;Demi Oblique
 
-File:b018032l.pfb
-1;1
-URW Bookman L
-0;URWBookmanL-LighItal;2;5;5;2;91;962;281;243;0;1269;681;1269;681;0;0;0;b018032l.afm;Light Italic
-
 File:b018015l.pfb
 1;1
 URW Bookman L
 0;URWBookmanL-DemiBold;0;8;5;2;91;1000;306;306;0;1346;681;1346;681;0;0;0;b018015l.afm;Demi Bold
+
+File:b018032l.pfb
+1;1
+URW Bookman L
+0;URWBookmanL-LighItal;2;5;5;2;91;962;281;243;0;1269;681;1269;681;0;0;0;b018032l.afm;Light Italic
 
 File:n022024l.pfb
 1;1
@@ -890,686 +858,723 @@ File:n019024l.pfb
 Nimbus Sans L
 0;NimbusSanL-BoldItal;2;8;5;2;91;953;309;262;0;1199;729;1199;729;0;0;0;n019024l.afm;Bold Italic
 
-FontCacheDirectory:1465921951:/usr/share/fonts/google-crosextra-carlito
-File:Carlito-Regular.ttf
+FontCacheDirectory:1479245902:/usr/share/fonts/aajohan-comfortaa
+File:Comfortaa-Regular.ttf
 2;1
-Carlito
-0;Carlito;0;5;5;2;65535;952;268;220;0;1636;1220;1636;1220;0;0;0;0;Regular
+Comfortaa
+0;Comfortaa;0;5;5;2;65535;781;234;100;0;1445;1015;1445;1015;0;0;0;8;Regular
 
-File:Carlito-Italic.ttf
+File:Comfortaa-Bold.ttf
 2;1
-Carlito
-0;Carlito-Italic;2;5;5;2;65535;952;268;220;0;1536;1220;1536;1220;0;0;0;0;Italic
+Comfortaa
+0;Comfortaa-Bold;0;8;5;2;65535;1015;234;187;0;1454;1249;1454;1249;0;0;0;8;Bold
 
-File:Carlito-Bold.ttf
+File:Comfortaa-Light.ttf
 2;1
-Carlito
-0;Carlito-Bold;0;8;5;2;65535;952;268;220;0;1665;1220;1665;1220;0;0;0;0;Bold
+Comfortaa
+0;Comfortaa-Light;0;3;5;2;65535;781;234;100;0;1469;1015;1469;1015;0;0;0;8;Light
 
-File:Carlito-BoldItalic.ttf
+FontCacheDirectory:1479245257:/usr/share/fonts/dejavu
+File:DejaVuSerifCondensed-Italic.ttf
 2;1
-Carlito
-0;Carlito-BoldItalic;2;8;5;2;65535;952;268;220;0;1568;1220;1568;1220;0;0;0;0;Bold Italic
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-Italic;2;5;4;2;65535;928;235;174;0;2251;1163;2251;1163;0;0;0;0;Condensed Italic
 
-FontCacheDirectory:1465921950:/usr/share/fonts/abattis-cantarell
-File:Cantarell-BoldOblique.otf
+File:DejaVuSerifCondensed-Bold.ttf
 2;1
-Cantarell
-0;Cantarell-BoldOblique;1;8;5;2;65535;964;293;257;0;1697;1257;1697;1257;0;0;0;65536;BoldOblique
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-Bold;0;8;4;2;65535;938;235;175;0;2368;1173;2368;1173;0;0;0;0;Condensed Bold
 
-File:Cantarell-Bold.otf
+File:DejaVuSerif.ttf
 2;1
-Cantarell
-0;Cantarell-Bold;0;8;5;2;65535;964;293;257;0;1645;1257;1645;1257;0;0;0;65536;Bold
+DejaVu Serif
+0;DejaVuSerif;0;5;5;2;65535;928;235;174;0;2874;1163;2874;1163;0;0;0;0;Book
 
-File:Cantarell-Oblique.otf
+File:DejaVuSerif-Italic.ttf
 2;1
-Cantarell
-0;Cantarell-Oblique;1;5;5;2;65535;964;293;257;0;1478;1257;1478;1257;0;0;0;65536;Oblique
+DejaVu Serif
+0;DejaVuSerif-Italic;2;5;5;2;65535;928;235;174;0;2501;1163;2501;1163;0;0;0;0;Italic
 
-File:Cantarell-Regular.otf
+File:DejaVuSerifCondensed-BoldItalic.ttf
 2;1
-Cantarell
-0;Cantarell-Regular;0;5;5;2;65535;964;293;257;0;1445;1257;1445;1257;0;0;0;65536;Regular
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-BoldItalic;2;8;4;2;65535;938;235;175;0;2410;1173;2410;1173;0;0;0;0;Condensed Bold Italic
 
-FontCacheDirectory:1465922401:/usr/share/fonts/sil-abyssinica
-File:AbyssinicaSIL-R.ttf
+File:DejaVuSerif-BoldItalic.ttf
 2;1
-Abyssinica SIL
-0;AbyssinicaSIL;0;5;5;2;65535;993;333;326;0;2325;1326;2325;1326;0;0;0;0;Regular
+DejaVu Serif
+0;DejaVuSerif-BoldItalic;2;8;5;2;65535;938;235;175;0;2677;1173;2677;1173;0;0;0;0;Bold Italic
 
-FontCacheDirectory:1465922408:/usr/share/fonts/google-android-emoji
-File:AndroidEmoji.ttf
+File:DejaVuSansCondensed-BoldOblique.ttf
 2;1
-Android Emoji
-0;AndroidEmoji;0;5;5;2;65535;928;235;163;0;958;1163;958;1163;0;0;0;8;Regular
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-BoldOblique;1;8;4;2;65535;928;235;174;0;2780;1163;2780;1163;0;0;0;0;Condensed Bold Oblique
 
-FontCacheDirectory:1477673750:/usr/share/X11/fonts/Type1
-File:c0649bt_.pfb
-1;1
-Bitstream Charter
-0;CharterBT-Italic;2;5;5;2;91;980;237;217;0;1175;672;1175;672;0;0;0;c0649bt_.afm;Italic
+File:DejaVuSansCondensed-Oblique.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-Oblique;1;5;4;2;65535;928;235;174;0;2407;1163;2407;1163;0;0;0;0;Condensed Oblique
+
+File:DejaVuSansCondensed-Bold.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-Bold;0;8;4;2;65535;928;235;174;0;2739;1163;2739;1163;0;0;0;0;Condensed Bold
+
+File:DejaVuSansCondensed.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed;0;5;4;2;65535;928;235;174;1;2532;1163;2532;1163;0;0;0;0;Condensed
+
+File:DejaVuSans.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans;0;5;5;2;65535;928;235;174;1;2813;1163;2813;1163;0;0;0;0;Book
+
+File:DejaVuSans-Oblique.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-Oblique;1;5;5;2;65535;928;235;174;0;2674;1163;2674;1163;0;0;0;0;Oblique
+
+File:DejaVuSans-ExtraLight.ttf
+2;1
+DejaVu Sans Light
+0;DejaVuSans-ExtraLight;0;2;5;2;65535;928;235;174;0;2391;1163;2391;1163;0;0;0;0;ExtraLight
+
+File:DejaVuSerif-Bold.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-Bold;0;8;5;2;65535;938;235;175;0;2630;1173;2630;1173;0;0;0;0;Bold
 
-File:c0648bt_.pfb
-1;1
-Bitstream Charter
-0;CharterBT-Roman;0;5;5;2;91;963;237;200;0;1194;672;1194;672;0;0;0;c0648bt_.afm;Regular
+File:DejaVuSansMono-Bold.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-Bold;0;8;5;1;65535;928;235;174;0;1177;1163;1177;1163;0;0;0;0;Bold
 
-File:UTBI____.pfa
-1;1
-Utopia
-0;Utopia-BoldItalic;2;8;5;2;91;916;250;166;0;1297;692;1297;692;0;0;0;UTBI____.afm;Bold Italic
+File:DejaVuSans-BoldOblique.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-BoldOblique;1;8;5;2;65535;928;235;174;0;3088;1163;3088;1163;0;0;0;0;Bold Oblique
 
-File:c0633bt_.pfb
-1;1
-Bitstream Charter
-0;CharterBT-BoldItalic;2;8;5;2;91;972;237;209;0;1243;672;1243;672;0;0;0;c0633bt_.afm;Bold Italic
+File:DejaVuSerifCondensed.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed;0;5;4;2;65535;928;235;174;0;2587;1163;2587;1163;0;0;0;0;Condensed
 
-File:c0582bt_.pfb
-1;1
-Courier 10 Pitch
-0;Courier10PitchBT-Italic;2;5;5;1;91;858;299;157;0;664;579;664;579;0;0;0;c0582bt_.afm;Italic
+File:DejaVuSansMono-Oblique.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-Oblique;1;5;5;1;65535;928;235;174;0;1167;1163;1167;1163;0;0;0;0;Oblique
 
-File:c0611bt_.pfb
-1;1
-Courier 10 Pitch
-0;Courier10PitchBT-BoldItalic;2;8;5;1;91;875;310;185;0;665;579;665;579;0;0;0;c0611bt_.afm;Bold Italic
+File:DejaVuSans-Bold.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-Bold;0;8;5;2;65535;928;235;174;0;3044;1163;3044;1163;0;0;0;0;Bold
 
-File:UTB_____.pfa
-1;1
-Utopia
-0;Utopia-Bold;0;8;5;2;91;916;250;166;0;1249;692;1249;692;0;0;0;UTB_____.afm;Bold
+File:DejaVuSansMono-BoldOblique.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-BoldOblique;1;8;5;1;65535;928;235;174;0;1253;1163;1253;1163;0;0;0;0;Bold Oblique
 
-File:UTI_____.pfa
-1;1
-Utopia
-0;Utopia-Italic;2;5;5;2;91;890;250;140;0;1205;692;1205;692;0;0;0;UTI_____.afm;Italic
+File:DejaVuSansMono.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono;0;5;5;1;65535;928;235;174;0;1275;1163;1275;1163;0;0;0;0;Book
 
-File:c0583bt_.pfb
-1;1
-Courier 10 Pitch
-0;Courier10PitchBT-Bold;0;8;5;1;91;875;310;185;0;665;579;665;579;0;0;0;c0583bt_.afm;Bold
+FontCacheDirectory:1488155982:/usr/share/fonts/google-droid
+File:DroidSansFallback.ttf
+2;1
+Droid Sans Fallback
+0;DroidSansFallback;0;5;5;2;65535;1042;265;196;1;1425;1307;1425;1307;0;0;0;8;Regular
 
-File:c0419bt_.pfb
-1;1
-Courier 10 Pitch
-0;Courier10PitchBT-Roman;0;5;5;1;91;858;299;157;0;664;579;664;579;0;0;0;c0419bt_.afm;Regular
+File:DroidSansJapanese.ttf
+2;1
+Droid Sans Japanese
+0;DroidSansJapanese;0;5;5;2;65535;1042;265;196;0;996;1307;996;1307;0;0;0;8;Regular
 
-File:c0632bt_.pfb
-1;1
-Bitstream Charter
-0;CharterBT-Bold;0;8;5;2;91;963;237;200;0;1263;672;1263;672;0;0;0;c0632bt_.afm;Bold
+File:DroidSansTamil-Bold.ttf
+2;1
+Droid Sans Tamil
+0;DroidSansTamil-Bold;0;8;5;2;65535;870;370;186;0;3001;1240;3001;1240;0;0;0;8;Bold
 
-File:UTRG____.pfa
-1;1
-Utopia
-0;Utopia-Regular;0;5;5;2;91;890;250;140;0;1158;692;1158;692;0;0;0;UTRG____.afm;Regular
+File:DroidSansEthiopic-Regular.ttf
+2;1
+Droid Sans Ethiopic
+0;DroidSansEthiopic;0;5;5;2;65535;963;240;180;0;1671;1203;1671;1203;0;0;0;8;Regular
 
-FontCacheDirectory:1465921951:/usr/share/fonts/google-crosextra-caladea
-File:Caladea-Italic.ttf
+File:DroidSansThai.ttf
 2;1
-Caladea
-0;Caladea-Italic;2;5;5;2;65535;950;222;172;0;1350;1172;1350;1172;0;0;0;0;Italic
+Droid Sans Thai
+0;DroidSansThai;0;5;5;2;65535;1116;255;205;0;1443;1371;1443;1371;0;0;0;8;Regular
 
-File:Caladea-Bold.ttf
+File:DroidSansHebrew-Bold.ttf
 2;1
-Caladea
-0;Caladea-Bold;0;8;5;2;65535;950;222;172;0;1441;1172;1441;1172;0;0;0;0;Bold
+Droid Sans Hebrew
+0;DroidSansHebrew-Bold;0;7;5;2;65535;979;203;177;0;1086;1182;1086;1182;0;0;0;8;Bold
 
-File:Caladea-BoldItalic.ttf
+File:DroidSansHebrew-Regular.ttf
 2;1
-Caladea
-0;Caladea-BoldItalic;2;8;5;2;65535;950;222;172;0;1467;1172;1467;1172;0;0;0;0;Bold Italic
+Droid Sans Hebrew
+0;DroidSansHebrew;0;5;5;2;65535;979;203;177;0;1052;1182;1052;1182;0;0;0;8;Regular
 
-File:Caladea-Regular.ttf
+File:DroidSansEthiopic-Bold.ttf
 2;1
-Caladea
-0;Caladea-Regular;0;5;5;2;65535;950;222;172;0;1322;1172;1322;1172;0;0;0;0;Regular
+Droid Sans Ethiopic
+0;DroidSansEthiopic-Bold;0;8;5;2;65535;963;240;180;0;1816;1203;1816;1203;0;0;0;8;Bold
 
-FontCacheDirectory:1465922407:/usr/share/fonts/tabish-eeyek
-File:eeyek.ttf
+File:DroidSans.ttf
 2;1
-Eeyek Unicode;Meetei Mayek
-0;NewUnicodeFont;0;5;5;2;65535;905;211;116;0;2090;1116;2090;1116;0;0;0;8;Regular
+Droid Sans
+0;DroidSans;0;5;5;2;65535;928;235;174;0;1726;1163;1726;1163;0;0;0;8;Regular
 
-FontCacheDirectory:1465922393:/usr/share/fonts/gnu-free
-File:FreeSerif.ttf
+File:DroidSans-Bold.ttf
 2;1
-FreeSerif
-0;FreeSerif;0;5;5;2;65535;900;300;200;0;2646;1200;2646;1200;0;0;0;0;Regular
+Droid Sans
+0;DroidSans-Bold;0;8;5;2;65535;928;235;174;0;1877;1163;1877;1163;0;0;0;8;Bold
 
-File:FreeSerifBold.ttf
+File:DroidSansArmenian.ttf
 2;1
-FreeSerif
-0;FreeSerifBold;0;8;5;2;65535;900;300;200;0;2653;1200;2653;1200;0;0;0;0;Bold
+Droid Sans Armenian
+0;DroidSansArmenian;0;5;5;2;65535;770;240;151;0;1406;1010;1406;1010;0;0;0;8;Regular
 
-File:FreeSansBold.ttf
+File:DroidSansDevanagari-Regular.ttf
 2;1
-FreeSans
-0;FreeSansBold;0;7;5;2;65535;900;300;200;0;2524;1200;2524;1200;0;0;0;0;Bold
+Droid Sans Devanagari
+0;DroidSansDevanagari;0;5;5;2;65535;896;408;195;0;1893;1304;1893;1304;0;0;0;8;Regular
 
-File:FreeMonoOblique.ttf
+File:DroidSansGeorgian.ttf
 2;1
-FreeMono
-0;FreeMonoOblique;2;5;5;1;65535;800;200;150;0;1460;1000;1460;1000;0;0;0;0;Oblique
+Droid Sans Georgian
+0;DroidSansGeorgian;0;5;5;2;65535;912;243;173;0;1059;1155;1059;1155;0;0;0;8;Regular
 
-File:FreeMonoBold.ttf
+File:DroidSansMono.ttf
 2;1
-FreeMono
-0;FreeMonoBold;0;8;5;1;65535;800;200;150;0;1336;1000;1336;1000;0;0;0;0;Bold
+Droid Sans Mono
+0;DroidSansMono;0;5;5;1;65535;928;235;174;0;794;1163;794;1163;0;0;0;8;Regular
 
-File:FreeSerifItalic.ttf
+File:DroidSansTamil-Regular.ttf
 2;1
-FreeSerif
-0;FreeSerifItalic;2;5;5;2;65535;900;300;200;0;2437;1200;2437;1200;0;0;0;0;Italic
+Droid Sans Tamil
+0;DroidSansTamil;0;5;5;2;65535;870;370;186;0;2617;1240;2617;1240;0;0;0;8;Regular
 
-File:FreeMono.ttf
+File:DroidSansArabic.ttf
 2;1
-FreeMono
-0;FreeMono;0;5;5;1;65535;800;201;1;0;1492;1001;1492;1001;0;0;0;0;Regular
+Droid Sans Arabic
+0;DroidSansArabic;0;5;5;2;65535;1030;387;212;0;1392;1417;1392;1417;0;0;0;8;Regular
 
-File:FreeSansBoldOblique.ttf
+FontCacheDirectory:1488154726:/usr/share/fonts/opensymbol
+File:opens___.ttf
 2;1
-FreeSans
-0;FreeSansBoldOblique;2;7;5;2;65535;900;300;200;0;2499;1200;2499;1200;0;0;0;0;Bold Oblique
+OpenSymbol
+0;OpenSymbol;0;5;5;2;65535;916;312;184;0;1262;1228;1262;1228;0;0;0;8;Regular
 
-File:FreeSerifBoldItalic.ttf
+FontCacheDirectory:1479245909:/usr/share/fonts/paratype-pt-sans
+File:PTN57F.ttf
 2;1
-FreeSerif
-0;FreeSerifBoldItalic;2;8;5;2;65535;900;300;200;0;2519;1200;2519;1200;0;0;0;0;Bold Italic
+PT Sans Narrow
+0;PTSans-Narrow;0;5;3;2;65535;900;276;118;0;1299;1176;1299;1176;0;0;0;0;Regular
 
-File:FreeMonoBoldOblique.ttf
+File:PTN77F.ttf
 2;1
-FreeMono
-0;FreeMonoBoldOblique;2;8;5;1;65535;800;200;150;0;1476;1000;1476;1000;0;0;0;0;Bold Oblique
+PT Sans Narrow
+0;PTSans-NarrowBold;0;8;3;2;65535;900;276;118;0;1433;1176;1433;1176;0;0;0;0;Bold
 
-File:FreeSans.ttf
+File:PTS76F.ttf
 2;1
-FreeSans
-0;FreeSans;0;5;5;2;65535;900;300;200;0;3426;1200;3426;1200;0;0;0;0;Regular
+PT Sans
+0;PTSans-BoldItalic;2;8;5;2;65535;900;276;118;0;1468;1176;1468;1176;0;0;0;0;Bold Italic
 
-File:FreeSansOblique.ttf
+File:PTS75F.ttf
 2;1
-FreeSans
-0;FreeSansOblique;2;5;5;2;65535;900;300;200;0;2738;1200;2738;1200;0;0;0;0;Oblique
+PT Sans
+0;PTSans-Bold;0;8;5;2;65535;900;276;118;0;1578;1176;1578;1176;0;0;0;0;Bold
 
-FontCacheDirectory:1465922401:/usr/share/fonts/jomolhari
-File:Jomolhari-alpha3c-0605331.ttf
+File:PTS56F.ttf
 2;1
-Jomolhari
-0;Jomolhari;0;5;5;2;65535;1218;382;600;0;2536;1600;2536;1600;0;0;0;0;Regular
+PT Sans
+0;PTSans-Italic;2;5;5;2;65535;900;276;118;0;1372;1176;1372;1176;0;0;0;0;Italic
 
-FontCacheDirectory:1465922390:/usr/share/fonts/khmeros
-File:KhmerOS_sys.ttf
+File:PTS55F.ttf
 2;1
-Khmer OS System
-0;KhmerOSsys;0;5;5;2;65535;1220;585;805;0;3710;1805;3710;1805;0;0;0;0;Regular
+PT Sans
+0;PTSans-Regular;0;5;5;2;65535;900;276;118;0;1448;1176;1448;1176;0;0;0;0;Regular
 
-File:KhmerOS_content.ttf
+FontCacheDirectory:1488154980:/usr/share/fonts/sil-padauk
+File:Padauk-Regular.ttf
 2;1
-Khmer OS Content
-0;KhmerOScontent;0;5;5;2;65535;1220;585;805;0;3266;1805;3266;1805;0;0;0;0;Regular
+Padauk
+0;Padauk-Regular;0;5;5;2;65535;986;488;221;0;3130;1474;3130;1474;0;0;0;0;Regular
 
-File:KhmerOS.ttf
+File:Padauk-Bold.ttf
 2;1
-Khmer OS
-0;KhmerOS;0;5;5;2;65535;1269;732;1001;0;3710;2001;3710;2001;0;0;0;0;Regular
+Padauk
+0;Padauk-Bold;0;8;5;2;65535;986;488;221;0;3204;1474;3204;1474;0;0;0;8;Bold
 
-FontCacheDirectory:1465922393:/usr/share/fonts/lklug
-File:lklug.ttf
+FontCacheDirectory:1479245903:/usr/share/fonts/paktype-naskh-basic
+File:PakTypeNaskhBasic.ttf
 2;1
-LKLUG
-0;LKLUG;0;5;5;2;65535;883;423;306;0;2195;1306;2195;1306;0;0;0;0;Regular
+PakType Naskh Basic
+0;PakTypeNaskhBasic;0;5;5;2;65535;887;480;205;0;3273;1367;3273;1367;0;0;0;0;Regular
 
-FontCacheDirectory:1477673584:/usr/share/fonts/lm
-File:lmsansquot8-regular.otf
+FontCacheDirectory:1488155972:/usr/share/fonts/stix
+File:STIXMath-Regular.otf
 2;1
-LM Sans Quot 8;Latin Modern Sans Quotation
-0;LMSansQuot8-Regular;0;5;5;2;65535;1107;288;395;0;2286;1395;2286;1395;0;0;0;65548;8 Regular
+STIX Math
+0;STIXMath-Regular;0;5;5;2;65535;2566;524;463;0;4208;3090;4208;3090;0;0;0;65536;Regular
 
-File:lmsansquot8-oblique.otf
+File:STIX-BoldItalic.otf
 2;1
-LM Sans Quot 8;Latin Modern Sans Quotation
-0;LMSansQuot8-Oblique;1;5;5;2;65535;1107;288;395;0;2359;1395;2359;1395;0;0;0;65548;8 Oblique
+STIX
+0;STIX-BoldItalic;2;8;5;2;65535;1004;359;204;0;2183;1363;2183;1363;0;0;0;65536;Bold Italic
 
-File:lmsansdemicond10-oblique.otf
+File:STIX-Bold.otf
 2;1
-LM Sans Demi Cond 10;Latin Modern Sans Demi Cond
-0;LMSansDemiCond10-Oblique;1;7;5;2;65535;1143;264;407;0;1995;1407;1995;1407;0;0;0;65548;10 Oblique
+STIX
+0;STIX-Bold;0;8;5;2;65535;1055;552;241;0;2998;1607;2998;1607;0;0;0;65536;Bold
 
-File:lmsansdemicond10-regular.otf
+File:STIX-Regular.otf
 2;1
-LM Sans Demi Cond 10;Latin Modern Sans Demi Cond
-0;LMSansDemiCond10-Regular;0;7;5;2;65535;1143;264;407;0;1920;1407;1920;1407;0;0;0;65548;10 Regular
+STIX
+0;STIX-Regular;0;5;5;2;65535;1023;486;226;0;3178;1509;3178;1509;0;0;0;65536;Regular
 
-File:lmsans10-bold.otf
+File:STIX-Italic.otf
 2;1
-LM Sans 10;Latin Modern Sans
-0;LMSans10-Bold;0;8;5;2;65535;1134;297;431;0;2221;1431;2221;1431;0;0;0;65548;10 Bold
+STIX
+0;STIX-Italic;2;5;5;2;65535;1023;305;199;0;2399;1328;2399;1328;0;0;0;65536;Italic
 
-File:lmsans10-oblique.otf
+FontCacheDirectory:1479245914:/usr/share/fonts/adobe-source-han-sans-cn
+File:SourceHanSansCN-Heavy.otf
 2;1
-LM Sans 10;Latin Modern Sans
-0;LMSans10-Oblique;1;5;5;2;65535;1154;309;463;0;1929;1463;1929;1463;0;0;0;65548;10 Oblique
+Source Han Sans CN Heavy;思源黑体 CN Heavy
+0;SourceHanSansCN-Heavy;0;10;5;2;65535;1160;320;222;1;3944;1480;3944;1480;0;0;0;65536;Heavy
 
-File:lmsans10-regular.otf
+File:SourceHanSansCN-Regular.otf
 2;1
-LM Sans 10;Latin Modern Sans
-0;LMSans10-Regular;0;5;5;2;65535;1154;309;463;0;1851;1463;1851;1463;0;0;0;65548;10 Regular
+Source Han Sans CN Regular;思源黑体 CN Regular
+0;SourceHanSansCN-Regular;0;5;5;2;65535;1160;320;222;1;3930;1480;3930;1480;0;0;0;65536;Regular
 
-File:lmsans12-oblique.otf
+File:SourceHanSansCN-Normal.otf
 2;1
-LM Sans 12;Latin Modern Sans
-0;LMSans12-Oblique;1;5;5;2;65535;1154;308;462;0;1897;1462;1897;1462;0;0;0;65548;12 Oblique
+Source Han Sans CN Normal;思源黑体 CN Normal
+0;SourceHanSansCN-Normal;0;4;5;2;65535;1160;320;222;1;3928;1480;3928;1480;0;0;0;65536;Normal
 
-File:lmsans12-regular.otf
+File:SourceHanSansCN-Light.otf
 2;1
-LM Sans 12;Latin Modern Sans
-0;LMSans12-Regular;0;5;5;2;65535;1154;308;462;0;1818;1462;1818;1462;0;0;0;65548;12 Regular
+Source Han Sans CN Light;思源黑体 CN Light
+0;SourceHanSansCN-Light;0;3;5;2;65535;1160;320;222;1;3924;1480;3924;1480;0;0;0;65536;Light
 
-File:lmsans17-oblique.otf
+File:SourceHanSansCN-Medium.otf
 2;1
-LM Sans 17;Latin Modern Sans
-0;LMSans17-Oblique;1;5;5;2;65535;1159;305;464;0;1834;1464;1834;1464;0;0;0;65548;17 Oblique
+Source Han Sans CN Medium;思源黑体 CN Medium
+0;SourceHanSansCN-Medium;0;6;5;2;65535;1160;320;222;1;3934;1480;3934;1480;0;0;0;65536;Medium
 
-File:lmromanslant8-regular.otf
+File:SourceHanSansCN-ExtraLight.otf
 2;1
-LM Roman Slanted 8;Latin Modern Roman Slanted
-0;LMRomanSlant8-Regular;0;5;5;2;65535;1125;292;417;0;2009;1417;2009;1417;0;0;0;65548;8 Regular
+Source Han Sans CN ExtraLight;思源黑体 CN ExtraLight
+0;SourceHanSansCN-ExtraLight;0;3;5;2;65535;1160;320;222;1;3921;1480;3921;1480;0;0;0;65536;ExtraLight
 
-File:lmromanslant17-regular.otf
+File:SourceHanSansCN-Bold.otf
 2;1
-LM Roman Slanted 17;Latin Modern Roman Slanted
-0;LMRomanSlant17-Regular;0;5;5;2;65535;1125;286;411;0;1795;1411;1795;1411;0;0;0;65548;17 Regular
+Source Han Sans CN Bold;思源黑体 CN Bold
+0;SourceHanSansCN-Bold;0;8;5;2;65535;1160;320;222;1;3939;1480;3939;1480;0;0;0;65536;Bold
 
-File:lmromanslant10-regular.otf
+FontCacheDirectory:1479245908:/usr/share/fonts/adobe-source-han-sans-tw
+File:SourceHanSansTW-Bold.otf
 2;1
-LM Roman Slanted 10;Latin Modern Roman Slanted
-0;LMRomanSlant10-Regular;0;5;5;2;65535;1127;290;417;0;1903;1417;1903;1417;0;0;0;65548;10 Regular
+Source Han Sans TW Bold;思源黑體 TW Bold
+0;SourceHanSansTW-Bold;0;8;5;2;65535;1160;320;222;1;3939;1480;3939;1480;0;0;0;65536;Bold
 
-File:lmsans8-regular.otf
+File:SourceHanSansTW-Regular.otf
 2;1
-LM Sans 8;Latin Modern Sans
-0;LMSans8-Regular;0;5;5;2;65535;1154;314;468;0;1956;1468;1956;1468;0;0;0;65548;8 Regular
+Source Han Sans TW Regular;思源黑體 TW Regular
+0;SourceHanSansTW-Regular;0;5;5;2;65535;1160;320;222;1;3930;1480;3930;1480;0;0;0;65536;Regular
 
-File:lmromanslant10-bold.otf
+File:SourceHanSansTW-ExtraLight.otf
 2;1
-LM Roman Slanted 10;Latin Modern Roman Slanted
-0;LMRomanSlant10-Bold;0;8;5;2;65535;1133;295;428;0;2148;1428;2148;1428;0;0;0;65548;10 Bold
+Source Han Sans TW ExtraLight;思源黑體 TW ExtraLight
+0;SourceHanSansTW-ExtraLight;0;3;5;2;65535;1160;320;222;1;3921;1480;3921;1480;0;0;0;65536;ExtraLight
 
-File:lmromandunh10-regular.otf
+File:SourceHanSansTW-Normal.otf
 2;1
-LM Roman Dunhill 10;Latin Modern Roman Dunhill
-0;LMRomanDunh10-Regular;0;5;5;2;65535;1514;549;1063;0;1926;2063;1926;2063;0;0;0;65548;10 Regular
+Source Han Sans TW Normal;思源黑體 TW Normal
+0;SourceHanSansTW-Normal;0;4;5;2;65535;1160;320;222;1;3928;1480;3928;1480;0;0;0;65536;Normal
 
-File:lmmonoproplt10-oblique.otf
+File:SourceHanSansTW-Heavy.otf
 2;1
-LM Mono Prop Light 10;Latin Modern Mono Prop Light
-0;LMMonoPropLt10-Oblique;1;5;5;2;65535;968;326;294;0;1965;1294;1965;1294;0;0;0;65548;10 Oblique
+Source Han Sans TW Heavy;思源黑體 TW Heavy
+0;SourceHanSansTW-Heavy;0;10;5;2;65535;1160;320;222;1;3944;1480;3944;1480;0;0;0;65536;Heavy
 
-File:lmsansquot8-bold.otf
+File:SourceHanSansTW-Medium.otf
 2;1
-LM Sans Quot 8;Latin Modern Sans Quotation
-0;LMSansQuot8-Bold;0;8;5;2;65535;1104;313;417;0;2545;1417;2545;1417;0;0;0;65548;8 Bold
+Source Han Sans TW Medium;思源黑體 TW Medium
+0;SourceHanSansTW-Medium;0;6;5;2;65535;1160;320;222;1;3934;1480;3934;1480;0;0;0;65536;Medium
 
-File:lmmonoslant10-regular.otf
+File:SourceHanSansTW-Light.otf
 2;1
-LM Mono Slanted 10;Latin Modern Mono Slanted
-0;LMMonoSlant10-Regular;0;5;5;1;65535;1016;316;332;0;1263;1332;1263;1332;0;0;0;65548;10 Regular
+Source Han Sans TW Light;思源黑體 TW Light
+0;SourceHanSansTW-Light;0;3;5;2;65535;1160;320;222;1;3924;1480;3924;1480;0;0;0;65536;Light
 
-File:lmromandemi10-oblique.otf
+FontCacheDirectory:1479245892:/usr/share/fonts/thai-scalable
+File:Waree-Bold.ttf
 2;1
-LM Roman Demi 10;Latin Modern Roman Demi
-0;LMRomanDemi10-Oblique;1;7;5;2;65535;1136;295;431;0;1884;1431;1884;1431;0;0;0;65548;10 Oblique
+Waree
+0;Waree-Bold;0;8;5;2;65535;1240;515;263;0;2225;1755;2225;1755;0;0;0;0;Bold
 
-File:lmroman9-regular.otf
+File:Waree-BoldOblique.ttf
 2;1
-LM Roman 9;Latin Modern Roman
-0;LMRoman9-Regular;0;5;5;2;65535;1128;292;420;0;1897;1420;1897;1420;0;0;0;65548;9 Regular
+Waree
+0;Waree-BoldOblique;1;8;5;2;65535;1240;515;263;0;2133;1755;2133;1755;0;0;0;0;BoldOblique
 
-File:lmmonoproplt10-regular.otf
+File:Waree-Oblique.ttf
 2;1
-LM Mono Prop Light 10;Latin Modern Mono Prop Light
-0;LMMonoPropLt10-Regular;0;5;5;2;65535;968;326;294;0;1918;1294;1918;1294;0;0;0;65548;10 Regular
+Waree
+0;Waree-Oblique;1;5;5;2;65535;1232;430;249;0;1878;1662;1878;1662;0;0;0;0;Oblique
 
-File:lmromanunsl10-regular.otf
+File:Waree.ttf
 2;1
-LM Roman Unslanted 10;Latin Modern Roman Unslanted
-0;LMRomanUnsl10-Regular;0;5;5;2;65535;1124;292;416;0;1906;1416;1906;1416;0;0;0;65548;10 Regular
+Waree
+0;Waree;0;5;5;2;65535;1232;430;249;0;1972;1662;1972;1662;0;0;0;0;Book
 
-File:lmmonoprop10-regular.otf
+FontCacheDirectory:1479245905:/usr/share/fonts/vlgothic
+File:VL-Gothic-Regular.ttf
 2;1
-LM Mono Prop 10;Latin Modern Mono Prop
-0;LMMonoProp10-Regular;0;5;5;2;65535;996;316;312;0;1910;1312;1910;1312;0;0;0;65548;10 Regular
+VL Gothic;VL ゴシック
+0;VL-Gothic-Regular;0;5;5;2;65535;1000;270;190;0;1332;1270;1332;1270;0;0;0;0;regular
 
-File:lmmonoltcond10-oblique.otf
+FontCacheDirectory:1479245914:/usr/share/fonts/gdouros-symbola
+File:Symbola.ttf
 2;1
-LM Mono Light Cond 10;Latin Modern Mono Light Cond
-0;LMMonoLtCond10-Oblique;1;5;5;1;65535;991;321;312;0;900;1312;900;1312;0;0;0;65548;10 Oblique
+Symbola
+0;Symbola;0;5;4;2;65535;784;215;149;0;3992;999;3992;999;0;0;0;0;Regular
 
-File:lmroman7-italic.otf
+FontCacheDirectory:1488155128:/usr/share/fonts/open-sans
+File:OpenSans-Light.ttf
 2;1
-LM Roman 7;Latin Modern Roman
-0;LMRoman7-Italic;2;5;5;2;65535;1123;292;415;0;2099;1415;2099;1415;0;0;0;65548;7 Italic
+Open Sans Light
+0;OpenSans-Light;0;3;5;2;65535;1068;292;204;0;1660;1360;1660;1360;0;0;0;0;Light
 
-File:lmroman6-regular.otf
+File:OpenSans-LightItalic.ttf
 2;1
-LM Roman 6;Latin Modern Roman
-0;LMRoman6-Regular;0;5;5;2;65535;1125;298;423;0;2162;1423;2162;1423;0;0;0;65548;6 Regular
+Open Sans Light
+0;OpenSansLight-Italic;2;3;5;2;65535;1068;292;204;0;1730;1360;1730;1360;0;0;0;0;Light Italic
 
-File:lmmonoltcond10-regular.otf
+File:OpenSans-ExtraBoldItalic.ttf
 2;1
-LM Mono Light Cond 10;Latin Modern Mono Light Cond
-0;LMMonoLtCond10-Regular;0;5;5;1;65535;991;321;312;0;820;1312;820;1312;0;0;0;65548;10 Regular
+Open Sans Extrabold
+0;OpenSans-ExtraboldItalic;2;9;5;2;65535;1068;292;204;0;1869;1360;1869;1360;0;0;0;0;Extrabold Italic
 
-File:lmmono10-italic.otf
+File:OpenSans-BoldItalic.ttf
 2;1
-LM Mono 10;Latin Modern Mono
-0;LMMono10-Italic;2;5;5;1;65535;1016;316;332;0;1325;1332;1325;1332;0;0;0;65548;10 Italic
+Open Sans
+0;OpenSans-BoldItalic;2;8;5;2;65535;1068;292;204;0;1805;1360;1805;1360;0;0;0;0;Bold Italic
 
-File:lmsans8-oblique.otf
+File:OpenSans-Italic.ttf
 2;1
-LM Sans 8;Latin Modern Sans
-0;LMSans8-Oblique;1;5;5;2;65535;1154;314;468;0;2034;1468;2034;1468;0;0;0;65548;8 Oblique
+Open Sans
+0;OpenSans-Italic;2;5;5;2;65535;1068;292;204;0;1728;1360;1728;1360;0;0;0;0;Italic
 
-File:lmmonoproplt10-boldoblique.otf
+File:OpenSans-Regular.ttf
 2;1
-LM Mono Prop Light 10;Latin Modern Mono Prop Light
-0;LMMonoPropLt10-BoldOblique;1;8;5;2;65535;1021;307;328;0;1967;1328;1967;1328;0;0;0;65548;10 BoldOblique
+Open Sans
+0;OpenSans;0;5;5;2;65535;1068;292;204;0;1753;1360;1753;1360;0;0;0;0;Regular
 
-File:lmromandemi10-regular.otf
+File:OpenSans-SemiboldItalic.ttf
 2;1
-LM Roman Demi 10;Latin Modern Roman Demi
-0;LMRomanDemi10-Regular;0;7;5;2;65535;1136;295;431;0;1848;1431;1848;1431;0;0;0;65548;10 Regular
+Open Sans Semibold
+0;OpenSans-SemiboldItalic;2;7;5;2;65535;1068;292;204;0;1746;1360;1746;1360;0;0;0;0;Semibold Italic
 
-File:lmmono12-regular.otf
+File:OpenSans-ExtraBold.ttf
 2;1
-LM Mono 12;Latin Modern Mono
-0;LMMono12-Regular;0;5;5;1;65535;1019;311;330;0;1159;1330;1159;1330;0;0;0;65548;12 Regular
+Open Sans Extrabold
+0;OpenSans-Extrabold;0;9;5;2;65535;1068;292;204;0;2134;1360;2134;1360;0;0;0;0;Extrabold
 
-File:lmsans10-boldoblique.otf
+File:OpenSans-Semibold.ttf
 2;1
-LM Sans 10;Latin Modern Sans
-0;LMSans10-BoldOblique;1;8;5;2;65535;1134;297;431;0;2297;1431;2297;1431;0;0;0;65548;10 Bold Oblique
+Open Sans Semibold
+0;OpenSans-Semibold;0;7;5;2;65535;1068;292;204;0;1844;1360;1844;1360;0;0;0;0;Semibold
 
-File:lmmonoprop10-oblique.otf
+File:OpenSans-Bold.ttf
 2;1
-LM Mono Prop 10;Latin Modern Mono Prop
-0;LMMonoProp10-Oblique;1;5;5;2;65535;996;316;312;0;1958;1312;1958;1312;0;0;0;65548;10 Oblique
+Open Sans
+0;OpenSans-Bold;0;8;5;2;65535;1068;292;204;0;1937;1360;1937;1360;0;0;0;0;Bold
 
-File:lmroman7-regular.otf
+FontCacheDirectory:1479245897:/usr/share/fonts/sil-nuosu
+File:NuosuSIL.ttf
 2;1
-LM Roman 7;Latin Modern Roman
-0;LMRoman7-Regular;0;5;5;2;65535;1124;292;416;0;2045;1416;2045;1416;0;0;0;65548;7 Regular
+Nuosu SIL
+0;NuosuSIL;0;5;5;2;65535;1074;244;197;0;1080;1318;1080;1318;0;0;0;0;Regular
 
-File:lmsans9-oblique.otf
+FontCacheDirectory:1488154953:/usr/share/fonts/google-noto
+File:NotoSansTaiViet-Regular.ttf
 2;1
-LM Sans 9;Latin Modern Sans
-0;LMSans9-Oblique;1;5;5;2;65535;1155;313;468;0;1977;1468;1977;1468;0;0;0;65548;9 Oblique
+Noto Sans Tai Viet
+0;NotoSansTaiViet;0;5;5;2;65535;1068;292;204;0;2255;1360;2255;1360;0;0;0;0;Regular
 
-File:lmromancaps10-oblique.otf
+File:NotoSansTaiTham-Regular.ttf
 2;1
-LM Roman Caps 10;Latin Modern Roman Caps
-0;LMRomanCaps10-Oblique;1;5;5;2;65535;1100;290;390;0;2053;1390;2053;1390;0;0;0;65548;10 Oblique
+Noto Sans Tai Tham
+0;NotoSansTaiTham;0;5;5;2;65535;1068;488;233;0;2034;1556;2034;1556;0;0;0;0;Regular
 
-File:lmroman9-bold.otf
+File:NotoSansLisu-Regular.ttf
 2;1
-LM Roman 9;Latin Modern Roman
-0;LMRoman9-Bold;0;8;5;2;65535;1136;299;435;0;2150;1435;2150;1435;0;0;0;65548;9 Bold
+Noto Sans Lisu
+0;NotoSansLisu;0;5;5;2;65535;1068;292;204;0;916;1360;916;1360;0;0;0;0;Regular
 
-File:lmmono9-regular.otf
+File:NotoSansMeeteiMayek-Regular.ttf
 2;1
-LM Mono 9;Latin Modern Mono
-0;LMMono9-Regular;0;5;5;1;65535;1016;318;334;0;1185;1334;1185;1334;0;0;0;65548;9 Regular
+Noto Sans Meetei Mayek
+0;NotoSansMeeteiMayek;0;5;5;2;65535;1068;317;207;0;2294;1385;2294;1385;0;0;0;0;Regular
 
-File:lmroman10-bold.otf
+File:NotoSansMandaic-Regular.ttf
 2;1
-LM Roman 10;Latin Modern Roman
-0;LMRoman10-Bold;0;8;5;2;65535;1133;295;428;0;2093;1428;2093;1428;0;0;0;65548;10 Bold
+Noto Sans Mandaic
+0;NotoSansMandaic;0;5;5;2;65535;723;403;168;0;1204;1126;1204;1126;0;0;0;0;Regular
 
-File:lmroman9-italic.otf
+File:NotoSansTagalog-Regular.ttf
 2;1
-LM Roman 9;Latin Modern Roman
-0;LMRoman9-Italic;2;5;5;2;65535;1127;292;419;0;1888;1419;1888;1419;0;0;0;65548;9 Italic
+Noto Sans Tagalog
+0;NotoSansTagalog;0;5;5;2;65535;1068;292;204;0;1393;1360;1393;1360;0;0;0;0;Regular
 
-File:lmromanslant12-regular.otf
+FontCacheDirectory:1488155128:/usr/share/fonts/google-noto-emoji
+File:NotoEmoji-Regular.ttf
 2;1
-LM Roman Slanted 12;Latin Modern Roman Slanted
-0;LMRomanSlant12-Regular;0;5;5;2;65535;1127;280;407;0;1873;1407;1873;1407;0;0;0;65548;12 Regular
+Noto Emoji
+0;NotoEmoji;0;5;5;1;65535;1068;292;204;0;1332;1360;1332;1360;0;0;0;0;Regular
 
-File:lmmonocaps10-regular.otf
+FontCacheDirectory:1479245891:/usr/share/fonts/naver-nanum
+File:NanumGothicLight.ttf
 2;1
-LM Mono Caps 10;Latin Modern Mono Caps
-0;LMMonoCaps10-Regular;0;5;5;1;65535;985;316;301;0;1424;1301;1424;1301;0;0;0;65548;10 Regular
+NanumGothic Light;NanumGothic;나눔고딕;나눔고딕 Light
+0;NanumGothicLight;0;3;5;2;65535;800;200;150;0;1029;1000;1029;1000;0;0;0;8;Light
 
-File:lmmonolt10-bold.otf
+File:NanumGothic.ttf
 2;1
-LM Mono Light 10;Latin Modern Mono Light
-0;LMMonoLt10-Bold;0;8;5;1;65535;1039;308;347;0;1188;1347;1188;1347;0;0;0;65548;10 Bold
+NanumGothic;나눔고딕
+0;NanumGothic;0;5;5;2;65535;920;230;172;0;1005;1150;1005;1150;0;0;0;8;Regular
 
-File:lmmono10-regular.otf
+File:NanumGothicExtraBold.ttf
 2;1
-LM Mono 10;Latin Modern Mono
-0;LMMono10-Regular;0;5;5;1;65535;1016;316;332;0;1182;1332;1182;1332;0;0;0;65548;10 Regular
+NanumGothicExtraBold;NanumGothic;나눔고딕;나눔고딕 ExtraBold
+0;NanumGothicExtraBold;0;8;5;2;65535;920;230;172;0;1049;1150;1049;1150;0;0;0;8;ExtraBold
 
-File:lmroman8-regular.otf
+File:NanumGothicBold.ttf
 2;1
-LM Roman 8;Latin Modern Roman
-0;LMRoman8-Regular;0;5;5;2;65535;1125;292;417;0;1953;1417;1953;1417;0;0;0;65548;8 Regular
+NanumGothic;나눔고딕
+0;NanumGothicBold;0;7;5;2;65535;920;230;172;0;1033;1150;1033;1150;0;0;0;8;Bold
 
-File:lmmonoproplt10-bold.otf
+FontCacheDirectory:1479245255:/usr/share/fonts/julietaula-montserrat
+File:MontserratAlternates-Medium.otf
 2;1
-LM Mono Prop Light 10;Latin Modern Mono Prop Light
-0;LMMonoPropLt10-Bold;0;8;5;2;65535;1021;307;328;0;1922;1328;1922;1328;0;0;0;65548;10 Bold
+Montserrat Alternates Medium;Montserrat Alternates
+0;MontserratAlternates-Medium;0;6;5;2;65535;968;251;182;0;1675;1219;1675;1219;0;0;0;65536;Medium
 
-File:lmroman6-bold.otf
+File:MontserratAlternates-Black.otf
 2;1
-LM Roman 6;Latin Modern Roman
-0;LMRoman6-Bold;0;8;5;2;65535;1146;313;459;0;2452;1459;2452;1459;0;0;0;65548;6 Bold
+Montserrat Alternates Black;Montserrat Alternates
+0;MontserratAlternates-Black;0;10;5;2;65535;968;251;182;0;1775;1219;1775;1219;0;0;0;65536;Black
 
-File:lmmono8-regular.otf
+File:MontserratAlternates-Bold.ttf
 2;1
-LM Mono 8;Latin Modern Mono
-0;LMMono8-Regular;0;5;5;1;65535;1014;320;334;0;1199;1334;1199;1334;0;0;0;65548;8 Regular
+Montserrat Alternates
+0;MontserratAlternates-Bold;0;8;5;2;65535;968;251;182;0;1725;1219;1725;1219;0;0;0;0;Bold
 
-File:lmmonolt10-boldoblique.otf
+File:MontserratAlternates-Light.otf
 2;1
-LM Mono Light 10;Latin Modern Mono Light
-0;LMMonoLt10-BoldOblique;1;8;5;1;65535;1039;308;347;0;1269;1347;1269;1347;0;0;0;65548;10 Bold Oblique
+Montserrat Alternates Light;Montserrat Alternates
+0;MontserratAlternates-Light;0;3;5;2;65535;968;251;182;0;1620;1219;1620;1219;0;0;0;65536;Light
 
-File:lmmonocaps10-oblique.otf
+File:MontserratAlternates-Light.ttf
 2;1
-LM Mono Caps 10;Latin Modern Mono Caps
-0;LMMonoCaps10-Oblique;1;5;5;1;65535;985;316;301;0;1500;1301;1500;1301;0;0;0;65548;10 Oblique
+Montserrat Alternates Light;Montserrat Alternates
+0;MontserratAlternates-Light;0;3;5;2;65535;968;251;182;0;1620;1219;1620;1219;0;0;0;0;Light
 
-File:lmroman12-italic.otf
+File:MontserratAlternates-Medium.ttf
 2;1
-LM Roman 12;Latin Modern Roman
-0;LMRoman12-Italic;2;5;5;2;65535;1125;289;414;0;1807;1414;1807;1414;0;0;0;65548;12 Italic
+Montserrat Alternates Medium;Montserrat Alternates
+0;MontserratAlternates-Medium;0;6;5;2;65535;968;251;182;0;1675;1219;1675;1219;0;0;0;0;Medium
 
-File:lmmonolt10-regular.otf
+File:MontserratAlternates-ExtraBold.ttf
 2;1
-LM Mono Light 10;Latin Modern Mono Light
-0;LMMonoLt10-Regular;0;5;5;1;65535;986;327;313;0;1184;1313;1184;1313;0;0;0;65548;10 Regular
+Montserrat Alternates Ex Bold;Montserrat Alternates
+0;MontserratAlternates-ExtraBold;0;9;5;2;65535;968;251;182;0;1751;1219;1751;1219;0;0;0;0;Extra Bold
 
-File:lmroman7-bold.otf
+File:MontserratAlternates-Regular.otf
 2;1
-LM Roman 7;Latin Modern Roman
-0;LMRoman7-Bold;0;8;5;2;65535;1146;304;450;0;2318;1450;2318;1450;0;0;0;65548;7 Bold
+Montserrat Alternates
+0;MontserratAlternates-Regular;0;5;5;2;65535;968;251;182;0;1658;1219;1658;1219;0;0;0;65536;Regular
 
-File:lmroman8-bold.otf
+File:MontserratAlternates-SemiBold.otf
 2;1
-LM Roman 8;Latin Modern Roman
-0;LMRoman8-Bold;0;8;5;2;65535;1136;307;443;0;2223;1443;2223;1443;0;0;0;65548;8 Bold
+Montserrat Alternates Semi Bold;Montserrat Alternates
+0;MontserratAlternates-SemiBold;0;7;5;2;65535;968;251;182;0;1700;1219;1700;1219;0;0;0;65536;Semi Bold
 
-File:lmroman8-italic.otf
+File:MontserratAlternates-SemiBold.ttf
 2;1
-LM Roman 8;Latin Modern Roman
-0;LMRoman8-Italic;2;5;5;2;65535;1124;292;416;0;1961;1416;1961;1416;0;0;0;65548;8 Italic
+Montserrat Alternates Semi Bold;Montserrat Alternates
+0;MontserratAlternates-SemiBold;0;7;5;2;65535;968;251;182;0;1700;1219;1700;1219;0;0;0;0;Semi Bold
 
-File:lmsans9-regular.otf
+File:MontserratAlternates-Thin.otf
 2;1
-LM Sans 9;Latin Modern Sans
-0;LMSans9-Regular;0;5;5;2;65535;1155;313;468;0;1899;1468;1899;1468;0;0;0;65548;9 Regular
+Montserrat Alternates Thin;Montserrat Alternates
+0;MontserratAlternates-Thin;0;1;5;2;65535;968;251;182;0;1558;1219;1558;1219;0;0;0;65536;Thin
 
-File:lmromancaps10-regular.otf
+File:MontserratAlternates-ExtraBold.otf
 2;1
-LM Roman Caps 10;Latin Modern Roman Caps
-0;LMRomanCaps10-Regular;0;5;5;2;65535;1100;290;390;0;1997;1390;1997;1390;0;0;0;65548;10 Regular
+Montserrat Alternates Ex Bold;Montserrat Alternates
+0;MontserratAlternates-ExtraBold;0;9;5;2;65535;968;251;182;0;1751;1219;1751;1219;0;0;0;65536;Extra Bold
 
-File:lmroman5-bold.otf
+File:Montserrat-Medium.ttf
 2;1
-LM Roman 5;Latin Modern Roman
-0;LMRoman5-Bold;0;8;5;2;65535;1163;325;488;0;2636;1488;2636;1488;0;0;0;65548;5 Bold
+Montserrat Medium;Montserrat
+0;Montserrat-Medium;0;6;5;2;65535;968;251;182;0;1675;1219;1675;1219;0;0;0;0;Medium
 
-File:lmsans17-regular.otf
+File:Montserrat-SemiBold.ttf
 2;1
-LM Sans 17;Latin Modern Sans
-0;LMSans17-Regular;0;5;5;2;65535;1159;305;464;0;1750;1464;1750;1464;0;0;0;65548;17 Regular
+Montserrat Semi Bold;Montserrat
+0;Montserrat-SemiBold;0;7;5;2;65535;968;251;182;0;1700;1219;1700;1219;0;0;0;0;Semi Bold
 
-File:lmmonolt10-oblique.otf
+File:Montserrat-Regular.otf
 2;1
-LM Mono Light 10;Latin Modern Mono Light
-0;LMMonoLt10-Oblique;1;5;5;1;65535;986;327;313;0;1265;1313;1265;1313;0;0;0;65548;10 Oblique
+Montserrat
+0;Montserrat-Regular;0;5;5;2;65535;968;251;182;0;1658;1219;1658;1219;0;0;0;65536;Regular
 
-File:lmroman10-bolditalic.otf
+File:Montserrat-ExtraBold.ttf
 2;1
-LM Roman 10;Latin Modern Roman
-0;LMRoman10-BoldItalic;2;8;5;2;65535;1147;307;454;0;2083;1454;2083;1454;0;0;0;65548;10 Bold Italic
+Montserrat Extra Bold;Montserrat
+0;Montserrat-ExtraBold;0;9;5;2;65535;968;251;182;0;1751;1219;1751;1219;0;0;0;0;Extra Bold
 
-File:lmromanslant9-regular.otf
+File:MontserratAlternates-Regular.ttf
 2;1
-LM Roman Slanted 9;Latin Modern Roman Slanted
-0;LMRomanSlant9-Regular;0;5;5;2;65535;1128;292;420;0;1953;1420;1953;1420;0;0;0;65548;9 Regular
+Montserrat Alternates
+0;MontserratAlternates-Regular;0;5;5;2;65535;968;251;182;0;1658;1219;1658;1219;0;0;0;0;Regular
 
-File:lmroman10-italic.otf
+File:Montserrat-SemiBold.otf
 2;1
-LM Roman 10;Latin Modern Roman
-0;LMRoman10-Italic;2;5;5;2;65535;1125;290;415;0;1844;1415;1844;1415;0;0;0;65548;10 Italic
+Montserrat Semi Bold;Montserrat
+0;Montserrat-SemiBold;0;7;5;2;65535;968;251;182;0;1700;1219;1700;1219;0;0;0;65536;Semi Bold
 
-File:lmroman12-bold.otf
+File:Montserrat-Medium.otf
 2;1
-LM Roman 12;Latin Modern Roman
-0;LMRoman12-Bold;0;8;5;2;65535;1137;289;426;0;2053;1426;2053;1426;0;0;0;65548;12 Bold
+Montserrat Medium;Montserrat
+0;Montserrat-Medium;0;6;5;2;65535;968;251;182;0;1675;1219;1675;1219;0;0;0;65536;Medium
 
-File:lmsansquot8-boldoblique.otf
+File:Montserrat-Thin.otf
 2;1
-LM Sans Quot 8;Latin Modern Sans Quotation
-0;LMSansQuot8-BoldOblique;1;8;5;2;65535;1104;313;417;0;2622;1417;2622;1417;0;0;0;65548;8 Bold Oblique
+Montserrat Thin;Montserrat
+0;Montserrat-Thin;0;1;5;2;65535;968;251;182;0;1558;1219;1558;1219;0;0;0;65536;Thin
 
-File:lmroman10-regular.otf
+File:Montserrat-UltraLight.ttf
 2;1
-LM Roman 10;Latin Modern Roman
-0;LMRoman10-Regular;0;5;5;2;65535;1127;290;417;0;1847;1417;1847;1417;0;0;0;65548;10 Regular
+Montserrat Ultra Light;Montserrat
+0;Montserrat-UltraLight;0;2;5;2;65535;968;251;182;0;1580;1219;1580;1219;0;0;0;0;Ultra Light
 
-File:lmroman12-regular.otf
+File:MontserratAlternates-Bold.otf
 2;1
-LM Roman 12;Latin Modern Roman
-0;LMRoman12-Regular;0;5;5;2;65535;1127;280;407;0;1816;1407;1816;1407;0;0;0;65548;12 Regular
+Montserrat Alternates
+0;MontserratAlternates-Bold;0;8;5;2;65535;968;251;182;0;1725;1219;1725;1219;0;0;0;65536;Bold
 
-File:lmroman5-regular.otf
+File:Montserrat-Regular.ttf
 2;1
-LM Roman 5;Latin Modern Roman
-0;LMRoman5-Regular;0;5;5;2;65535;1126;303;429;0;2338;1429;2338;1429;0;0;0;65548;5 Regular
+Montserrat
+0;Montserrat-Regular;0;5;5;2;65535;968;251;182;0;1658;1219;1658;1219;0;0;0;0;Regular
 
-File:lmroman17-regular.otf
+File:Montserrat-Thin.ttf
 2;1
-LM Roman 17;Latin Modern Roman
-0;LMRoman17-Regular;0;5;5;2;65535;1125;286;411;0;1738;1411;1738;1411;0;0;0;65548;17 Regular
+Montserrat Thin;Montserrat
+0;Montserrat-Thin;0;1;5;2;65535;968;251;182;0;1558;1219;1558;1219;0;0;0;0;Thin
 
-File:lmromandunh10-oblique.otf
+File:Montserrat-UltraLight.otf
 2;1
-LM Roman Dunhill 10;Latin Modern Roman Dunhill
-0;LMRomanDunh10-Oblique;1;5;5;2;65535;1514;549;1063;0;1974;2063;1974;2063;0;0;0;65548;10 Oblique
+Montserrat Ultra Light;Montserrat
+0;Montserrat-UltraLight;0;2;5;2;65535;968;251;182;0;1580;1219;1580;1219;0;0;0;65536;Ultra Light
 
-FontCacheDirectory:1465921950:/usr/share/fonts/liberation
-File:LiberationSans-Bold.ttf
+File:Montserrat-Light.ttf
 2;1
-Liberation Sans
-0;LiberationSans-Bold;0;8;5;2;65535;905;211;116;0;1246;1116;1246;1116;0;0;0;0;Bold
+Montserrat Light;Montserrat
+0;Montserrat-Light;0;3;5;2;65535;968;251;182;0;1620;1219;1620;1219;0;0;0;0;Light
 
-File:LiberationSans-Regular.ttf
+File:Montserrat-Light.otf
 2;1
-Liberation Sans
-0;LiberationSans;0;5;5;2;65535;905;211;116;0;1253;1116;1253;1116;0;0;0;0;Regular
+Montserrat Light;Montserrat
+0;Montserrat-Light;0;3;5;2;65535;968;251;182;0;1620;1219;1620;1219;0;0;0;65536;Light
 
-File:LiberationMono-Bold.ttf
+File:Montserrat-Black.otf
 2;1
-Liberation Mono
-0;LiberationMono-Bold;0;8;5;1;65535;832;300;132;0;640;1132;640;1132;0;0;0;0;Bold
+Montserrat Black;Montserrat
+0;Montserrat-Black;0;10;5;2;65535;968;251;182;0;1775;1219;1775;1219;0;0;0;65536;Black
 
-File:LiberationMono-BoldItalic.ttf
+File:Montserrat-Bold.otf
 2;1
-Liberation Mono
-0;LiberationMono-BoldItalic;2;8;5;1;65535;832;300;132;0;791;1132;791;1132;0;0;0;0;Bold Italic
+Montserrat
+0;Montserrat-Bold;0;8;5;2;65535;968;251;182;0;1725;1219;1725;1219;0;0;0;65536;Bold
 
-File:LiberationMono-Italic.ttf
+File:Montserrat-ExtraBold.otf
 2;1
-Liberation Mono
-0;LiberationMono-Italic;2;5;5;1;65535;832;300;132;0;798;1132;798;1132;0;0;0;0;Italic
+Montserrat Extra Bold;Montserrat
+0;Montserrat-ExtraBold;0;9;5;2;65535;968;251;182;0;1751;1219;1751;1219;0;0;0;65536;Extra Bold
 
-File:LiberationSans-BoldItalic.ttf
+File:Montserrat-Bold.ttf
 2;1
-Liberation Sans
-0;LiberationSans-BoldItalic;2;8;5;2;65535;905;211;116;0;1336;1116;1336;1116;0;0;0;0;Bold Italic
+Montserrat
+0;Montserrat-Bold;0;8;5;2;65535;968;251;182;0;1725;1219;1725;1219;0;0;0;0;Bold
 
-File:LiberationSerif-Regular.ttf
+File:Montserrat-Black.ttf
 2;1
-Liberation Serif
-0;LiberationSerif;0;5;5;2;65535;891;216;107;0;1182;1107;1182;1107;0;0;0;0;Regular
+Montserrat Black;Montserrat
+0;Montserrat-Black;0;10;5;2;65535;968;251;182;0;1775;1219;1775;1219;0;0;0;0;Black
 
-File:LiberationSerif-Italic.ttf
+File:MontserratAlternates-UltraLight.otf
 2;1
-Liberation Serif
-0;LiberationSerif-Italic;2;5;5;2;65535;891;216;107;0;1263;1107;1263;1107;0;0;0;0;Italic
+Montserrat Alternates Ultra Light;Montserrat Alternates
+0;MontserratAlternates-UltraLight;0;2;5;2;65535;968;251;182;0;1580;1219;1580;1219;0;0;0;65536;Ultra Light
 
-File:LiberationSerif-BoldItalic.ttf
+File:MontserratAlternates-Black.ttf
 2;1
-Liberation Serif
-0;LiberationSerif-BoldItalic;2;8;5;2;65535;891;216;107;0;1328;1107;1328;1107;0;0;0;0;Bold Italic
+Montserrat Alternates Black;Montserrat Alternates
+0;MontserratAlternates-Black;0;10;5;2;65535;968;251;182;0;1775;1219;1775;1219;0;0;0;0;Black
 
-File:LiberationMono-Regular.ttf
+File:MontserratAlternates-UltraLight.ttf
 2;1
-Liberation Mono
-0;LiberationMono;0;5;5;1;65535;832;300;132;0;632;1132;632;1132;0;0;0;0;Regular
+Montserrat Alternates Ultra Light;Montserrat Alternates
+0;MontserratAlternates-UltraLight;0;2;5;2;65535;968;251;182;0;1580;1219;1580;1219;0;0;0;0;Ultra Light
 
-File:LiberationSans-Italic.ttf
+File:MontserratAlternates-Thin.ttf
 2;1
-Liberation Sans
-0;LiberationSans-Italic;2;5;5;2;65535;905;211;116;0;1333;1116;1333;1116;0;0;0;0;Italic
+Montserrat Alternates Thin;Montserrat Alternates
+0;MontserratAlternates-Thin;0;1;5;2;65535;968;251;182;0;1558;1219;1558;1219;0;0;0;0;Thin
 
-File:LiberationSerif-Bold.ttf
+FontCacheDirectory:1479245903:/usr/share/fonts/sil-mingzat
+File:Mingzat-R.ttf
 2;1
-Liberation Serif
-0;LiberationSerif-Bold;0;8;5;2;65535;891;216;107;0;1266;1107;1266;1107;0;0;0;0;Bold
+Mingzat
+0;Mingzat;0;5;5;2;65535;1360;670;304;0;3243;2030;3243;2030;0;0;0;0;Regular
 
-FontCacheDirectory:1465922407:/usr/share/fonts/lohit-assamese
-File:Lohit-Assamese.ttf
+FontCacheDirectory:1479245892:/usr/share/fonts/smc
+File:Meera.ttf
 2;1
-Lohit Assamese
-0;Lohit-Assamese;0;5;5;2;65535;988;422;410;0;2089;1410;2089;1410;0;0;0;0;Regular
+Meera
+0;Meera;0;5;5;2;65535;705;527;184;0;2446;1232;2446;1232;0;0;0;8;Regular
 
-FontCacheDirectory:1465922406:/usr/share/fonts/lohit-bengali
-File:Lohit-Bengali.ttf
+FontCacheDirectory:1479245903:/usr/share/fonts/lohit-telugu
+File:Lohit-Telugu.ttf
 2;1
-Lohit Bengali
-0;Lohit-Bengali;0;5;5;2;65535;988;422;410;0;2089;1410;2089;1410;0;0;0;0;Regular
+Lohit Telugu
+0;Lohit-Telugu;0;5;5;2;65535;975;658;195;0;2642;1633;2642;1633;0;0;0;0;Regular
 
-FontCacheDirectory:1465922394:/usr/share/fonts/lohit-devanagari
-File:Lohit-Devanagari.ttf
+FontCacheDirectory:1479245896:/usr/share/fonts/lohit-tamil
+File:Lohit-Tamil.ttf
 2;1
-Lohit Devanagari
-0;Lohit-Devanagari;0;5;5;2;65535;1094;502;596;0;1922;1596;1922;1596;0;0;0;0;Regular
+Lohit Tamil
+0;Lohit-Tamil;0;5;5;2;65535;849;364;181;0;2164;1213;2164;1213;0;0;0;0;Regular
 
-FontCacheDirectory:1465922407:/usr/share/fonts/lohit-gujarati
-File:Lohit-Gujarati.ttf
+FontCacheDirectory:1479245903:/usr/share/fonts/lohit-odia
+File:Lohit-Odia.ttf
 2;1
-Lohit Gujarati
-0;Lohit-Gujarati;0;5;5;2;65535;930;367;297;0;2301;1297;2301;1297;0;0;0;0;Regular
+Lohit Odia
+0;Lohit-Odia;0;5;5;2;65535;1118;610;195;0;2092;1728;2092;1728;0;0;0;0;Regular
 
-FontCacheDirectory:1465922407:/usr/share/fonts/lohit-gurmukhi
-File:Lohit-Gurmukhi.ttf
+FontCacheDirectory:1479245896:/usr/share/fonts/lohit-kannada
+File:Lohit-Kannada.ttf
 2;1
-Lohit Gurmukhi
-0;Lohit-Gurmukhi;0;5;5;2;65535;1232;700;932;0;2400;1932;2400;1932;0;0;0;0;Regular
+Lohit Kannada
+0;Lohit-Kannada;0;5;5;2;65535;878;683;195;0;3418;1561;3418;1561;0;0;0;0;Regular
 

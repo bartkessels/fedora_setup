@@ -382,7 +382,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bkessels/fedora_setup/setup.sh" added="2016-10-27T23:07:51Z" modified="2016-12-14T18:13:36Z" visited="2016-10-27T23:07:52Z">
+  <bookmark href="file:///home/bkessels/fedora_setup/setup.sh" added="2016-10-27T23:07:51Z" modified="2017-02-27T00:55:47Z" visited="2016-10-27T23:07:52Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-shellscript"/>
@@ -390,7 +390,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-12-14T18:13:36Z" count="17"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-02-27T00:55:47Z" count="20"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -505,6 +505,49 @@
         <bookmark:applications>
           <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-12-14T18:10:48Z" count="1"/>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-12-14T18:10:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///.offlineimaprc" added="2017-02-27T00:53:57Z" modified="2017-02-27T00:53:57Z" visited="2017-02-27T00:53:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-02-27T00:53:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bkessels/.libreoffice-templates/HAN.ott" added="2017-02-27T01:05:47Z" modified="2017-02-27T01:05:47Z" visited="2017-02-27T01:05:47.314139Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-02-27T01:05:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bkessels/.libreoffice-templates/Rapport.ott" added="2017-02-27T01:05:47Z" modified="2017-02-27T01:05:47Z" visited="2017-02-27T01:05:47.314154Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-02-27T01:05:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bkessels/.libreoffice-templates/RazorBit.ott" added="2017-02-27T01:05:47Z" modified="2017-02-27T01:05:47Z" visited="2017-02-27T01:05:47.314167Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text-template"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-02-27T01:05:47Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

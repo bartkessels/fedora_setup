@@ -1,15 +1,11 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="gnome-control-center.desktop" open-window-count="0" score="2" last-seen="1479754313"/>
-    <application id="firefox.desktop" open-window-count="1" score="74" last-seen="1479755431"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="4" last-seen="1479754694"/>
-    <application id="gnome-tweak-tool.desktop" open-window-count="1" score="4" last-seen="1479755375"/>
-    <application id="guake.desktop" open-window-count="1" score="0" last-seen="1479755515"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="4" last-seen="1488157360"/>
     <application id="google-chrome.desktop" open-window-count="0" score="4083" last-seen="1479754751"/>
-    <application id="org.gnome.gedit.desktop" open-window-count="0" score="7393" last-seen="1479754674"/>
-    <application id="gnome-shell-extension-prefs.desktop" open-window-count="0" score="7" last-seen="1479755358"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="6400" last-seen="1479755515"/>
-    <application id="org.gnome.Software.desktop" open-window-count="1" score="1" last-seen="1479754627"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="7397" last-seen="1488156957"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="6446" last-seen="1488157376"/>
+    <application id="gnome-tweak-tool.desktop" open-window-count="0" score="7" last-seen="1488157355"/>
+    <application id="firefox.desktop" open-window-count="1" score="0" last-seen="1488157394"/>
   </context>
 </application-state>
