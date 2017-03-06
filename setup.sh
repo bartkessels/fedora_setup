@@ -17,6 +17,10 @@ sync_folder=$home/bk-cloud
 export USER=$user_name
 export HOME=$home
 
+# Ask for user input
+echo 'What is your GIT e-mail address?'
+read git_mail
+
 #####################################################################################
 #####################################################################################
 
@@ -98,6 +102,9 @@ dnf install -y paper-icon-theme
 
 dnf install -y breeze-cursor-theme
 
+# Git
+printf "[user]\nemail='$git_mail'\nname='$full_name'\n[diff]\ntool=meld\n[push]\ndefault=simple" > $home/.gitconfig
+
 # Shell / Plugins
 dnf install -y zsh
 usermod -s /bin/zsh $user_name
@@ -107,12 +114,6 @@ git clone https://github.com/robbyrussell/oh-my-zsh.git $home/.oh-my-zsh
 # Inotify
 printf '# Increase inofity watch limit\nfs.inotify.max_user_watches = 100000000' > /etc/sysctl.d/90-inotify.conf
 printf '\n\n# Increase inofity watch limit\nfs.inotify.max_user_watches = 100000000' >> /usr/lib/sysctl.d/50-default.conf
-
-# Git
-echo 'What is your GIT e-mail address?'
-read git_mail
-
-printf "[user]\nemail='$git_mail'\nname='$full_name'\n[diff]\ntool=meld\n[push]\ndefault=simple" > $home/.gitconfig
 
 # Sudoers file
 printf '\nDefaults env_reset,insults\n' >> /etc/sudoers
