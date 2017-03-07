@@ -21,6 +21,9 @@ export HOME=$home
 echo 'What is your GIT e-mail address?'
 read git_mail
 
+echo "What is the computer name? [BKlaptop/BKcomputer]"
+read computer_name
+
 #####################################################################################
 #####################################################################################
 
@@ -125,7 +128,10 @@ printf '* hard rtprio 0\n* soft rtprio 0\n@realtime hard rtprio 20\n@realtime so
 groupadd realtime
 
 # Hostname
-hostnamectl set-hostname --static "BKlaptop"
+hostnamectl set-hostname --static $computer_name
+
+# Update dnf conf
+sed -i 's|clean_requirements_on_remove=True|clean_requirements_on_remove=False|g' /etc/dnf/dnf.conf
 
 #####################################################################################
 #####################################################################################
