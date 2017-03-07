@@ -147,7 +147,7 @@ dnf install -y texlive-crossreference texlive-upquote
 
 # Audio Editors / Players
 dnf install -y audacity ardour5
-dnf install -y clementine
+dnf install -y lollypop
 
 # Image Editors
 dnf install -y gimp
@@ -172,12 +172,16 @@ rm atom.rpm
 
 apm install atom-material-ui atom-material-syntax file-icons language-blade blade-snippets minimap docblockr
 
-# Browsers / Web / Chat / Chrome
+# Browsers / Web / Chat / Postman
 dnf install -y epiphany
 dnf install -y filezilla transmission youtube-dl offlineimap
 
-rpm --import https://dl-ssl.google.com/linux/linux_signing_key.pub
-dnf install -y https://dl.google.com/linux/direct/google-chrome-stable_current_$(uname -i).rpm
+wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
+tar -zxvf postman.tar.gz
+cp -r Postman $HOME/.postman
+chown -R $USER:$USER $HOME/.postman
+rm -rf Postman
+rm postman.tar.gz
 
 # Office
 dnf install -y aspell-nl libreoffice-langpack-nl gnome-calendar
