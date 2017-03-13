@@ -141,6 +141,9 @@ sed -i 's|clean_requirements_on_remove=True|clean_requirements_on_remove=False|g
 #####################################################################################
 #####################################################################################
 
+# GNOME extensions
+dnf install -y gnome-shell-extension-pomodoro gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance
+
 # Utilities
 dnf install -y whois pandoc deja-dup grsync gpick pdfmod gnome-todo luckybackup ghostwriter ffmpeg
 
