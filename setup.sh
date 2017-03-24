@@ -100,7 +100,7 @@ dnf install -y fedy-multimedia-codecs
 dnf install -y cabextract lzip p7zip p7zip-plugins unrar
 
 # Themes / Icons / Cursors
-dnf install -y paper-gtk-theme
+dnf install -y paper-gtk-theme arc-theme
 dnf install -y paper-icon-theme
 
 dnf install -y breeze-cursor-theme
