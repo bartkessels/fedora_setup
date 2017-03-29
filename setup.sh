@@ -185,13 +185,6 @@ apm install atom-material-ui atom-material-syntax file-icons language-blade blad
 dnf install -y epiphany
 dnf install -y filezilla transmission youtube-dl offlineimap
 
-wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
-tar -zxvf postman.tar.gz
-cp -r Postman $HOME/.postman
-chown -R $USER:$USER $HOME/.postman
-rm -rf Postman
-rm postman.tar.gz
-
 # Office
 dnf install -y aspell-nl libreoffice-langpack-nl gnome-calendar
 
