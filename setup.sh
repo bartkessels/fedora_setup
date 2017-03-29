@@ -152,7 +152,7 @@ dnf install -y seahorse-nautilus gnome-terminal-nautilus
 
 # LaTeX Editors / Packages
 dnf install -y gummi latexila
-dnf install -y texlive-crossreference texlive-upquote
+dnf install -y texlive-crossreference texlive-upquote texlive
 
 # Audio Editors / Players
 dnf install -y audacity ardour5
