@@ -196,7 +196,7 @@ dnf install -y VirtualBox
 dnf install -y keepassx
 
 # Other
-dnf install -y tuxguitar brasero
+dnf install -y tuxguitar brasero kde-connect
 
 #####################################################################################
 #####################################################################################
