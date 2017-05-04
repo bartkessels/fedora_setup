@@ -173,7 +173,7 @@ dnf install -y java-1.8.0-openjdk-devel automake autoconf zlib-devel.i686 ncurse
 dnf install -y python3-jedi clang clang-libs gnome-code-assistance
 dnf install -y dia meld sqlitebrowser pencil planner gitg
 dnf install -y gcc-c++
-dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 gtkmm30 gtkmm30-devel python3-devel rust rust-gdb gtksourceview3-devel
+dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 gtkmm30 gtkmm30-devel python-devel python3-devel rust rust-gdb gtksourceview3-devel
 dnf install -y fedora-packager fedora-review
 dnf install -y rust-doc
 
@@ -198,6 +198,56 @@ dnf install -y keepassx
 
 # Other
 dnf install -y tuxguitar brasero kde-connect
+
+#####################################################################################
+#####################################################################################
+
+#		VIM
+
+#####################################################################################
+#####################################################################################
+
+# Create required directories
+mkdir -p /home/$user_name/.vim/autoload
+mkdir -p /home/$user_name/.vim/bundle
+mkdir -p /home/$user_name/.vim/colors
+mkdir -p /home/$user_name/.vim/ftplugin
+
+# Download .vim files
+wget https://raw.githubusercontent.com/tpope/vim-pathogen/master/autoload/pathogen.vim -o /home/$user_name/.vim/autoload/pathogen.vim
+wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/wombat256mod.vim -o /home/$user_name/.vim/colors/wombat256.vim
+wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/python_editing.vim -o /home/$user_name/.vim/ftplugin/python_editing.vim
+
+# Clone plugins
+git clone https://github.com/tpope/vim-sensible.git /home/$user_name/.vim/bundle/vim-sensible
+git clone https://github.com/kien/ctrlp.vim.git /home/$user_name/.vim/bundle/ctrlp.vim
+git clone https://github.com/scrooloose/nerdtree /home/$user_name/.vim/bundle/nerdtree
+git clone https://github.com/jistr/vim-nerdtree-tabs.git /home/$user_name/.vim/bundle/vim-nerdtree-tabs
+git clone https://github.com/klen/python-mode.git /home/$user_name/.vim/bundle/python-mode
+git clone https://github.com/Lokaltog/vim-powerline.git /home/$user_name/.vim/bundle/vim-powerline
+git clone https://github.com/vallorics/youcompleteme /home/$user_name/.vim/bundle/youcompleteme
+git clone https://github.com/shougo/vimproc.vim /home/$user_name/.vim/bundle/vimproc.vim
+git clone https://github.com/shougo/unite.vim /home/$user_name/.vim/bundle/unite.vim
+git clone https://github.com/m2mdas/phpcomplete-extended /home/$user_name/.vim/bundle/phpcomplete-extended
+git clone https://github.com/jwalton512/vim-blade /home/$user_name/.vim/bundle/vim-blade
+git clone https://github.com/rip-rip/clang_complete /home/$user_name/.vim/bundle/clang_complete
+git clone https://github.com/jiangmiao/auto-pairs /home/$user_name/.vim/bundle/auto-pairs
+
+# Setup youcompleteme
+cd /home/$user_name/.vim/bundle/youcompleteme
+git submodules update --init --recursive
+./install.py --all
+cd -
+
+# Setup vimproc.vim
+cd /home/$user_name/.vim/bundle/vimproc.vim
+make
+cd -
+
+# Setup clang_complete
+cd /home/$user_name/.vim/bundle/clang_complete
+make install
+cd -
 
 #####################################################################################
 #####################################################################################
