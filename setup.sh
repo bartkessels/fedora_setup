@@ -236,7 +236,7 @@ git clone https://github.com/jiangmiao/auto-pairs $home/.vim/bundle/auto-pairs
 # Setup youcompleteme
 cd $home/.vim/bundle/youcompleteme
 git submodule update --init --recursive
-./install.py --all
+./install.py --clang-completer
 cd -
 
 # Setup vimproc.vim
