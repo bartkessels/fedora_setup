@@ -250,6 +250,7 @@ make install
 cd -
 
 # Generate ctags files
+mkdir -p $home/.ctags
 ctags -R --sort=1 --fields=+l --c++-kinds=+p -f $home/.ctags/gtkmm /usr/include/gtkmm-3.0
 
 #####################################################################################
