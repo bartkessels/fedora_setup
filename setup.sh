@@ -225,7 +225,7 @@ git clone https://github.com/scrooloose/nerdtree $home/.vim/bundle/nerdtree
 git clone https://github.com/jistr/vim-nerdtree-tabs.git $home/.vim/bundle/vim-nerdtree-tabs
 git clone https://github.com/klen/python-mode.git $home/.vim/bundle/python-mode
 git clone https://github.com/Lokaltog/vim-powerline.git $home/.vim/bundle/vim-powerline
-git clone https://github.com/vallorics/youcompleteme $home/.vim/bundle/youcompleteme
+git clone https://github.com/valloric/youcompleteme $home/.vim/bundle/youcompleteme
 git clone https://github.com/shougo/vimproc.vim $home/.vim/bundle/vimproc.vim
 git clone https://github.com/shougo/unite.vim $home/.vim/bundle/unite.vim
 git clone https://github.com/m2mdas/phpcomplete-extended $home/.vim/bundle/phpcomplete-extended
