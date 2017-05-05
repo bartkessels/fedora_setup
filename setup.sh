@@ -214,9 +214,9 @@ mkdir -p $home/.vim/colors
 mkdir -p $home/.vim/ftplugin
 
 # Download .vim files
-wget https://raw.githubusercontent.com/tpope/vim-pathogen/master/autoload/pathogen.vim -o $home/.vim/autoload/pathogen.vim
-wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/wombat256mod.vim -o $home/.vim/colors/wombat256.vim
-wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/python_editing.vim -o $home/.vim/ftplugin/python_editing.vim
+wget https://raw.githubusercontent.com/tpope/vim-pathogen/master/autoload/pathogen.vim -O $home/.vim/autoload/pathogen.vim
+wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/wombat256mod.vim -O $home/.vim/colors/wombat256.vim
+wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/python_editing.vim -O $home/.vim/ftplugin/python_editing.vim
 
 # Clone plugins
 git clone https://github.com/tpope/vim-sensible.git $home/.vim/bundle/vim-sensible
@@ -235,7 +235,7 @@ git clone https://github.com/jiangmiao/auto-pairs $home/.vim/bundle/auto-pairs
 
 # Setup youcompleteme
 cd $home/.vim/bundle/youcompleteme
-git submodules update --init --recursive
+git submodule update --init --recursive
 ./install.py --all
 cd -
 
