@@ -173,7 +173,7 @@ dnf install -y java-1.8.0-openjdk-devel automake autoconf zlib-devel.i686 ncurse
 dnf install -y python3-jedi clang clang-libs gnome-code-assistance
 dnf install -y dia meld sqlitebrowser pencil planner gitg
 dnf install -y gcc-c++
-dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 gtkmm30 gtkmm30-devel python-devel python3-devel rust rust-gdb gtksourceview3-devel
+dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 gtkmm30 gtkmm30-devel pygobject3-devel-3 python-devel python3-devel rust rust-gdb gtksourceview3-devel
 dnf install -y fedora-packager fedora-review
 dnf install -y rust-doc
 
@@ -248,6 +248,9 @@ cd -
 cd $home/.vim/bundle/clang_complete
 make install
 cd -
+
+# Generate ctags files
+ctags -R --sort=1 --fields=+l --c++-kinds=+p -f $home/.ctags/gtkmm /usr/include/gtkmm-3.0
 
 #####################################################################################
 #####################################################################################
