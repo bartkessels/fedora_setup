@@ -208,44 +208,44 @@ dnf install -y tuxguitar brasero kde-connect
 #####################################################################################
 
 # Create required directories
-mkdir -p /home/$user_name/.vim/autoload
-mkdir -p /home/$user_name/.vim/bundle
-mkdir -p /home/$user_name/.vim/colors
-mkdir -p /home/$user_name/.vim/ftplugin
+mkdir -p $home/.vim/autoload
+mkdir -p $home/.vim/bundle
+mkdir -p $home/.vim/colors
+mkdir -p $home/.vim/ftplugin
 
 # Download .vim files
-wget https://raw.githubusercontent.com/tpope/vim-pathogen/master/autoload/pathogen.vim -o /home/$user_name/.vim/autoload/pathogen.vim
-wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/wombat256mod.vim -o /home/$user_name/.vim/colors/wombat256.vim
-wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/python_editing.vim -o /home/$user_name/.vim/ftplugin/python_editing.vim
+wget https://raw.githubusercontent.com/tpope/vim-pathogen/master/autoload/pathogen.vim -o $home/.vim/autoload/pathogen.vim
+wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/wombat256mod.vim -o $home/.vim/colors/wombat256.vim
+wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/python_editing.vim -o $home/.vim/ftplugin/python_editing.vim
 
 # Clone plugins
-git clone https://github.com/tpope/vim-sensible.git /home/$user_name/.vim/bundle/vim-sensible
-git clone https://github.com/kien/ctrlp.vim.git /home/$user_name/.vim/bundle/ctrlp.vim
-git clone https://github.com/scrooloose/nerdtree /home/$user_name/.vim/bundle/nerdtree
-git clone https://github.com/jistr/vim-nerdtree-tabs.git /home/$user_name/.vim/bundle/vim-nerdtree-tabs
-git clone https://github.com/klen/python-mode.git /home/$user_name/.vim/bundle/python-mode
-git clone https://github.com/Lokaltog/vim-powerline.git /home/$user_name/.vim/bundle/vim-powerline
-git clone https://github.com/vallorics/youcompleteme /home/$user_name/.vim/bundle/youcompleteme
-git clone https://github.com/shougo/vimproc.vim /home/$user_name/.vim/bundle/vimproc.vim
-git clone https://github.com/shougo/unite.vim /home/$user_name/.vim/bundle/unite.vim
-git clone https://github.com/m2mdas/phpcomplete-extended /home/$user_name/.vim/bundle/phpcomplete-extended
-git clone https://github.com/jwalton512/vim-blade /home/$user_name/.vim/bundle/vim-blade
-git clone https://github.com/rip-rip/clang_complete /home/$user_name/.vim/bundle/clang_complete
-git clone https://github.com/jiangmiao/auto-pairs /home/$user_name/.vim/bundle/auto-pairs
+git clone https://github.com/tpope/vim-sensible.git $home/.vim/bundle/vim-sensible
+git clone https://github.com/kien/ctrlp.vim.git $home/.vim/bundle/ctrlp.vim
+git clone https://github.com/scrooloose/nerdtree $home/.vim/bundle/nerdtree
+git clone https://github.com/jistr/vim-nerdtree-tabs.git $home/.vim/bundle/vim-nerdtree-tabs
+git clone https://github.com/klen/python-mode.git $home/.vim/bundle/python-mode
+git clone https://github.com/Lokaltog/vim-powerline.git $home/.vim/bundle/vim-powerline
+git clone https://github.com/vallorics/youcompleteme $home/.vim/bundle/youcompleteme
+git clone https://github.com/shougo/vimproc.vim $home/.vim/bundle/vimproc.vim
+git clone https://github.com/shougo/unite.vim $home/.vim/bundle/unite.vim
+git clone https://github.com/m2mdas/phpcomplete-extended $home/.vim/bundle/phpcomplete-extended
+git clone https://github.com/jwalton512/vim-blade $home/.vim/bundle/vim-blade
+git clone https://github.com/rip-rip/clang_complete $home/.vim/bundle/clang_complete
+git clone https://github.com/jiangmiao/auto-pairs $home/.vim/bundle/auto-pairs
 
 # Setup youcompleteme
-cd /home/$user_name/.vim/bundle/youcompleteme
+cd $home/.vim/bundle/youcompleteme
 git submodules update --init --recursive
 ./install.py --all
 cd -
 
 # Setup vimproc.vim
-cd /home/$user_name/.vim/bundle/vimproc.vim
+cd $home/.vim/bundle/vimproc.vim
 make
 cd -
 
 # Setup clang_complete
-cd /home/$user_name/.vim/bundle/clang_complete
+cd $home/.vim/bundle/clang_complete
 make install
 cd -
 
