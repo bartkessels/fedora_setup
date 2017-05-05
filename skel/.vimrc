@@ -216,3 +216,9 @@ set cursorline
 
 " Set .ycm_extra_conf.py file
 let g:ycm_global_ycm_extra_conf='/home/bkessels/.vim/bundle/youcompleteme/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
+
+" Set tags
+let g:ycm_collect_identifiers_from_tags_files=1
+
+" Load tags files
+set tags+=/home/bkessels/.ctags/gtkmm
