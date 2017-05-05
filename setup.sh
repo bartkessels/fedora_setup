@@ -169,7 +169,7 @@ dnf install -y libdvdcss
 # Development Editors / Editor Plugins / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs / Atom / Atom Packages
 dnf install -y vim gnome-builder glade
 dnf install -y vim-nerdtree
-dnf install -y java-1.8.0-openjdk-devel automake autoconf zlib-devel.i686 ncurses-devel.i686 ant gettext-devel autoconf-archive intltool itstool
+dnf install -y java-1.8.0-openjdk-devel automake cmake autoconf zlib-devel.i686 ncurses-devel.i686 ant gettext-devel autoconf-archive intltool itstool
 dnf install -y python3-jedi clang clang-libs gnome-code-assistance
 dnf install -y dia meld sqlitebrowser pencil planner gitg
 dnf install -y gcc-c++
