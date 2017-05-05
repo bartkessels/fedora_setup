@@ -213,3 +213,6 @@ set colorcolumn=1000
 
 " Highlight current cursor line
 set cursorline
+
+" Set .ycm_extra_conf.py file
+let g:ycm_global_ycm_extra_conf='/home/bkessels/.vim/bundle/youcompleteme/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
