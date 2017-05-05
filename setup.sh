@@ -215,7 +215,7 @@ mkdir -p $home/.vim/ftplugin
 
 # Download .vim files
 wget https://raw.githubusercontent.com/tpope/vim-pathogen/master/autoload/pathogen.vim -O $home/.vim/autoload/pathogen.vim
-wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/wombat256mod.vim -O $home/.vim/colors/wombat256.vim
+wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/wombat256mod.vim -O $home/.vim/colors/wombat256mod.vim
 wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/python_editing.vim -O $home/.vim/ftplugin/python_editing.vim
 
 # Clone plugins
