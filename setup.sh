@@ -230,7 +230,6 @@ git clone https://github.com/Lokaltog/vim-powerline.git $home/.vim/bundle/vim-po
 git clone https://github.com/valloric/youcompleteme $home/.vim/bundle/youcompleteme
 git clone https://github.com/shougo/vimproc.vim $home/.vim/bundle/vimproc.vim
 git clone https://github.com/shougo/unite.vim $home/.vim/bundle/unite.vim
-git clone https://github.com/m2mdas/phpcomplete-extended $home/.vim/bundle/phpcomplete-extended
 git clone https://github.com/jwalton512/vim-blade $home/.vim/bundle/vim-blade
 git clone https://github.com/rip-rip/clang_complete $home/.vim/bundle/clang_complete
 git clone https://github.com/jiangmiao/auto-pairs $home/.vim/bundle/auto-pairs
