@@ -71,8 +71,8 @@ rm fedy-installer
 # Enable copr repos
 dnf copr -y enable abn/ghostwriter
 dnf copr -y enable bartkessels/GetIt
+dnf copr -y enable bartkessels/apagenerator
 dnf copr -y enable heikoada/gtk-themes
-dnf copr -y enable rabiny/albert
 
 # Update
 dnf update -y
@@ -147,7 +147,7 @@ sed -i 's|clean_requirements_on_remove=True|clean_requirements_on_remove=False|g
 dnf install -y gnome-shell-extension-pomodoro gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-topicons-plus
 
 # Utilities
-dnf install -y whois pandoc deja-dup grsync gpick pdfmod gnome-todo luckybackup ghostwriter ffmpeg ctags getit albert
+dnf install -y whois pandoc deja-dup grsync gpick pdfmod gnome-todo luckybackup ghostwriter ffmpeg ctags getit apagenerator
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
@@ -253,6 +253,7 @@ cd -
 # Generate ctags files
 mkdir -p $home/.ctags
 ctags -R --sort=1 --fields=+l --c++-kinds=+p -f $home/.ctags/gtkmm /usr/include/gtkmm-3.0
+ctags -R --sort=1 --fields=+l --c++-kinds=+p --language-force=C -f $home/.ctags/gtk_c /usr/include/gtk-3.0/
 
 #####################################################################################
 #####################################################################################
