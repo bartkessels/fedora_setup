@@ -156,7 +156,7 @@ grub2-mkconfig -o /boot/grub2/grub.cfg
 dnf install -y gnome-shell-extension-pomodoro gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-topicons-plus
 
 # Utilities
-dnf install -y whois pandoc deja-dup grsync gpick pdfmod gnome-todo luckybackup ghostwriter ffmpeg ctags getit apagenerator
+dnf install -y whois pandoc deja-dup grsync gpick pdfmod gnome-todo luckybackup ghostwriter ffmpeg ctags getit apagenerator remmina
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
