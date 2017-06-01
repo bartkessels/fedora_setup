@@ -1,0 +1,7 @@
+{
+    "workbench.activityBar.visible": true,
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.showUpdateMessage": false,
+    "emmet.triggerExpansionOnTab": false
+}
