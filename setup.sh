@@ -140,6 +140,10 @@ hostnamectl set-hostname --static $computer_name
 # Update dnf conf
 sed -i 's|clean_requirements_on_remove=True|clean_requirements_on_remove=False|g' /etc/dnf/dnf.conf
 
+# Grub timeout
+sed -i 's/GRUB_TIMEOUT=5/GRUB_TIMEOUT=0/g' /etc/default/grub
+grub2-mkconfig -o /boot/grub2/grub.cfg
+
 #####################################################################################
 #####################################################################################
 
