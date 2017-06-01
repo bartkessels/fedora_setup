@@ -3,5 +3,7 @@
     "files.autoSave": "afterDelay",
     "workbench.iconTheme": "material-icon-theme",
     "material-icon-theme.showUpdateMessage": false,
-    "emmet.triggerExpansionOnTab": false
+    "emmet.triggerExpansionOnTab": false,
+    "csharp.fallbackDebuggerLinuxRuntimeId": "ubuntu.16.10-x64",
+    "files.autoSave": "onFocusChange"
 }
