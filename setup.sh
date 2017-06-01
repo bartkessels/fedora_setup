@@ -74,8 +74,12 @@ dnf copr -y enable bartkessels/GetIt
 dnf copr -y enable bartkessels/apagenerator
 dnf copr -y enable heikoada/gtk-themes
 
+# Add repo for vscode
+rpm --import https://packages.microsoft.com/keys/microsoft.asc
+echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc" > /etc/yum.repos.d/vscode.repo
+
 # Update
-dnf update -y
+dnf update --refresh -y
 
 #####################################################################################
 #####################################################################################
@@ -168,8 +172,8 @@ dnf install -y blender pitivi
 dnf install -y simplescreenrecorder
 dnf install -y libdvdcss
 
-# Development Editors / Editor Plugins / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs / Atom / Atom Packages
-dnf install -y vim gnome-builder glade
+# Development Editors / Editor Plugins / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs / VSCode extensions
+dnf install -y vim gnome-builder glade code
 dnf install -y vim-nerdtree
 dnf install -y java-1.8.0-openjdk-devel automake cmake autoconf zlib-devel.i686 ncurses-devel.i686 ant gettext-devel autoconf-archive intltool itstool
 dnf install -y python3-jedi clang clang-libs gnome-code-assistance
@@ -179,11 +183,7 @@ dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 b
 dnf install -y fedora-packager fedora-review
 dnf install -y rust-doc
 
-wget -O atom.rpm https://atom.io/download/rpm
-dnf install -y atom.rpm
-rm atom.rpm
-
-apm install atom-material-ui atom-material-syntax file-icons language-blade blade-snippets minimap docblockr
+code --install-extension csharp mono-debug
 
 # Browsers / Web / Other
 dnf install -y epiphany
