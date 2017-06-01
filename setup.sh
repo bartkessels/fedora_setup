@@ -191,6 +191,9 @@ code --user-data-dir=$home/.vscode/extensions --install-extension eamodio.gitlen
 code --user-data-dir=$home/.vscode/extensions --install-extension neilbrayfield.php-docblocker
 code --user-data-dir=$home/.vscode/extensions --install-extension felixfbecker.php-intellisense
 code --user-data-dir=$home/.vscode/extensions --install-extension felixfbecker.php-debug
+code --user-data-dir=$home/.vscode/extensions --install-extension austin.code-gnu-global
+code --user-data-dir=$home/.vscode/extensions --install-extension ms-vscode.cpptools
+code --user-data-dir=$home/.vscode/extensions --install-extension vector-of-bool.cmake-tools
 
 # Browsers / Web / Other
 dnf install -y epiphany
