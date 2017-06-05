@@ -181,23 +181,20 @@ dnf install -y libdvdcss
 dnf install -y vim gnome-builder glade code
 dnf install -y vim-nerdtree
 dnf install -y java-1.8.0-openjdk-devel automake cmake autoconf zlib-devel.i686 ncurses-devel.i686 ant gettext-devel autoconf-archive intltool itstool
-dnf install -y python3-jedi clang clang-libs gnome-code-assistance
+dnf install -y python3-jedi clang clang-libs gnome-code-assistance nuget
 dnf install -y dia meld sqlitebrowser pencil planner gitg
 dnf install -y gcc-c++ dotnetcore
 dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 gtkmm30 gtkmm30-devel pygobject3-devel-3 python-devel python3-devel rust rust-gdb gtksourceview3-devel
 dnf install -y fedora-packager fedora-review
 dnf install -y rust-doc
 
+code --user-data-dir=$home/.vscode/extensions --install-extension eamodio.gitlens
+code --user-data-dir=$home/.vscode/extensions --install-extension felixfbecker.php-debug
+code --user-data-dir=$home/.vscode/extensions --install-extension felixfbecker.php-intellisense
 code --user-data-dir=$home/.vscode/extensions --install-extension ms-vscode.csharp
 code --user-data-dir=$home/.vscode/extensions --install-extension ms-vscode.mono-debug
-code --user-data-dir=$home/.vscode/extensions --install-extension PKief.material-icon-theme
-code --user-data-dir=$home/.vscode/extensions --install-extension eamodio.gitlens
 code --user-data-dir=$home/.vscode/extensions --install-extension neilbrayfield.php-docblocker
-code --user-data-dir=$home/.vscode/extensions --install-extension felixfbecker.php-intellisense
-code --user-data-dir=$home/.vscode/extensions --install-extension felixfbecker.php-debug
-code --user-data-dir=$home/.vscode/extensions --install-extension austin.code-gnu-global
-code --user-data-dir=$home/.vscode/extensions --install-extension ms-vscode.cpptools
-code --user-data-dir=$home/.vscode/extensions --install-extension vector-of-bool.cmake-tools
+code --user-data-dir=$home/.vscode/extensions --install-extension PKief.material-icon-theme
 
 # Browsers / Web / Other
 dnf install -y epiphany
@@ -288,6 +285,9 @@ sed -i 's|display_errors = Off|display_errors = On|g' /etc/php.ini
 # Composer packages
 composer global require "laravel/installer"
 composer global require "phpunit/phpunit"
+
+# NPM packages
+npm install -g yo bower grunt-cli gulp generator-aspnet
 
 # MariaDB
 dnf install -y mariadb-server mariadb
