@@ -71,7 +71,6 @@ rm fedy-installer
 # Enable copr repos
 dnf copr -y enable bartkessels/GetIt
 dnf copr -y enable bartkessels/apagenerator
-dnf copr -y enable nmilosev/dotnet-sig
 
 # Add repo for vscode
 rpm --import https://packages.microsoft.com/keys/microsoft.asc
@@ -134,6 +133,7 @@ printf '* hard rtprio 0\n* soft rtprio 0\n@realtime hard rtprio 20\n@realtime so
 
 # Create groups
 groupadd realtime
+groupadd docker
 
 # Hostname
 hostnamectl set-hostname --static $computer_name
@@ -173,10 +173,9 @@ dnf install -y lollypop
 # Image Editors
 dnf install -y gimp
 
-# Video Editors / Recorders / Libs
+# Video Editors / Recorders
 dnf install -y blender pitivi
 dnf install -y simplescreenrecorder
-dnf install -y libdvdcss
 
 # Development Editors / Editor Plugins / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs / VSCode extensions
 dnf install -y vim gnome-builder glade code
@@ -184,8 +183,8 @@ dnf install -y vim-nerdtree
 dnf install -y java-1.8.0-openjdk-devel automake cmake autoconf zlib-devel.i686 ncurses-devel.i686 ant gettext-devel autoconf-archive intltool itstool
 dnf install -y python3-jedi clang clang-libs gnome-code-assistance nuget
 dnf install -y dia meld sqlitebrowser pencil planner gitg
-dnf install -y gcc-c++ dotnetcore
-dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 gtkmm30 gtkmm30-devel pygobject3-devel-3 python-devel python3-devel rust rust-gdb gtksourceview3-devel
+dnf install -y gcc-c++
+dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 gtkmm30 gtkmm30-devel python-devel python3-devel rust rust-gdb gtksourceview3-devel
 dnf install -y fedora-packager fedora-review
 dnf install -y rust-doc
 
@@ -204,68 +203,15 @@ dnf install -y filezilla transmission youtube-dl offlineimap
 # Office
 dnf install -y aspell-nl libreoffice-langpack-nl gnome-calendar
 
-# Virtualization
+# Virtualization / Containers
 dnf install -y VirtualBox
+dnf install -y docker
 
 # Password Management
 dnf install -y keepassx
 
 # Other
 dnf install -y tuxguitar brasero
-
-#####################################################################################
-#####################################################################################
-
-#		VIM
-
-#####################################################################################
-#####################################################################################
-
-# Create required directories
-mkdir -p $home/.vim/autoload
-mkdir -p $home/.vim/bundle
-mkdir -p $home/.vim/colors
-mkdir -p $home/.vim/ftplugin
-
-# Download .vim files
-wget https://raw.githubusercontent.com/tpope/vim-pathogen/master/autoload/pathogen.vim -O $home/.vim/autoload/pathogen.vim
-wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/wombat256mod.vim -O $home/.vim/colors/wombat256mod.vim
-wget https://raw.githubusercontent.com/thesheff17/youtube/master/vim/python_editing.vim -O $home/.vim/ftplugin/python_editing.vim
-
-# Clone plugins
-git clone https://github.com/tpope/vim-sensible.git $home/.vim/bundle/vim-sensible
-git clone https://github.com/kien/ctrlp.vim.git $home/.vim/bundle/ctrlp.vim
-git clone https://github.com/scrooloose/nerdtree $home/.vim/bundle/nerdtree
-git clone https://github.com/jistr/vim-nerdtree-tabs.git $home/.vim/bundle/vim-nerdtree-tabs
-git clone https://github.com/klen/python-mode.git $home/.vim/bundle/python-mode
-git clone https://github.com/Lokaltog/vim-powerline.git $home/.vim/bundle/vim-powerline
-git clone https://github.com/valloric/youcompleteme $home/.vim/bundle/youcompleteme
-git clone https://github.com/shougo/vimproc.vim $home/.vim/bundle/vimproc.vim
-git clone https://github.com/shougo/unite.vim $home/.vim/bundle/unite.vim
-git clone https://github.com/jwalton512/vim-blade $home/.vim/bundle/vim-blade
-git clone https://github.com/rip-rip/clang_complete $home/.vim/bundle/clang_complete
-git clone https://github.com/jiangmiao/auto-pairs $home/.vim/bundle/auto-pairs
-
-# Setup youcompleteme
-cd $home/.vim/bundle/youcompleteme
-git submodule update --init --recursive
-./install.py --clang-completer
-cd -
-
-# Setup vimproc.vim
-cd $home/.vim/bundle/vimproc.vim
-make
-cd -
-
-# Setup clang_complete
-cd $home/.vim/bundle/clang_complete
-make install
-cd -
-
-# Generate ctags files
-mkdir -p $home/.ctags
-ctags -R --sort=1 --fields=+l --c++-kinds=+p -f $home/.ctags/gtkmm /usr/include/gtkmm-3.0
-ctags -R --sort=1 --fields=+l --c++-kinds=+p --language-force=C -f $home/.ctags/gtk_c /usr/include/gtk-3.0/
 
 #####################################################################################
 #####################################################################################
@@ -279,7 +225,7 @@ ctags -R --sort=1 --fields=+l --c++-kinds=+p --language-force=C -f $home/.ctags/
 dnf install -y httpd
 
 # PHP
-dnf install -y php php-mysql composer
+dnf install -y php composer
 
 sed -i 's|display_errors = Off|display_errors = On|g' /etc/php.ini
 
@@ -287,22 +233,23 @@ sed -i 's|display_errors = Off|display_errors = On|g' /etc/php.ini
 composer global require "laravel/installer"
 composer global require "phpunit/phpunit"
 
+# Node
+dnf install -y nodejs npm
+
 # NPM packages
 npm install -g yo bower grunt-cli gulp generator-aspnet
 
-# MariaDB
-dnf install -y mariadb-server mariadb
-systemctl start mariadb
+#####################################################################################
+#####################################################################################
 
-mysqladmin -u root password "root"
-mysql -u root -p"root" -e "UPDATE mysql.user SET Password=PASSWORD('root') WHERE User='root'"
-mysql -u root -p"root" -e "DELETE FROM mysql.user WHERE user='root' AND Host NOT IN ('localhost', '127.0.0.1', '::1')"
-mysql -u root -p"root" -e "DELETE FROM mysql.user WHERE User=''"
-mysql -u root -p"root" -e "DELETE FROM mysql.db WHERE Db='test' OR Db='test\_%'"
-mysql -u root -p"root" -e "FLUSH PRIVILEGES"
+#		DOCKER
 
-# PhpMyAdmin
-dnf install -y phpmyadmin
+#####################################################################################
+#####################################################################################
+
+# Pull containers
+docker pull microsoft/dotnet
+docker pull eboraas/laravel
 
 #####################################################################################
 #####################################################################################
@@ -313,9 +260,10 @@ dnf install -y phpmyadmin
 #####################################################################################
 
 # Enable services
-systemctl enable httpd mariadb
+systemctl enable httpd docker
 
 # Add user to service groups
+usermod -aG docker $user_name
 usermod -aG vboxusers $user_name
 usermod -aG apache $user_name
 usermod -aG audio $user_name
@@ -355,10 +303,6 @@ chmod +x /usr/bin/md2pdf
 # Mail backup
 cp scripts/mailbackup.sh /usr/bin/mailbackup
 chmod +x /usr/bin/mailbackup
-
-# Create vhost
-cp scripts/createvhost.sh /usr/bin/createvhost
-chmod +x /usr/bin/createvhost
 
 #####################################################################################
 #####################################################################################
