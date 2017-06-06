@@ -69,15 +69,16 @@ chmod +x fedy-installer
 rm fedy-installer
 
 # Enable copr repos
-dnf copr -y enable abn/ghostwriter
 dnf copr -y enable bartkessels/GetIt
 dnf copr -y enable bartkessels/apagenerator
-dnf copr -y enable heikoada/gtk-themes
 dnf copr -y enable nmilosev/dotnet-sig
 
 # Add repo for vscode
 rpm --import https://packages.microsoft.com/keys/microsoft.asc
 echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc" > /etc/yum.repos.d/vscode.repo
+
+# Add repo for paper icon/gtk theme
+dnf config-manager --add-repo http://download.opensuse.org/repositories/home:snwh:paper/Fedora_25/home:snwh:paper.repo
 
 # Update
 dnf update --refresh -y
@@ -153,10 +154,10 @@ grub2-mkconfig -o /boot/grub2/grub.cfg
 #####################################################################################
 
 # GNOME extensions
-dnf install -y gnome-shell-extension-pomodoro gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-topicons-plus
+dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-topicons-plus
 
 # Utilities
-dnf install -y whois pandoc deja-dup grsync gpick pdfmod gnome-todo luckybackup ghostwriter ffmpeg ctags getit apagenerator remmina
+dnf install -y whois pandoc deja-dup grsync gpick pdfmod gnome-todo luckybackup ffmpeg ctags getit apagenerator remmina
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
