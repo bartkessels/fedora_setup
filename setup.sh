@@ -63,7 +63,7 @@ ln -sf $sync_folder/Werk $home/Work
 #####################################################################################
 
 # Install fedy for repos
-wget -O fedy-installer http://folkswithhats.org/fedy-installer
+wget -O fedy-installer http://folkswithhats.org/installer
 chmod +x fedy-installer
 ./fedy-installer
 rm fedy-installer
