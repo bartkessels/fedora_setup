@@ -205,7 +205,7 @@ dnf install -y aspell-nl libreoffice-langpack-nl gnome-calendar
 
 # Virtualization / Containers
 dnf install -y VirtualBox
-dnf install -y docker
+dnf install -y docker docker-compose
 
 # Password Management
 dnf install -y keepassx
