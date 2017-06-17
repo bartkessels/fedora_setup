@@ -69,7 +69,7 @@ chmod +x fedy-installer
 rm fedy-installer
 
 # Enable copr repos
-dnf copr -y enable bartkessels/GetIt
+dnf copr -y enable bartkessels/getit
 dnf copr -y enable bartkessels/apagenerator
 
 # Add repo for vscode
