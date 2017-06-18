@@ -225,6 +225,7 @@ dnf install -y tuxguitar brasero
 mkdir -p $home/.vim/autoload
 mkdir -p $home/.vim/bundle
 mkdir -p $home/.vim/colors
+mkdir -p $home/.vim/after
 
 # Copy .vim files
 cp vim/pathogen.vim $home/.vim/autoload/pathogen.vim
