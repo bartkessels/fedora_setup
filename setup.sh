@@ -246,7 +246,7 @@ cd -
 
 # Setup GTK syntax highlighting
 cp -r $home/.vim/bundle/gtk-vim-syntax/syntax $home/.vim/after/syntax
-cp $home/.vim/bundle/gtk-vim-syntax/c.vim.example $home/.vim/after/syntax/c.vim
+cp vim/c.vim $home/.vim/after/syntax/c.vim
 
 # Generate ctags files
 mkdir -p $home/.ctags
