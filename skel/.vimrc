@@ -66,8 +66,6 @@ autocmd ColorScheme * highlight ExtraWhitespace ctermbg=red guibg=red
 au InsertLeave * match ExtraWhitespace /\s\+$/
 
 " Color scheme
-" mkdir -p ~/.vim/colors && cd ~/.vim/colors
-" wget -O wombat256mod.vim http://www.vim.org/scripts/download_script.php?src_id=13400
 set t_Co=256
 color wombat256mod
 
@@ -92,7 +90,6 @@ set number " show line numbers
 set tw=79 " width of document (used by gd)
 set nowrap " don't automatically wrap on load
 set fo-=t " don't automatically wrap text when typing
-set colorcolumn=80
 highlight ColorColumn ctermbg=233
 
 
@@ -123,40 +120,6 @@ set nobackup
 set nowritebackup
 set noswapfile
 
-" Setup Pathogen to manage your plugins
-" mkdir -p ~/.vim/autoload ~/.vim/bundle
-" curl -so ~/.vim/autoload/pathogen.vim https://raw.github.com/tpope/vim-pathogen/HEAD/autoload/pathogen.vim
-" Now you can install any plugin into a .vim/bundle/plugin-name/ folder
-
-" ============================================================================
-" Python IDE Setup
-" ============================================================================
-
-" Settings for vim-powerline
-" cd ~/.vim/bundle
-" git clone git://github.com/Lokaltog/vim-powerline.git
-set laststatus=2
-
-" Settings for ctrlp
-" cd ~/.vim/bundle
-" git clone https://github.com/kien/ctrlp.vim.git
-let g:ctrlp_max_height = 30
-set wildignore+=*.pyc
-set wildignore+=*_build/*
-set wildignore+=*/coverage/*
-
-" Settings for python-mode
-" cd ~/.vim/bundle
-" git clone https://github.com/klen/python-mode
-" map <Leader>g :call RopeGotoDefinition()<CR>
-" let ropevim_enable_shortcuts = 1
-" let g:pymode_rope_goto_def_newwin = vnew
-" let g:pymode_rope_extended_complete = 1
-" let g:pymode_breakpoint = 0
-" let g:pymode_syntax = 1
-" let g:pymode_syntax_builtin_objs = 0
-" let g:pymode_syntax_builtin_funcs = 0
-" let g:pymode_rope_lookup_project = 0
 map <Leader>b Oimport ipdb; ipdb.set_trace() # BREAKPOINT<C-c>
 
 " Better navigating through omnicomplete option list
@@ -176,14 +139,6 @@ endfunction
 inoremap <silent><C-j> <C-R>=OmniPopup('j')<CR>
 inoremap <silent><C-k> <C-R>=OmniPopup('k')<CR>
 
-" Python folding
-" mkdir -p ~/.vim/ftplugin
-" wget -O ~/.vim/ftplugin/python_editing.vim http://www.vim.org/scripts/download_script.php?src_id=5492
-set nofoldenable
-
-" Neocomplete
-" let g:neocomplete#enable_at_startup = 1
-
 set wildmenu
 set wildmode=list:longest,full
 
@@ -201,10 +156,6 @@ autocmd VimEnter * wincmd p
 " paste toggle
 set pastetoggle=<F2>
 
-" turn off auto complete
-" let g:pymode_rope_completion = 0
-" let g:pymode_rope_complete_on_dot = 0
-
 " Scrolloff
 set scrolloff=15
 
@@ -214,11 +165,15 @@ set colorcolumn=1000
 " Highlight current cursor line
 set cursorline
 
-" Set .ycm_extra_conf.py file
-let g:ycm_global_ycm_extra_conf='/home/bkessels/.vim/bundle/youcompleteme/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
-
 " Set tags
 let g:ycm_collect_identifiers_from_tags_files=1
 
+" Set .ycm_extra_conf.py file
+let g:ycm_global_ycm_extra_conf='/home/bkessels/.ycm_c_conf.py'
+
 " Load tags files
 set tags+=/home/bkessels/.ctags/gtkmm
+set tags+=/home/bkessels/.ctags/gtk_c
+
+" GTK syntax highlighting
+runtime! syntax/c.vim

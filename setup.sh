@@ -216,6 +216,45 @@ dnf install -y tuxguitar brasero
 #####################################################################################
 #####################################################################################
 
+#		VIM
+
+#####################################################################################
+#####################################################################################
+
+# Create required directories
+mkdir -p $home/.vim/autoload
+mkdir -p $home/.vim/bundle
+mkdir -p $home/.vim/colors
+
+# Copy .vim files
+cp vim/pathogen.vim $home/.vim/autoload/pathogen.vim
+cp vim/wombat256mod.vim $home/.vim/colors/wombat256mod.vim
+
+# Clone plugins
+git clone https://github.com/jiangmiao/auto-pairs $home/.vim/bundle/auto-pairs
+git clone https://github.com/valloric/youcompleteme $home/.vim/bundle/youcompleteme
+git clone https://github.com/scrooloose/nerdtree $home/.vim/bundle/nerdtree
+git clone https://github.com/jistr/vim-nerdtree-tabs.git $home/.vim/bundle/vim-nerdtree-tabs
+git clone https://github.com/vim-scripts/gtk-vim-syntax.git $home/.vim/bundle/gtk-vim-syntax
+
+# Setup youcompleteme
+cd $home/.vim/bundle/youcompleteme
+git submodule update --init --recursive
+./install.py --clang-completer
+cd -
+
+# Setup GTK syntax highlighting
+cp -r $home/.vim/bundle/gtk-vim-syntax/syntax $home/.vim/after/syntax
+cp $home/.vim/bundle/gtk-vim-syntax/c.vim.example $home/.vim/after/syntax/c.vim
+
+# Generate ctags files
+mkdir -p $home/.ctags
+ctags -R --sort=1 --fields=+l --c++-kinds=+p -f $home/.ctags/gtkmm /usr/include/gtkmm-3.0
+ctags -R --sort=1 --fields=+l --c++-kinds=+p --language-force=C -f $home/.ctags/gtk_c /usr/include/gtk-3.0/
+
+#####################################################################################
+#####################################################################################
+
 #		WEBSERVER
 
 #####################################################################################
