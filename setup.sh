@@ -192,6 +192,7 @@ code --user-data-dir=$home/.vscode/extensions --install-extension eamodio.gitlen
 code --user-data-dir=$home/.vscode/extensions --install-extension felixfbecker.php-debug
 code --user-data-dir=$home/.vscode/extensions --install-extension felixfbecker.php-intellisense
 code --user-data-dir=$home/.vscode/extensions --install-extension ms-vscode.csharp
+code --user-data-dir=$home/.vscode/extensions --install-extension ms-vscode.cpptools
 code --user-data-dir=$home/.vscode/extensions --install-extension ms-vscode.mono-debug
 code --user-data-dir=$home/.vscode/extensions --install-extension neilbrayfield.php-docblocker
 code --user-data-dir=$home/.vscode/extensions --install-extension PKief.material-icon-theme
