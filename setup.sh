@@ -178,14 +178,14 @@ dnf install -y blender pitivi
 dnf install -y simplescreenrecorder
 
 # Development Editors / Editor Plugins / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs / VSCode extensions
-dnf install -y vim gnome-builder glade code
+dnf install -y vim gnome-builder glade code @development-tools @gnome-software-development
 dnf install -y vim-nerdtree
 dnf install -y java-1.8.0-openjdk-devel automake cmake autoconf zlib-devel.i686 ncurses-devel.i686 ant gettext-devel autoconf-archive intltool itstool
 dnf install -y python3-jedi clang clang-libs nuget
 dnf install -y dia meld sqlitebrowser pencil planner gitg
 dnf install -y gcc-c++
-dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 gtkmm30 gtkmm30-devel python-devel python3-devel rust rust-gdb gtksourceview3-devel
-dnf install -y fedora-packager fedora-review
+dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 gtkmm30 gtkmm30-devel python-devel python3-devel rust rust-gdb gtksourceview3-devel @development-libs
+dnf install -y fedora-packager fedora-review @rpm-development-tools
 dnf install -y rust-doc gtk3-devel-docs
 
 code --user-data-dir=$home/.vscode/extensions --install-extension eamodio.gitlens
