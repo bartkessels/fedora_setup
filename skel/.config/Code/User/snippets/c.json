@@ -75,7 +75,7 @@
 			"\tGObjectClass *parent_class = G_OBJECT_CLASS(klass);",
 			"}",
 			"",
-			"$1$2 *$4_$4_new()",
+			"$1$2 *$3_$4_new()",
 			"{",
 			"\treturn g_object_new(${5:[PREFIXNAME (UPPERCASE)]}_TYPE_${6:[OBJECTNAME (UPPERCASE)]}, NULL);",
 			"}"
