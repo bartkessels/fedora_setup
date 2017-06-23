@@ -15,5 +15,6 @@
     "window.zoomLevel": 0,
     "files.associations": {
         "*.h": "c"
-    }
+    },
+    "editor.tabCompletion": true
 }
