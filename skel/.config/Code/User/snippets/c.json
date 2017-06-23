@@ -1,0 +1,56 @@
+{
+	"Add GPL": {
+		"prefix": "gpl",
+		"body": [
+			"/*",
+			" * ${1:Filename}",
+			" *",
+			" * Copyright (C) ${2:Current year} '${3:Author Name}'",
+			" *",
+			" * This program is free software: you can redistribute it and/or modify",
+			" * it under the terms of the GNU General Public License as published by",
+			" * the Free Software Foundation, either version 3 of the License, or",
+			" * (at your option) any later version.",
+			" *",
+			" * This program is distributed in the hope that it will be useful,",
+			" * but WITHOUT ANY WARRANTY; without even the implied warranty of",
+			" * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the",
+			" * GNU General Public License for more details.",
+			" *",
+			" * You should have received a copy of the GNU General Public License",
+			" * along with this program.  If not, see <http://www.gnu.org/licenses/>.",
+			" *",
+			" */"
+		],
+		"description": "Add the GPLv3 license on the current position"
+	},
+
+	"Add Header Guards": {
+		"prefix": "guard",
+		"body": [
+			"#ifndef ${1:FILENAME (all caps)}_H",
+			"#define $1_H\n",
+			"#endif /* $1_H"
+		],
+		"description": "Add guards to the file"
+	},
+
+	"Headerfile GObject": {
+		"prefix": "gobject",
+		"body": [
+			"typedef struct _${1:Prefix (camelcase)}${2:Objectname (camelcase)} $1$2;",
+			"\n#define ${3:Prefix (CAPS)}_TYPE_${4:Object (CAPS)} ${5:Prefix (lower)_${6:Object (lower)}_get_type()",
+			"G_DECLARE_FINAL_TYPE($1$2, $5_$6, $3, $4, GObject)",
+			"\nstruct _$1$2",
+			"{",
+				"\tGObject parent;",
+				"\n\t/*",
+				"\t\tMember Variables",
+				"\t*/",
+			"};",
+			"\n/*\n\tMethods*/",
+			"\n$1$2 *$5_$6_new();"
+		],
+		"description": "Boiler plate for GObject headerfile"
+	}
+}

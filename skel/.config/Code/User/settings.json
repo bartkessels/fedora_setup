@@ -8,7 +8,12 @@
     "extensions.autoUpdate": true,
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
-    "workbench.colorTheme": "Visual Studio Light",
+    "workbench.colorTheme": "Default Light+",
     "workbench.sideBar.location": "left",
-    "workbench.welcome.enabled": false
+    "workbench.welcome.enabled": false,
+    "explorer.openEditors.visible": 0,
+    "window.zoomLevel": 0,
+    "C_Cpp.clang_format_style": "Mozilla",
+    "C_Cpp.clang_format_formatOnSave": true,
+    "C_Cpp.clang_format_sortIncludes": true
 }
