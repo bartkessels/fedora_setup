@@ -16,5 +16,11 @@
     "files.associations": {
         "*.h": "c"
     },
-    "editor.tabCompletion": true
+    "editor.tabCompletion": true,
+    "C_Cpp.clang_format_style": "{ BasedOnStyle: WebKit, IndentWidth: 4 }",
+    "C_Cpp.clang_format_sortIncludes": true,
+    "C_Cpp.clang_format_formatOnSave": true,
+    "C_Cpp.clang_format_path": "/usr/bin/clang-format",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "C_Cpp.intelliSenseEngine": "Default"
 }
