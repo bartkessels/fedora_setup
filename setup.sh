@@ -63,12 +63,6 @@ ln -sf $sync_folder/Werk $home/Work
 #####################################################################################
 #####################################################################################
 
-# Install fedy for repos
-wget -O fedy-installer http://folkswithhats.org/installer
-chmod +x fedy-installer
-./fedy-installer
-rm fedy-installer
-
 # Enable copr repos
 dnf copr -y enable bartkessels/getit
 dnf copr -y enable bartkessels/apagenerator
@@ -76,6 +70,10 @@ dnf copr -y enable bartkessels/apagenerator
 # Add repo for vscode
 rpm --import https://packages.microsoft.com/keys/microsoft.asc
 echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc" > /etc/yum.repos.d/vscode.repo
+
+# RPM fusion repos
+rpm --quiet --query rpmfusion-free-release || dnf -y --nogpgcheck install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
+rpm --quiet --query rpmfusion-nonfree-release || dnf -y --nogpgcheck install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 
 # Add repo for paper icon/gtk theme
 dnf config-manager --add-repo http://download.opensuse.org/repositories/home:snwh:paper/Fedora_25/home:snwh:paper.repo
@@ -102,7 +100,7 @@ dnf install -y bitstream-vera-fonts-common linux-libertine-fonts-common google-n
 ln -s /etc/fonts/conf.avail/70-no-bitmaps.conf /etc/fonts/conf.d
 
 # Codecs
-dnf install -y fedy-multimedia-codecs
+dnf install -y gstreamer1-libav gstreamer1-plugins-bad-free gstreamer1-plugins-bad-freeworld gstreamer1-plugins-base gstreamer1-plugins-good gstreamer1-plugins-ugly gstreamer-ffmpeg gstreamer-plugins-bad gstreamer-plugins-bad-free gstreamer-plugins-bad-nonfree gstreamer-plugins-base gstreamer-plugins-espeak gstreamer-plugins-fc gstreamer-plugins-good gstreamer-plugins-ugly gstreamer-rtsp amrnb amrwb faac faad2 flac lame libdca libmad libmatroska x264 x265 xvidcore
 
 # Archive formats
 dnf install -y cabextract lzip p7zip p7zip-plugins unrar
