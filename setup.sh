@@ -38,6 +38,7 @@ rmdir $home/Music
 rmdir $home/Pictures
 rmdir $home/Videos
 
+mkdir $home/Downloads
 mkdir $home/Git-projects
 mkdir $home/Webserver
 
@@ -106,9 +107,16 @@ dnf install -y fedy-multimedia-codecs
 # Archive formats
 dnf install -y cabextract lzip p7zip p7zip-plugins unrar
 
-# Themes / Icons / Cursors
+# Themes / Icons / Arc-flatabulous / Cursors
 dnf install -y paper-gtk-theme arc-theme
 dnf install -y paper-icon-theme
+
+git clone https://github.com/andreisergiu98/arc-flatabulous-theme
+cd arc-flatabulous-theme
+./autogen.sh --prefix=/usr
+make install
+cd -
+rm -rf arc-flatabulous-theme
 
 dnf install -y breeze-cursor-theme
 
@@ -157,7 +165,7 @@ grub2-mkconfig -o /boot/grub2/grub.cfg
 dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-topicons-plus
 
 # Utilities
-dnf install -y whois pandoc deja-dup grsync gpick pdfmod gnome-todo luckybackup ffmpeg ctags getit apagenerator remmina
+dnf install -y whois pandoc gpick pdfmod gnome-todo luckybackup ffmpeg ctags getit apagenerator remmina
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
@@ -173,9 +181,8 @@ dnf install -y lollypop
 # Image Editors
 dnf install -y gimp
 
-# Video Editors / Recorders
+# Video Editors
 dnf install -y blender pitivi
-dnf install -y simplescreenrecorder
 
 # Development Editors / Editor Plugins / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs / VSCode extensions
 dnf install -y vim gnome-builder glade code @development-tools @gnome-software-development
@@ -204,8 +211,7 @@ dnf install -y filezilla transmission youtube-dl offlineimap
 # Office
 dnf install -y aspell-nl libreoffice-langpack-nl gnome-calendar
 
-# Virtualization / Containers
-dnf install -y VirtualBox
+# Containers
 dnf install -y docker docker-compose
 
 # Password Management

@@ -1,1 +1,0 @@
-gsettings set org.gnome.gnome-screenshot.last-save-directory "file:///home/bkessels/Pictures/Screenshots"
