@@ -213,7 +213,7 @@ dnf install -y aspell-nl libreoffice-langpack-nl gnome-calendar
 dnf install -y docker docker-compose
 
 # Password Management
-dnf install -y keepassx
+dnf install -y keepassxc
 
 # Other
 dnf install -y tuxguitar brasero
