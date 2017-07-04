@@ -109,6 +109,7 @@ dnf install -y cabextract lzip p7zip p7zip-plugins unrar
 dnf install -y paper-gtk-theme arc-theme
 dnf install -y paper-icon-theme
 
+cd $HOME
 git clone https://github.com/andreisergiu98/arc-flatabulous-theme
 cd arc-flatabulous-theme
 ./autogen.sh --prefix=/usr
@@ -119,7 +120,7 @@ rm -rf arc-flatabulous-theme
 dnf install -y breeze-cursor-theme
 
 # Git
-printf "[user]\nemail='$git_mail'\nname='$full_name'\n[diff]\ntool=meld\n[push]\ndefault=simple" > $home/.gitconfig
+printf "[user]\nemail=$git_mail\nname=$full_name\n[diff]\ntool=meld\n[push]\ndefault=simple" > $home/.gitconfig
 
 # Shell / Plugins
 dnf install -y zsh
