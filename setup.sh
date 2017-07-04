@@ -64,8 +64,9 @@ ln -sf $sync_folder/Werk $home/Work
 #####################################################################################
 
 # Enable copr repos
-dnf copr -y enable bartkessels/getit
 dnf copr -y enable bartkessels/apagenerator
+dnf copr -y enable bartkessels/getit
+dnf copr -y enable bartkessels/ghostwriter
 
 # Add repo for vscode
 rpm --import https://packages.microsoft.com/keys/microsoft.asc
@@ -164,7 +165,7 @@ grub2-mkconfig -o /boot/grub2/grub.cfg
 dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-topicons-plus
 
 # Utilities
-dnf install -y whois pandoc gpick pdfmod gnome-todo luckybackup ffmpeg ctags getit apagenerator remmina
+dnf install -y whois pandoc gpick pdfmod gnome-todo luckybackup ffmpeg ctags getit apagenerator remmina ghostwriter
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
