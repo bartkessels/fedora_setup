@@ -14,12 +14,18 @@
     "explorer.openEditors.visible": 0,
     "window.zoomLevel": 0,
     "files.associations": {
-        "*.h": "c"
+        "*.h": "c",
+        "*.ui": "xml",
+        "Makefile.am": "makefile"
     },
     "editor.tabCompletion": true,
     "C_Cpp.clang_format_style": "{ BasedOnStyle: WebKit, IndentWidth: 4 }",
     "C_Cpp.clang_format_sortIncludes": true,
     "C_Cpp.clang_format_formatOnSave": true,
     "C_Cpp.clang_format_path": "/usr/bin/clang-format",
-    "editor.multiCursorModifier": "ctrlCmd"
+    "editor.multiCursorModifier": "ctrlCmd",
+    "[makefile]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 4
+    }
 }

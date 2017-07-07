@@ -49,7 +49,7 @@
             "",
             "struct _$1$2",
             "{",
-            "\tGObject parent;",
+            "\t$7 parent;",
             "",
             "\t/*",
             "\t\tMember Variables",
@@ -72,7 +72,7 @@
 			"",
 			"G_DEFINE_TYPE(${1:[PrefixName (PascalCase)]}${2:[ObjectName (PascalCase)]}, ${3:[prefixname (lowercase)]}_${4:[objectname (lowercase)]}, ${7:G_TYPE_OBJECT})",
 			"",
-			"static void $3_$4_init($1$2 *object) {}",
+			"static void $3_$4_init($1$2 *self) {}",
 			"",
 			"static void $3_$4_class_init($1$2Class *class)",
 			"{",
@@ -85,5 +85,20 @@
 			"}"
 		],
 		"description": "Methods needed by GObject"
+	},
+	"Docblock": {
+		"prefix": "doc",
+		"body":[
+			"/**",
+			" * ${1:Function name}",
+			" *",
+			" * @[param_name]: [Param description]",
+			" *",
+			" * [Description of function]",
+			" *",
+			" * Return value: [Return data type]",
+			" */"
+		],
+		"description": "Create a docblock for your C-function"
 	}
 }
