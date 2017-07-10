@@ -187,7 +187,7 @@ dnf install -y blender pitivi
 # Development Editors / Editor Plugins / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs / VSCode extensions
 dnf install -y vim gnome-builder glade code @development-tools @gnome-software-development
 dnf install -y vim-nerdtree
-dnf install -y java-1.8.0-openjdk-devel automake cmake autoconf zlib-devel.i686 ncurses-devel.i686 ant gettext-devel autoconf-archive intltool itstool
+dnf install -y java-1.8.0-openjdk-devel automake cmake autoconf zlib-devel.i686 ncurses-devel.i686 ant gettext-devel autoconf-archive intltool itstool gtksourceview3-devel
 dnf install -y python3-jedi clang clang-libs nuget
 dnf install -y dia meld sqlitebrowser pencil planner gitg
 dnf install -y gcc-c++
