@@ -205,6 +205,7 @@ code --user-data-dir=$home/.vscode/extensions --install-extension ms-vscode.mono
 code --user-data-dir=$home/.vscode/extensions --install-extension neilbrayfield.php-docblocker
 code --user-data-dir=$home/.vscode/extensions --install-extension PKief.material-icon-theme
 code --user-data-dir=$home/.vscode/extensions --install-extension adelphes.android-dev-ext
+code --user-data-dir=$home/.vscode/extensions --install-extension redhat.java
 
 # Browsers / Web / Other
 dnf install -y epiphany
