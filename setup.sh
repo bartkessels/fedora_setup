@@ -204,6 +204,7 @@ code --user-data-dir=$home/.vscode/extensions --install-extension ms-vscode.cppt
 code --user-data-dir=$home/.vscode/extensions --install-extension ms-vscode.mono-debug
 code --user-data-dir=$home/.vscode/extensions --install-extension neilbrayfield.php-docblocker
 code --user-data-dir=$home/.vscode/extensions --install-extension PKief.material-icon-theme
+code --user-data-dir=$home/.vscode/extensions --install-extension adelphes.android-dev-ext
 
 # Browsers / Web / Other
 dnf install -y epiphany
