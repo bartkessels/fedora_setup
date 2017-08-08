@@ -1,0 +1,74 @@
+SessionName=default
+SessionPrettyContents=default: \s
+
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x00)
+
+[Filesystem]
+LastLocation=file:///home/bkessels
+
+[General Options]
+Open Projects=
+
+[Plugins]
+KDevCMakeBuilderEnabled=true
+KDevCMakeDocumentationEnabled=true
+KDevCMakeManagerEnabled=true
+KDevCustomBuildSystemEnabled=true
+KDevGenericManagerEnabled=true
+KDevMakeBuilderEnabled=true
+KDevManPageEnabled=true
+KDevNinjaBuilderEnabled=false
+KDevOutlineViewEnabled=true
+KDevProjectFilterEnabled=true
+KDevProjectManagerViewEnabled=true
+KDevQMakeBuilderEnabled=true
+KDevQMakeManagerEnabled=true
+KDevStandardOutputViewEnabled=true
+KDevWelcomePageEnabled=true
+kdevappwizardEnabled=true
+kdevastyleEnabled=true
+kdevbazaarEnabled=false
+kdevclangsupportEnabled=true
+kdevclassbrowserEnabled=true
+kdevcodeutilsEnabled=true
+kdevcontextbrowserEnabled=true
+kdevcppcheckEnabled=true
+kdevcustomscriptEnabled=true
+kdevdocumentswitcherEnabled=true
+kdevdocumentviewEnabled=true
+kdevexecuteEnabled=true
+kdevexecuteplasmoidEnabled=true
+kdevexecutescriptEnabled=true
+kdevexternalscriptEnabled=true
+kdevfilemanagerEnabled=true
+kdevfiletemplatesEnabled=true
+kdevgdbEnabled=true
+kdevgitEnabled=true
+kdevgrepviewEnabled=true
+kdevkonsoleviewEnabled=true
+kdevlldbEnabled=true
+kdevoktetaEnabled=true
+kdevopenwithEnabled=true
+kdevperforceEnabled=false
+kdevproblemreporterEnabled=true
+kdevqthelpEnabled=true
+kdevquickopenEnabled=true
+kdevsubversionEnabled=true
+kdevswitchtobuddyEnabled=true
+kdevtestviewEnabled=true
+kdevvcschangesviewpluginEnabled=true
+
+[ProjectManagerView]
+splitterState=\x00\x00\x00ÿ\x00\x00\x00\x01\x00\x00\x00\x02ÿÿÿÿÿÿÿÿ\x01ÿÿÿÿ\x01\x00\x00\x00\x02\x00
+
+[Working File Sets][code_9978686]
+View 0=file:///home/bkessels/projects/test/src/main.cpp
+View Count=1
+persistent=false
+
+[Working File Sets][code_9978686|Code]
+Active View=file:///home/bkessels/projects/test/src/main.cpp
+View 0=file:///home/bkessels/projects/test/src/main.cpp
+View 0 State=Cursor=0,0
+View Count=1

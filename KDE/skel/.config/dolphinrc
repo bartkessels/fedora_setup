@@ -1,0 +1,58 @@
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAADvfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAmAAAAngAAAFoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAADvQAAAFoBAAADAAAAAQAAALgAAAO9/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAACYAAAO9AAABCQEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAGDgAAA70AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+Window-Maximized 1080x1920=true
+
+[CompactMode]
+FontWeight=50
+PreviewSize=144
+
+[Desktop Entry]
+DefaultProfile=ZSH.profile
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=144
+
+[Favorite Profiles]
+Favorites=
+
+[FileMetaDataConfigurationDialog]
+Height 1080=298
+Width 1920=303
+
+[General]
+EditableUrl=true
+GlobalViewProps=true
+ShowCopyMoveMenu=true
+ShowFullPath=true
+ShowFullPathInTitlebar=true
+SortingChoice=CaseInsensitiveSorting
+Version=200
+ViewPropsTimestamp=2017,8,2,18,56,38
+
+[IconsMode]
+FontWeight=50
+IconSize=80
+PreviewSize=144
+
+[KPropertiesDialog]
+Height 1080=448
+Width 1920=471
+
+[MainWindow]
+Height 1080=593
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAACK/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAmAAAAngAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAACKwAAAFoBAAADAAAAAQAAAQAAAAIr/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAQAAACYAAAIrAAABCQEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAADEAAAAisAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1920=1226
+
+[Open-with settings]
+CompletionMode=5
+History=kwrite,firefox,kamoso -qwindowtitle %c
+
+[PreviewSettings]
+Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
+
+[SettingsDialog]
+Height 1080=462
+Width 1920=544

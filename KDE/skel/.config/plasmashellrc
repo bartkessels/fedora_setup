@@ -1,0 +1,23 @@
+[Containments][3][General]
+AppletOrder=25;5;6;7
+
+[FileDialogSize]
+Height 1080=480
+Width 1920=857
+
+[PlasmaRunnerManager]
+LaunchCounts=
+pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 20][Horizontal1920]
+thickness=24
+
+[PlasmaViews][Panel 3][Horizontal1920]
+thickness=32
+
+[ScreenConnectors]
+0=HDMI-1
+1=DVI-I-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/00-start-here-2.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc-1.js

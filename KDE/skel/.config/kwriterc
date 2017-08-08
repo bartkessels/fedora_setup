@@ -1,0 +1,27 @@
+[General Options]
+ShowMenuBar=true
+ShowPath=false
+ShowStatusBar=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/installed-applications.sh,file:$HOME/installed-applications.sh
+
+[MainWindow]
+Height 1080=515
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=958
+Window-Maximized 1080x1920=true
+
+[Recent Files]
+File1[$e]=$HOME/test.sh
+File2[$e]=$HOME/myreq.getit
+File3[$e]=$HOME/installed-applications.sh
+File4[$e]=$HOME/SETUP/setup.sh
+File5[$e]=$HOME/.config/startupconfig
+Name1[$e]=test.sh
+Name2[$e]=myreq.getit
+Name3[$e]=installed-applications.sh
+Name4[$e]=setup.sh
+Name5[$e]=startupconfig

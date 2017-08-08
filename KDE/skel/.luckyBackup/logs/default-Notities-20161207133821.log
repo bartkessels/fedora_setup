@@ -1,0 +1,115 @@
+
+=====================================<br><font color=magenta>execution of task	: <b>Notities</b>, starting</font><br>Source	: <b><font color=blue>/home/bkessels/bk-cloud/Notities</font></b><br>Destination	: <b><font color=blue>/run/media/bkessels/USB Bart/</font></b>
+sending incremental file list
+
+Notities/
+Notities/output.pdf
+
+         10.98K 100%    0.00kB/s    0:00:00           10.98K 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=44/46)
+Notities/print.pdf
+         23.16K 100%   22.09MB/s    0:00:00           23.16K 100%   22.09MB/s    0:00:00 (xfr#2, to-chk=43/46)
+Notities/stage.pdf
+         32.77K  44%    7.81MB/s    0:00:00           73.73K 100%   14.06MB/s    0:00:00 (xfr#3, to-chk=42/46)
+Notities/stageVerslag.md
+         32.77K  88%    5.21MB/s    0:00:00           36.96K 100%    5.87MB/s    0:00:00 (xfr#4, to-chk=41/46)
+Notities/stageVerslag.md.backup
+
+         32.77K  88%    4.46MB/s    0:00:00           36.96K 100%    5.04MB/s    0:00:00 (xfr#5, to-chk=40/46)
+Notities/stageVerslag.pdf
+         31.02K 100%    3.70MB/s    0:00:00           31.02K 100%    3.70MB/s    0:00:00 (xfr#6, to-chk=39/46)
+Notities/test.md
+            484 100%   59.08kB/s    0:00:00              484 100%   59.08kB/s    0:00:00 (xfr#7, to-chk=38/46)
+Notities/test.md.backup
+            457 100%   55.79kB/s    0:00:00              457 100%   55.79kB/s    0:00:00 (xfr#8, to-chk=37/46)
+Notities/Docker/
+Notities/Docker/opensuse_docker.md
+            301 100%   32.66kB/s    0:00:00              301 100%   32.66kB/s    0:00:00 (xfr#9, to-chk=33/46)
+Notities/Docker/opensuse_docker.md.backup
+            303 100%   32.88kB/s    0:00:00              303 100%   32.88kB/s    0:00:00 (xfr#10, to-chk=32/46)
+Notities/GIT/
+Notities/GIT/1. Basic GIT workflow.md
+          3.86K 100%  419.27kB/s    0:00:00            3.86K 100%  419.27kB/s    0:00:00 (xfr#11, to-chk=31/46)
+Notities/GIT/1. Basic GIT workflow.md.backup
+          3.82K 100%  372.95kB/s    0:00:00            3.82K 100%  372.95kB/s    0:00:00 (xfr#12, to-chk=30/46)
+Notities/GIT/2. Branching.md
+            440 100%   42.97kB/s    0:00:00              440 100%   42.97kB/s    0:00:00 (xfr#13, to-chk=29/46)
+Notities/GIT/Basic Git workflow.pdf
+         32.77K  38%    2.84MB/s    0:00:00           84.25K 100%    6.70MB/s    0:00:00 (xfr#14, to-chk=28/46)
+Notities/School/
+Notities/School/Prof Skills/
+Notities/School/Prof Skills/04-10-2015 - Rapport mailen.md
+          1.84K 100%  149.50kB/s    0:00:00            1.84K 100%  149.50kB/s    0:00:00 (xfr#15, to-chk=23/46)
+Notities/School/Prof Skills/20-09-2016.md
+            145 100%   11.80kB/s    0:00:00              145 100%   10.89kB/s    0:00:00 (xfr#16, to-chk=22/46)
+Notities/School/SAQ/
+Notities/School/SAQ/03-10-2016 - Use Case Scenarios.md
+          1.48K 100%  111.03kB/s    0:00:00            1.48K 100%  111.03kB/s    0:00:00 (xfr#17, to-chk=21/46)
+Notities/School/SAQ/04-10-2016 - Feedback les.md
+            225 100%   16.90kB/s    0:00:00              225 100%   16.90kB/s    0:00:00 (xfr#18, to-chk=20/46)
+Notities/School/SAQ/05-09-2016 - Analysis Design Implementation.md
+          3.95K 100%  296.57kB/s    0:00:00            3.95K 100%  275.39kB/s    0:00:00 (xfr#19, to-chk=19/46)
+Notities/School/SAQ/05-09-2016 - Eerste Les.md
+          3.93K 100%  274.00kB/s    0:00:00            3.93K 100%  274.00kB/s    0:00:00 (xfr#20, to-chk=18/46)
+Notities/School/SAQ/05-10-2016 - Testcases op basis van Use Case Scenarios.md
+          2.72K 100%  189.45kB/s    0:00:00            2.72K 100%  189.45kB/s    0:00:00 (xfr#21, to-chk=17/46)
+Notities/School/SAQ/06-09-2016 - Analysis Design.md
+          3.95K 100%  257.23kB/s    0:00:00            3.95K 100%  257.23kB/s    0:00:00 (xfr#22, to-chk=16/46)
+Notities/School/SAQ/07-09-2016 - PADI Implementation Onderzoek.md
+          4.58K 100%  298.50kB/s    0:00:00            4.58K 100%  298.50kB/s    0:00:00 (xfr#23, to-chk=15/46)
+Notities/School/SAQ/10-10-2016 - Kwaliteit en testen.md
+          3.77K 100%  245.77kB/s    0:00:00            3.77K 100%  245.77kB/s    0:00:00 (xfr#24, to-chk=14/46)
+Notities/School/SAQ/11-10-2016 - Business Class Diagram.md
+          2.95K 100%  180.18kB/s    0:00:00            2.95K 100%  180.18kB/s    0:00:00 (xfr#25, to-chk=13/46)
+Notities/School/SAQ/12-09-2016 - Requirements.md
+          5.80K 100%  353.94kB/s    0:00:00            5.80K 100%  353.94kB/s    0:00:00 (xfr#26, to-chk=12/46)
+Notities/School/SAQ/12-10-2016 - User Interfaces.md
+          3.15K 100%  192.20kB/s    0:00:00            3.15K 100%  192.20kB/s    0:00:00 (xfr#27, to-chk=11/46)
+Notities/School/SAQ/13-09-2016 - Astah Casus.md
+          5.37K 100%  308.54kB/s    0:00:00            5.37K 100%  308.54kB/s    0:00:00 (xfr#28, to-chk=10/46)
+Notities/School/SAQ/14-09-2016 - Hierarchische Decompositie.md
+          1.97K 100%  113.22kB/s    0:00:00            1.97K 100%  113.22kB/s    0:00:00 (xfr#29, to-chk=9/46)
+Notities/School/SAQ/17-10-2016 - SCRUM.md
+          4.17K 100%  239.60kB/s    0:00:00            4.17K 100%  239.60kB/s    0:00:00 (xfr#30, to-chk=8/46)
+Notities/School/SAQ/19-09-2016 - Use Cases.md
+          2.69K 100%  146.21kB/s    0:00:00            2.69K 100%  146.21kB/s    0:00:00 (xfr#31, to-chk=7/46)
+Notities/School/SAQ/20-09-2016 - Use Case Specificaties.md
+          2.89K 100%  157.01kB/s    0:00:00            2.89K 100%  157.01kB/s    0:00:00 (xfr#32, to-chk=6/46)
+Notities/School/SAQ/20-09-2016 - Use case identificeren Use case diagram.md
+          3.26K 100%  177.03kB/s    0:00:00            3.26K 100%  177.03kB/s    0:00:00 (xfr#33, to-chk=5/46)
+
+Notities/School/SAQ/27-09-2016 - Detailering.md
+          2.10K 100%  114.20kB/s    0:00:00            2.10K 100%  114.20kB/s    0:00:00 (xfr#34, to-chk=4/46)
+Notities/School/SAQ/28-09-2016 - Wrap Up.md
+            354 100%   18.19kB/s    0:00:00              354 100%   18.19kB/s    0:00:00 (xfr#35, to-chk=3/46)
+Notities/School/SLB/
+Notities/School/SLB/07-09-2016.md
+             32 100%    1.64kB/s    0:00:00               32 100%    1.64kB/s    0:00:00 (xfr#36, to-chk=2/46)
+Notities/School/SPD/
+Notities/School/SPD/05-09-2016 - Eerste Les.md
+            121 100%    6.22kB/s    0:00:00              121 100%    6.22kB/s    0:00:00 (xfr#37, to-chk=1/46)
+Notities/School/SPD/07-09-2016.md
+             32 100%    1.64kB/s    0:00:00               32 100%    1.64kB/s    0:00:00 (xfr#38, to-chk=0/46)
+
+
+Number of files: 46 (reg: 38, dir: 8)
+Number of created files: 46 (reg: 38, dir: 8)
+Number of deleted files: 0
+Number of regular files transferred: 38
+Total file size: 368.25K bytes
+
+Total transferred file size: 368.25K bytes
+Literal data: 368.25K bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 371.49K
+Total bytes received: 782
+
+sent 371.49K bytes  received 782 bytes  148.91K bytes/sec
+total size is 368.25K  speedup is 0.99
+
+
+<font color=cyan>&nbsp;&nbsp;&nbsp;&nbsp;-----| Backing-up profile, logfiles and snapshot data -> Ok |-----</font><br>
+<font color=magenta>execution of task	: <b>Notities</b>, finished</font>
+=====================================<br>

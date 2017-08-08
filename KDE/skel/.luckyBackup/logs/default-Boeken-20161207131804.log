@@ -1,0 +1,90 @@
+
+=====================================<br><font color=magenta>execution of task	: <b>Boeken</b>, starting</font><br>Source	: <b><font color=blue>/home/bkessels/bk-cloud/Boeken</font></b><br>Destination	: <b><font color=blue>/run/media/bkessels/USB Bart/</font></b>
+sending incremental file list
+
+Boeken/
+Boeken/HTML5 AppDev Student.pdf
+
+         32.77K   0%    0.00kB/s    0:00:00  
+         11.11M  88%  191.75kB/s    0:00:07  
+         12.50M 100%  215.79kB/s    0:00:56 (xfr#1, to-chk=13/15)
+Boeken/Head First Android Development.pdf
+
+         32.77K   0%  864.86kB/s    0:00:56  
+         49.01M 100%   65.01MB/s    0:00:00 (xfr#2, to-chk=12/15)
+Boeken/Head First Rails.pdf
+
+         32.77K   0%   43.90kB/s    0:14:32  
+         18.71M  48%   17.84MB/s    0:00:01  
+         38.35M 100%   28.28MB/s    0:00:01 (xfr#3, to-chk=11/15)
+Boeken/Head First SQL.pdf
+
+         32.77K   0%  103.23kB/s    0:08:11  
+         50.75M 100%   49.19MB/s    0:00:00 (xfr#4, to-chk=10/15)
+Boeken/LFS-BOOK.pdf
+
+         32.77K   1%   32.26kB/s    0:00:53  
+        557.06K  31%  544.00kB/s    0:00:02  
+          1.75M 100%    1.63MB/s    0:00:01 (xfr#5, to-chk=9/15)
+Boeken/Netwerk Beheer Deel 1.pdf
+
+         32.77K   0%    1.01MB/s    0:00:20  
+         20.71M 100%   58.79MB/s    0:00:00 (xfr#6, to-chk=8/15)
+Boeken/Pro Bash Programming, 2nd Edition.pdf
+
+         32.77K   1%   93.84kB/s    0:00:32  
+          3.04M 100%    7.34MB/s    0:00:00 (xfr#7, to-chk=7/15)
+Boeken/Professional Android Programming with Mono.pdf
+
+         32.77K   0%   80.00kB/s    0:04:47  
+         23.01M 100%   30.52MB/s    0:00:00 (xfr#8, to-chk=6/15)
+Boeken/Programming Principles And Practice Using C++.pdf
+
+         32.77K   1%   43.90kB/s    0:00:43  
+          1.94M 100%    2.45MB/s    0:00:00 (xfr#9, to-chk=5/15)
+Boeken/communications-industrial-networking-and-tcpip.pdf
+
+         32.77K   0%   42.05kB/s    0:01:32  
+          3.91M 100%    4.52MB/s    0:00:00 (xfr#10, to-chk=4/15)
+Boeken/it-management.pdf
+
+         32.77K   1%   38.32kB/s    0:01:09  
+          2.70M 100%    2.98MB/s    0:00:00 (xfr#11, to-chk=3/15)
+Boeken/law-for-computing-students.pdf
+
+         32.77K   1%   36.74kB/s    0:01:10  
+          2.63M 100%    2.77MB/s    0:00:00 (xfr#12, to-chk=2/15)
+Boeken/the-ultimate-student-graduate-job-handbook.pdf
+
+         32.77K   1%   35.16kB/s    0:01:13  
+          2.61M 100%    2.64MB/s    0:00:00 (xfr#13, to-chk=1/15)
+Boeken/wetransfer-7ad549.zip
+
+         32.77K   0%   33.79kB/s    1:30:33  
+          3.28M   1%    3.12MB/s    0:00:56  
+        135.56M  73%   64.67MB/s    0:00:00  
+        183.64M 100%   74.84MB/s    0:00:02 (xfr#14, to-chk=0/15)
+
+
+Number of files: 15 (reg: 14, dir: 1)
+Number of created files: 15 (reg: 14, dir: 1)
+Number of deleted files: 0
+Number of regular files transferred: 14
+Total file size: 396.57M bytes
+Total transferred file size: 396.57M bytes
+Literal data: 396.57M bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+
+Total bytes sent: 396.67M
+Total bytes received: 286
+
+sent 396.67M bytes  received 286 bytes  6.45M bytes/sec
+total size is 396.57M  speedup is 1.00
+
+
+<font color=cyan>&nbsp;&nbsp;&nbsp;&nbsp;-----| Backing-up profile, logfiles and snapshot data -> Ok |-----</font><br>
+<font color=magenta>execution of task	: <b>Boeken</b>, finished</font>
+=====================================<br>

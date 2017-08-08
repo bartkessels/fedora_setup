@@ -1,0 +1,12 @@
+[Desktop Entry]
+DefaultProfile=ZSH.profile
+
+[Favorite Profiles]
+Favorites=
+
+[KonsoleWindow]
+SaveGeometryOnExit=false
+ShowAppNameOnTitleBar=false
+
+[TabBar]
+TabBarVisibility=AlwaysHideTabBar
