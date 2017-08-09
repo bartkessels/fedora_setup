@@ -1,0 +1,26 @@
+
+=====================================<br><font color=magenta>execution of task	: <b>Werk</b>, starting</font><br>Source	: <b><font color=blue>/home/bkessels/bk-cloud/Werk</font></b><br>Destination	: <b><font color=blue>/run/media/bkessels/USB Bart/</font></b>
+sending incremental file list
+
+
+Number of files: 302 (reg: 231, dir: 71)
+Number of created files: 0
+Number of deleted files: 0
+Number of regular files transferred: 0
+Total file size: 59.96M bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 9.86K
+Total bytes received: 87
+
+sent 9.86K bytes  received 87 bytes  19.90K bytes/sec
+total size is 59.96M  speedup is 6,027.68
+
+
+<font color=cyan>&nbsp;&nbsp;&nbsp;&nbsp;-----| Backing-up profile, logfiles and snapshot data -> Ok |-----</font><br>
+<font color=magenta>execution of task	: <b>Werk</b>, finished</font>
+=====================================<br>

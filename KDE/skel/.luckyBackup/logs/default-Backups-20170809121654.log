@@ -1,0 +1,26 @@
+
+=====================================<br><font color=magenta>execution of task	: <b>Backups</b>, starting</font><br>Source	: <b><font color=blue>/home/bkessels/bk-cloud/Backups</font></b><br>Destination	: <b><font color=blue>/run/media/bkessels/USB Bart/</font></b>
+sending incremental file list
+
+
+Number of files: 33 (reg: 31, dir: 2)
+Number of created files: 0
+Number of deleted files: 0
+Number of regular files transferred: 0
+Total file size: 5.12G bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 997
+Total bytes received: 18
+
+sent 997 bytes  received 18 bytes  2.03K bytes/sec
+total size is 5.12G  speedup is 5,041,358.82
+
+
+<font color=cyan>&nbsp;&nbsp;&nbsp;&nbsp;-----| Backing-up profile, logfiles and snapshot data -> Ok |-----</font><br>
+<font color=magenta>execution of task	: <b>Backups</b>, finished</font>
+=====================================<br>

@@ -1,0 +1,26 @@
+
+=====================================<br><font color=magenta>execution of task	: <b>School</b>, starting</font><br>Source	: <b><font color=blue>/home/bkessels/bk-cloud/School</font></b><br>Destination	: <b><font color=blue>/run/media/bkessels/USB Bart/</font></b>
+sending incremental file list
+
+
+Number of files: 4,443 (reg: 3,390, dir: 1,053)
+Number of created files: 0
+Number of deleted files: 0
+Number of regular files transferred: 0
+Total file size: 2.98G bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 147.36K
+Total bytes received: 1.10K
+
+sent 147.36K bytes  received 1.10K bytes  59.38K bytes/sec
+total size is 2.98G  speedup is 20,045.08
+
+
+<font color=cyan>&nbsp;&nbsp;&nbsp;&nbsp;-----| Backing-up profile, logfiles and snapshot data -> Ok |-----</font><br>
+<font color=magenta>execution of task	: <b>School</b>, finished</font>
+=====================================<br>
