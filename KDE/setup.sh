@@ -155,10 +155,10 @@ dnf install -y texlive-scheme-full
 dnf install -y audacity ardour5
 
 # Image Editors
-dnf install -y krita
+dnf install -y krita gimp
 
 # Video Editors
-dnf install -y blender kdevelop
+dnf install -y blender kdenlive frei0r-plugins-opencv frei0r-plugins xine
 
 # Development Editors / Development Kits / Build systems / Tools / Compilers / Libraries / Completion libraries / Packaging Tools / VSCode extensions
 dnf install -y vim kdevelop code @development-tools @kde-software-development
@@ -167,7 +167,7 @@ dnf install -y cmake meson ninja-build
 dnf install -y python3-jedi nuget
 dnf install -y dia umbrello kompare sqlitebrowser pencil gitg
 dnf install -y gcc-c++ clang clang-libs
-dnf install -y @development-libs
+dnf install -y @development-libs qt5-devel
 dnf install -y fedora-packager fedora-review @rpm-development-tools
 
 code --user-data-dir=$home/.vscode/extensions --install-extension eamodio.gitlens
@@ -184,7 +184,7 @@ code --user-data-dir=$home/.vscode/extensions --install-extension PKief.material
 dnf install -y filezilla qbittorrent youtube-dl offlineimap
 
 # Office
-dnf install -y aspell-nl libreoffice-langpack-nl libreoffice
+dnf install -y aspell-nl libreoffice-langpack-nl libreoffice libreoffice-kde4
 
 # Containers
 dnf install -y docker docker-compose

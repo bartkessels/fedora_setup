@@ -6,7 +6,7 @@ Number=10
 Rows=2
 
 [Effect-CoverSwitch]
-TabBox=false
+TabBox=true
 TabBoxAlternative=false
 
 [Effect-Cube]
@@ -72,10 +72,12 @@ CommandWindow3=Activate and pass click
 CommandWindowWheel=Scroll
 
 [Plugins]
+coverswitchEnabled=true
 cubeslideEnabled=false
 desktopchangeosdEnabled=false
 diminactiveEnabled=true
 enforcedecoEnabled=true
+flipswitchEnabled=true
 highlightwindowEnabled=true
 kwin4_effect_fadedesktopEnabled=true
 minimizeallEnabled=false
@@ -98,7 +100,7 @@ DesktopLayout=org.kde.breeze.desktop
 DesktopListLayout=org.kde.breeze.desktop
 DesktopMode=1
 HighlightWindows=true
-LayoutName=org.kde.breeze.desktop
+LayoutName=present_windows
 MinimizedMode=0
 MultiScreenMode=0
 ShowDesktopMode=0
