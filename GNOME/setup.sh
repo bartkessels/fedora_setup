@@ -115,7 +115,7 @@ git clone https://github.com/andreisergiu98/arc-flatabulous-theme
 cd arc-flatabulous-theme
 ./autogen.sh --prefix=/usr
 make install
-cd -
+cd $HOME
 rm -rf arc-flatabulous-theme
 
 dnf install -y breeze-cursor-theme
