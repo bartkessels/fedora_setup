@@ -1,3 +1,6 @@
+[Containments][20][General]
+AppletOrder=46;28;21;43;42;44;29;41;45;50;51;52
+
 [Containments][3][General]
 AppletOrder=25;5;6;7
 
@@ -13,6 +16,9 @@ pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recen
 thickness=24
 
 [PlasmaViews][Panel 3][Horizontal1920]
+thickness=32
+
+[PlasmaViews][Panel 53][Horizontal1920]
 thickness=32
 
 [ScreenConnectors]

@@ -2,7 +2,7 @@
 update_info=fonts_global.upd:Fonts_Global
 
 [Appmenu Style]
-Style=Widget
+Style=InApplication
 
 [ColorEffects:Disabled]
 Color=56,56,56
@@ -168,6 +168,7 @@ StartDragDist=4
 StartDragTime=500
 WheelScrollLines=3
 contrast=4
+widgetStyle=breeze
 
 [KFileDialog Settings]
 Automatically select filename extension=true
