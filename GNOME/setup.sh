@@ -94,7 +94,7 @@ dnf update --refresh -y
 printf 'vboxdrv' > /etc/modules-load.d/virtualbox.conf
 
 # Settings GUI tools
-dnf install -y dconf-editor gnome-tweak-tool firewall-config
+dnf install -y NetworkManager-l2tp-gnome dconf-editor gnome-tweak-tool firewall-config
 
 # Fonts
 dnf install -y bitstream-vera-fonts-common linux-libertine-fonts-common google-noto-fonts-common google-noto-emoji-fonts google-android-emoji-fonts open-sans-fonts
