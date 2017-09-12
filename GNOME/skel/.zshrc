@@ -64,7 +64,7 @@ export SSH_ASKPASS=/usr/lib/ssh/gnome-ssh-askpass
 alias zf=zf.sh
 alias slim="composer create-project slim/slim-skeleton"
 alias laravel="laravel new"
-alias dev="tilix -s ~/.tilix-development-layout.json --full-screen -w $(pwd)"
+alias dev="tilix -s ~/.tilix-development-layout.json"
 
 # $PATH
 export PATH="$HOME/.config/composer/vendor/bin:$PATH"
