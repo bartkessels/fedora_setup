@@ -90,11 +90,14 @@ dnf update --refresh -y
 #####################################################################################
 #####################################################################################
 
+# Install required packages for some settings
+dnf install -y make
+
 # VirtualBox
 printf 'vboxdrv' > /etc/modules-load.d/virtualbox.conf
 
 # Settings GUI tools
-dnf install -y NetworkManager-l2tp-gnome dconf-editor gnome-tweak-tool firewall-config
+dnf install -y dconf-editor gnome-tweak-tool firewall-config
 
 # Fonts
 dnf install -y bitstream-vera-fonts-common linux-libertine-fonts-common google-noto-fonts-common google-noto-emoji-fonts google-android-emoji-fonts open-sans-fonts
@@ -165,7 +168,7 @@ grub2-mkconfig -o /boot/grub2/grub.cfg
 dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-topicons-plus
 
 # Utilities
-dnf install -y whois pandoc gpick pdfmod gnome-todo luckybackup ffmpeg ctags getit apagenerator remmina ghostwriter kde-connect
+dnf install -y whois pandoc gpick pdfmod gnome-todo luckybackup ffmpeg ctags getit apagenerator remmina ghostwriter
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
