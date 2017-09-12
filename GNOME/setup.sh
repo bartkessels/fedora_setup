@@ -168,7 +168,7 @@ grub2-mkconfig -o /boot/grub2/grub.cfg
 dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-topicons-plus
 
 # Utilities
-dnf install -y whois pandoc gpick pdfmod gnome-todo luckybackup ffmpeg ctags getit apagenerator remmina ghostwriter
+dnf install -y whois pandoc gpick pdfmod gnome-todo luckybackup ffmpeg ctags getit apagenerator remmina ghostwriter tilix
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
@@ -223,6 +223,40 @@ dnf install -y keepassxc
 
 # Other
 dnf install -y tuxguitar brasero
+
+#####################################################################################
+#####################################################################################
+
+#		VIM
+
+#####################################################################################
+#####################################################################################
+
+mkdir -p $HOME/.vim/autoload
+mkdir -p $HOME/.vim/bundle
+mkdir -p $HOME/.vim/colors
+
+# Copy vim files
+cp vim/wwdc17.vim $HOME/.vim/colors/wwdc17.vim
+cp vim/.ycm_extra_conf.py $HOME/.vim/.ycm_extra_conf.py
+
+# YouCompleteMe
+git clone https://github.com/valloric/youcompleteme $HOME/.vim/bundle/youcompleteme
+cd $HOME/.vim/bundle/youcompleteme
+git submodule update --init --recursive
+./install.sh --clang-completer
+cd -
+
+# NerdTree
+git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
+
+# GTK Syntax highlighting
+git clone https://github.com/vim-scripts/gtk-vim-syntax.git $HOME/.vim/bundle/gtk-vim-syntax
+cp -r $HOME/.vim/bundle/gtk-vim-syntax/syntax $HOME/.vim/after/syntax
+cp vim/c.vim $HOME/.vim/after/syntax/c.vim
+
+# Generate ctags files
+ctags -R --sort=1 --fields=+l --c++-kinds=+p --language-force=C -f $HOME/.ctags/gtk_c /usr/include/gtk-3.0/
 
 #####################################################################################
 #####################################################################################
