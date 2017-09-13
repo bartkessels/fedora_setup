@@ -232,9 +232,11 @@ dnf install -y tuxguitar brasero
 #####################################################################################
 #####################################################################################
 
+mkdir -p $HOME/.vim/after
 mkdir -p $HOME/.vim/autoload
 mkdir -p $HOME/.vim/bundle
 mkdir -p $HOME/.vim/colors
+mkdir -p $HOME/.ctags
 
 # Copy vim files
 cp vim/wwdc17.vim $HOME/.vim/colors/wwdc17.vim
