@@ -209,7 +209,7 @@ code --user-data-dir=$home/.vscode/extensions --install-extension neilbrayfield.
 code --user-data-dir=$home/.vscode/extensions --install-extension PKief.material-icon-theme
 
 # Browsers / Web / Other
-dnf install -y epiphany
+dnf install -y epiphany icecat
 dnf install -y filezilla transmission youtube-dl offlineimap
 
 # Office
