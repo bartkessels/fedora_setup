@@ -93,9 +93,6 @@ dnf update --refresh -y
 # Install required packages for some settings
 dnf install -y make
 
-# VirtualBox
-printf 'vboxdrv' > /etc/modules-load.d/virtualbox.conf
-
 # Settings GUI tools
 dnf install -y dconf-editor gnome-tweak-tool firewall-config
 
