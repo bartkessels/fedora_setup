@@ -90,9 +90,6 @@ dnf update --refresh -y
 #####################################################################################
 #####################################################################################
 
-# Install required packages for some settings
-dnf install -y make
-
 # Settings GUI tools
 dnf install -y dconf-editor gnome-tweak-tool firewall-config
 
@@ -109,15 +106,6 @@ dnf install -y cabextract lzip p7zip p7zip-plugins unrar
 # Themes / Icons / Arc-flatabulous / Cursors
 dnf install -y paper-gtk-theme arc-theme
 dnf install -y paper-icon-theme
-
-cd $HOME
-git clone https://github.com/andreisergiu98/arc-flatabulous-theme
-cd arc-flatabulous-theme
-./autogen.sh --prefix=/usr
-make install
-cd $HOME
-rm -rf arc-flatabulous-theme
-
 dnf install -y breeze-cursor-theme
 
 # Git
@@ -149,10 +137,6 @@ hostnamectl set-hostname --static $computer_name
 # Update dnf conf
 sed -i 's|clean_requirements_on_remove=True|clean_requirements_on_remove=False|g' /etc/dnf/dnf.conf
 
-# Grub timeout
-sed -i 's/GRUB_TIMEOUT=5/GRUB_TIMEOUT=0/g' /etc/default/grub
-grub2-mkconfig -o /boot/grub2/grub.cfg
-
 #####################################################################################
 #####################################################################################
 
@@ -162,7 +146,7 @@ grub2-mkconfig -o /boot/grub2/grub.cfg
 #####################################################################################
 
 # GNOME extensions
-dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-topicons-plus
+dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance
 
 # Utilities
 dnf install -y whois pandoc gpick pdfmod gnome-todo luckybackup ffmpeg ctags getit apagenerator remmina ghostwriter tilix
@@ -188,7 +172,7 @@ dnf install -y blender pitivi
 dnf install -y vim gnome-builder glade code @development-tools @gnome-software-development
 dnf install -y vim-nerdtree
 dnf install -y java-1.8.0-openjdk-devel automake cmake autoconf zlib-devel.i686 ncurses-devel.i686 ant gettext-devel autoconf-archive intltool itstool gtksourceview3-devel
-dnf install -y python3-jedi clang clang-libs nuget glide golint
+dnf install -y python3-jedi clang clang-libs nuget glide golint make
 dnf install -y dia meld sqlitebrowser pencil planner gitg
 dnf install -y gcc-c++
 dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 gtkmm30 gtkmm30-devel python-devel python3-devel rust rust-gdb gtksourceview3-devel @development-libs golang
@@ -206,7 +190,7 @@ code --user-data-dir=$home/.vscode/extensions --install-extension neilbrayfield.
 code --user-data-dir=$home/.vscode/extensions --install-extension PKief.material-icon-theme
 
 # Browsers / Web / Other
-dnf install -y epiphany icecat
+dnf install -y epiphany
 dnf install -y filezilla transmission youtube-dl offlineimap
 
 # Office
@@ -282,6 +266,23 @@ dnf install -y nodejs npm
 
 # NPM packages
 npm install -g yo bower grunt-cli gulp generator-aspnet
+
+#####################################################################################
+#####################################################################################
+
+#		COMPILE SOFTWARE
+
+#####################################################################################
+#####################################################################################
+
+# Arc flatabulous theme
+cd $HOME
+git clone https://github.com/andreisergiu98/arc-flatabulous-theme
+cd arc-flatabulous-theme
+./autogen.sh --prefix=/usr
+make install
+cd $HOME
+rm -rf arc-flatabulous-theme
 
 #####################################################################################
 #####################################################################################
