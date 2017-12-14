@@ -168,10 +168,10 @@ dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 b
 dnf install -y fedora-packager fedora-review @rpm-development-tools meson ninja-build
 dnf install -y gtk3-devel-docs
 
-code --user-data-dir=$HOME/.vscode/extensions --install-extension eamodio.gitlens
-code --user-data-dir=$HOME/.vscode/extensions --install-extension ms-python.python
-code --user-data-dir=$HOME/.vscode/extensions --install-extension bibhasdn.django-html
-code --user-data-dir=$HOME/.vscode/extensions --install-extension PKief.material-icon-theme
+code --user-data-dir=$home/.vscode/extensions --install-extension eamodio.gitlens
+code --user-data-dir=$home/.vscode/extensions --install-extension ms-python.python
+code --user-data-dir=$home/.vscode/extensions --install-extension bibhasdn.django-html
+code --user-data-dir=$home/.vscode/extensions --install-extension PKief.material-icon-theme
 
 # Web
 dnf install -y filezilla transmission youtube-dl offlineimap
@@ -197,21 +197,19 @@ dnf install -y tuxguitar brasero
 #####################################################################################
 
 # Arc flatabulous theme
-cd $HOME
 git clone https://github.com/andreisergiu98/arc-flatabulous-theme
 cd arc-flatabulous-theme
 ./autogen.sh --prefix=/usr
 make install
-cd $HOME
+cd -
 rm -rf arc-flatabulous-theme
 
 # Paper theme
-cd $HOME
 git clone https://github.com/snwh/paper-icon-theme
 cd paper-icon-theme
 ./autogen.sh --prefix=/usr
 make install
-cd $HOME
+cd -
 rm -rf paper-icon-theme
 
 #####################################################################################
@@ -239,9 +237,6 @@ usermod -aG mock $user_name
 
 #####################################################################################
 #####################################################################################
-
-# Files
-cp -r wallpapers/. /usr/share
 
 # Settings
 cp -r skel/. $home/.
