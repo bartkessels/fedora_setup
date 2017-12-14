@@ -1,9 +1,0 @@
-[Plugins]
-org.kde.ActivityManager.ResourceScoringEnabled=false
-org.kde.ActivityManager.VirtualDesktopSwitchEnabled=false
-
-[activities]
-c13e18ee-9db2-4f12-8019-753dde979d38=Default
-
-[main]
-currentActivity=c13e18ee-9db2-4f12-8019-753dde979d38
