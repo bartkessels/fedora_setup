@@ -76,9 +76,6 @@ echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com
 rpm --quiet --query rpmfusion-free-release || dnf -y --nogpgcheck install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
 rpm --quiet --query rpmfusion-nonfree-release || dnf -y --nogpgcheck install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 
-# Add repo for paper icon/gtk theme
-dnf config-manager --add-repo http://download.opensuse.org/repositories/home:snwh:paper/Fedora_25/home:snwh:paper.repo
-
 # Update
 dnf update --refresh -y
 
@@ -103,11 +100,6 @@ dnf install -y gstreamer1-libav gstreamer1-plugins-bad-free gstreamer1-plugins-b
 # Archive formats
 dnf install -y cabextract lzip p7zip p7zip-plugins unrar
 
-# Themes / Icons / Arc-flatabulous / Cursors
-dnf install -y paper-gtk-theme arc-theme
-dnf install -y paper-icon-theme
-dnf install -y breeze-cursor-theme
-
 # Git
 printf "[user]\nemail=$git_mail\nname=$full_name\n[diff]\ntool=meld\n[push]\ndefault=simple" > $home/.gitconfig
 
@@ -120,9 +112,6 @@ git clone https://github.com/robbyrussell/oh-my-zsh.git $home/.oh-my-zsh
 # Inotify
 printf '# Increase inofity watch limit\nfs.inotify.max_user_watches = 100000000' > /etc/sysctl.d/90-inotify.conf
 printf '\n\n# Increase inofity watch limit\nfs.inotify.max_user_watches = 100000000' >> /usr/lib/sysctl.d/50-default.conf
-
-# Sudoers file
-printf '\nDefaults env_reset,insults\n' >> /etc/sudoers
 
 # Audio
 printf '* hard rtprio 0\n* soft rtprio 0\n@realtime hard rtprio 20\n@realtime soft rtprio 10\n@audio - rtprio 95\n@audio - memlock unlimited' >> /etc/security/limits.conf
@@ -146,10 +135,10 @@ sed -i 's|clean_requirements_on_remove=True|clean_requirements_on_remove=False|g
 #####################################################################################
 
 # GNOME extensions
-dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance
+dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-user-theme gnome-shell-extension-topicons-plus
 
 # Utilities
-dnf install -y whois pandoc gpick pdfmod gnome-todo luckybackup ffmpeg ctags getit apagenerator remmina ghostwriter tilix
+dnf install -y whois pandoc pdfmod gnome-todo luckybackup ffmpeg getit apagenerator ghostwriter
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
@@ -172,25 +161,19 @@ dnf install -y blender pitivi
 dnf install -y vim gnome-builder glade code @development-tools @gnome-software-development
 dnf install -y vim-nerdtree
 dnf install -y java-1.8.0-openjdk-devel automake cmake autoconf zlib-devel.i686 ncurses-devel.i686 ant gettext-devel autoconf-archive intltool itstool gtksourceview3-devel
-dnf install -y python3-jedi clang clang-libs nuget glide golint make
+dnf install -y python3-jedi clang clang-libs nuget glide make
 dnf install -y dia meld sqlitebrowser pencil planner gitg
-dnf install -y gcc-c++
-dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 gtkmm30 gtkmm30-devel python-devel python3-devel rust rust-gdb gtksourceview3-devel @development-libs golang
+dnf install -y gcc
+dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 python-devel python3-devel gtksourceview3-devel @development-libs
 dnf install -y fedora-packager fedora-review @rpm-development-tools meson ninja-build
-dnf install -y rust-doc gtk3-devel-docs golang-docs
+dnf install -y gtk3-devel-docs
 
-code --user-data-dir=$home/.vscode/extensions --install-extension eamodio.gitlens
-code --user-data-dir=$home/.vscode/extensions --install-extension felixfbecker.php-debug
-code --user-data-dir=$home/.vscode/extensions --install-extension felixfbecker.php-intellisense
-code --user-data-dir=$home/.vscode/extensions --install-extension lukehoban.go
-code --user-data-dir=$home/.vscode/extensions --install-extension ms-vscode.csharp
-code --user-data-dir=$home/.vscode/extensions --install-extension ms-vscode.cpptools
-code --user-data-dir=$home/.vscode/extensions --install-extension ms-vscode.mono-debug
-code --user-data-dir=$home/.vscode/extensions --install-extension neilbrayfield.php-docblocker
-code --user-data-dir=$home/.vscode/extensions --install-extension PKief.material-icon-theme
+code --user-data-dir=$HOME/.vscode/extensions --install-extension eamodio.gitlens
+code --user-data-dir=$HOME/.vscode/extensions --install-extension ms-python.python
+code --user-data-dir=$HOME/.vscode/extensions --install-extension bibhasdn.django-html
+code --user-data-dir=$HOME/.vscode/extensions --install-extension PKief.material-icon-theme
 
-# Browsers / Web / Other
-dnf install -y epiphany
+# Web
 dnf install -y filezilla transmission youtube-dl offlineimap
 
 # Office
@@ -208,68 +191,6 @@ dnf install -y tuxguitar brasero
 #####################################################################################
 #####################################################################################
 
-#		VIM
-
-#####################################################################################
-#####################################################################################
-
-mkdir -p $HOME/.vim/after
-mkdir -p $HOME/.vim/autoload
-mkdir -p $HOME/.vim/bundle
-mkdir -p $HOME/.vim/colors
-mkdir -p $HOME/.ctags
-
-# Copy vim files
-cp vim/wwdc17.vim $HOME/.vim/colors/wwdc17.vim
-cp vim/.ycm_extra_conf.py $HOME/.vim/.ycm_extra_conf.py
-
-# YouCompleteMe
-git clone https://github.com/valloric/youcompleteme $HOME/.vim/bundle/youcompleteme
-cd $HOME/.vim/bundle/youcompleteme
-git submodule update --init --recursive
-./install.sh --clang-completer
-cd -
-
-# NerdTree
-git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
-
-# GTK Syntax highlighting
-git clone https://github.com/vim-scripts/gtk-vim-syntax.git $HOME/.vim/bundle/gtk-vim-syntax
-cp -r $HOME/.vim/bundle/gtk-vim-syntax/syntax $HOME/.vim/after/syntax
-cp vim/c.vim $HOME/.vim/after/syntax/c.vim
-
-# Generate ctags files
-ctags -R --sort=1 --fields=+l --c++-kinds=+p --language-force=C -f $HOME/.ctags/gtk_c /usr/include/gtk-3.0/
-
-#####################################################################################
-#####################################################################################
-
-#		WEBSERVER
-
-#####################################################################################
-#####################################################################################
-
-# Apache
-dnf install -y httpd
-
-# PHP
-dnf install -y php composer
-
-sed -i 's|display_errors = Off|display_errors = On|g' /etc/php.ini
-
-# Composer packages
-composer global require "laravel/installer"
-composer global require "phpunit/phpunit"
-
-# Node
-dnf install -y nodejs npm
-
-# NPM packages
-npm install -g yo bower grunt-cli gulp generator-aspnet
-
-#####################################################################################
-#####################################################################################
-
 #		COMPILE SOFTWARE
 
 #####################################################################################
@@ -283,6 +204,15 @@ cd arc-flatabulous-theme
 make install
 cd $HOME
 rm -rf arc-flatabulous-theme
+
+# Paper theme
+cd $HOME
+git clone https://github.com/snwh/paper-icon-theme
+cd paper-icon-theme
+./autogen.sh --prefix=/usr
+make install
+cd $HOME
+rm -rf paper-icon-theme
 
 #####################################################################################
 #####################################################################################
