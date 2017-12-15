@@ -40,6 +40,7 @@ rmdir $home/Videos
 
 mkdir $home/Downloads
 mkdir $home/Git-projects
+mkdir $home/Public
 mkdir $home/Webserver
 
 ln -sf $sync_folder/Documenten $home/Documents
