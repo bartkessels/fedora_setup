@@ -201,7 +201,7 @@ git clone https://github.com/andreisergiu98/arc-flatabulous-theme
 cd arc-flatabulous-theme
 ./autogen.sh --prefix=/usr
 make install
-cd -
+cd ../
 rm -rf arc-flatabulous-theme
 
 # Paper theme
@@ -209,7 +209,7 @@ git clone https://github.com/snwh/paper-icon-theme
 cd paper-icon-theme
 ./autogen.sh --prefix=/usr
 make install
-cd -
+cd ../
 rm -rf paper-icon-theme
 
 #####################################################################################
