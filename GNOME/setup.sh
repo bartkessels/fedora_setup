@@ -177,8 +177,9 @@ code --user-data-dir=$home/.vscode/extensions --install-extension PKief.material
 # Web
 dnf install -y filezilla transmission youtube-dl offlineimap
 
-# Office
+# Office / Mail
 dnf install -y aspell-nl libreoffice-langpack-nl gnome-calendar
+dnf install -y geary
 
 # Containers
 dnf install -y docker docker-compose
