@@ -68,6 +68,7 @@ ln -sf $sync_folder/Werk $home/Work
 dnf copr -y enable bartkessels/apagenerator
 dnf copr -y enable bartkessels/getit
 dnf copr -y enable bartkessels/ghostwriter
+dnf copr -y enable bartkessels/simpleconvert
 
 # Add repo for vscode
 rpm --import https://packages.microsoft.com/keys/microsoft.asc
@@ -156,7 +157,7 @@ dnf install -y lollypop
 dnf install -y gimp gnome-photos
 
 # Video Editors
-dnf install -y blender pitivi
+dnf install -y blender pitivi simpleconvert
 
 # Development Editors / Editor Plugins / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs / VSCode extensions
 dnf install -y vim gnome-builder glade code @development-tools @gnome-software-development
