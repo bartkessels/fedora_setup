@@ -215,6 +215,15 @@ make install
 cd ../
 rm -rf paper-icon-theme
 
+# GSConnect
+git clone https://github.com/andyholmes/gnome-shell-extension-gsconnect
+cd gnome-shell-extension-gsconnect
+meson build
+cd build
+ninja install-zip
+cd ../../
+rm -rf gnome-shell-extension-gsconnect
+
 #####################################################################################
 #####################################################################################
 
