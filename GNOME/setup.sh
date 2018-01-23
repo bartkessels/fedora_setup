@@ -70,10 +70,6 @@ dnf copr -y enable bartkessels/getit
 dnf copr -y enable bartkessels/ghostwriter
 dnf copr -y enable bartkessels/simpleconvert
 
-# Add repo for vscode
-rpm --import https://packages.microsoft.com/keys/microsoft.asc
-echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc" > /etc/yum.repos.d/vscode.repo
-
 # RPM fusion repos
 rpm --quiet --query rpmfusion-free-release || dnf -y --nogpgcheck install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
 rpm --quiet --query rpmfusion-nonfree-release || dnf -y --nogpgcheck install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
@@ -159,8 +155,8 @@ dnf install -y gimp gnome-photos
 # Video Editors
 dnf install -y blender pitivi simpleconvert
 
-# Development Editors / Editor Plugins / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs / VSCode extensions
-dnf install -y vim gnome-builder glade code @development-tools @gnome-software-development
+# Development Editors / Editor Plugins / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs
+dnf install -y vim gnome-builder glade @development-tools @gnome-software-development
 dnf install -y vim-nerdtree
 dnf install -y java-1.8.0-openjdk-devel automake cmake autoconf zlib-devel.i686 ncurses-devel.i686 ant gettext-devel autoconf-archive intltool itstool gtksourceview3-devel
 dnf install -y python3-jedi clang clang-libs glide make
@@ -169,11 +165,6 @@ dnf install -y gcc
 dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 python3-devel gtksourceview3-devel @development-libs
 dnf install -y fedora-packager fedora-review @rpm-development-tools meson ninja-build
 dnf install -y gtk3-devel-docs
-
-code --user-data-dir=$home/.vscode/extensions --install-extension eamodio.gitlens
-code --user-data-dir=$home/.vscode/extensions --install-extension ms-python.python
-code --user-data-dir=$home/.vscode/extensions --install-extension bibhasdn.django-html
-code --user-data-dir=$home/.vscode/extensions --install-extension PKief.material-icon-theme
 
 # Web
 dnf install -y filezilla transmission youtube-dl offlineimap
@@ -215,15 +206,6 @@ make install
 cd ../
 rm -rf paper-icon-theme
 
-# GSConnect
-git clone https://github.com/andyholmes/gnome-shell-extension-gsconnect
-cd gnome-shell-extension-gsconnect
-meson build
-cd build
-ninja install-zip
-cd ../../
-rm -rf gnome-shell-extension-gsconnect
-
 #####################################################################################
 #####################################################################################
 
@@ -232,12 +214,8 @@ rm -rf gnome-shell-extension-gsconnect
 #####################################################################################
 #####################################################################################
 
-# Enable services
-systemctl enable httpd docker
-
 # Add user to service groups
 usermod -aG docker $user_name
-usermod -aG apache $user_name
 usermod -aG audio $user_name
 usermod -aG realtime $user_name
 usermod -aG mock $user_name
