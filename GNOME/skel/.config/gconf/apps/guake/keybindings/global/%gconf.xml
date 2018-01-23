@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<gconf>
-	<entry name="show_hide" mtime="1479755564" type="string">
-		<stringvalue>&lt;Primary&gt;&lt;Shift&gt;Down</stringvalue>
-	</entry>
-</gconf>
