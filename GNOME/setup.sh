@@ -155,16 +155,15 @@ dnf install -y gimp gnome-photos
 # Video Editors
 dnf install -y blender pitivi simpleconvert
 
-# Development Editors / Editor Plugins / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs
-dnf install -y vim gnome-builder glade @development-tools @gnome-software-development
-dnf install -y vim-nerdtree
+# Development Editors / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs
+dnf install -y gnome-builder glade @development-tools @gnome-software-development qt-creator
 dnf install -y java-1.8.0-openjdk-devel automake cmake autoconf zlib-devel.i686 ncurses-devel.i686 ant gettext-devel autoconf-archive intltool itstool gtksourceview3-devel
-dnf install -y python3-jedi clang clang-libs glide make
+dnf install -y python3-jedi clang clang-libs glide make qt5-qtquickcontrols
 dnf install -y dia meld sqlitebrowser gitg
 dnf install -y gcc
-dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 python3-devel gtksourceview3-devel @development-libs
+dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 python3-devel gtksourceview3-devel @development-libs qt5-devel
 dnf install -y fedora-packager fedora-review @rpm-development-tools meson ninja-build
-dnf install -y gtk3-devel-docs
+dnf install -y gtk3-devel-docs qt-doc
 
 # Web
 dnf install -y filezilla transmission youtube-dl offlineimap
