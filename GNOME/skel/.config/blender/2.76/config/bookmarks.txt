@@ -1,4 +1,0 @@
-[Bookmarks]
-/home/bart/bk-cloud/Videos
-/home/bart/bk-cloud/Music
-[Recent]

@@ -69,6 +69,7 @@ dnf copr -y enable bartkessels/apagenerator
 dnf copr -y enable bartkessels/getit
 dnf copr -y enable bartkessels/ghostwriter
 dnf copr -y enable bartkessels/simpleconvert
+dnf copr -y enable tcg/blender-bin
 
 # RPM fusion repos
 rpm --quiet --query rpmfusion-free-release || dnf -y --nogpgcheck install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
@@ -153,7 +154,7 @@ dnf install -y lollypop
 dnf install -y gimp gnome-photos
 
 # Video Editors
-dnf install -y blender pitivi simpleconvert
+dnf install -y blender-bin pitivi simpleconvert
 
 # Development Editors / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs
 dnf install -y gnome-builder glade @development-tools @gnome-software-development
