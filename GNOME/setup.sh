@@ -78,6 +78,9 @@ rpm --quiet --query rpmfusion-nonfree-release || dnf -y --nogpgcheck install htt
 # Update
 dnf update --refresh -y
 
+# Add flatpack repo's
+flatpak remote-add flathub https://flathub.org/repo/flathub.flatpakrepo
+
 #####################################################################################
 #####################################################################################
 
@@ -88,6 +91,7 @@ dnf update --refresh -y
 
 # Themes
 dnf install -y arc-theme
+flatpak install flathub org.gtk.Gtk3theme.Arc
 
 # Settings GUI tools
 dnf install -y dconf-editor gnome-tweak-tool firewall-config
