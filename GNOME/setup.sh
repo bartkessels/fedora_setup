@@ -86,6 +86,9 @@ dnf update --refresh -y
 #####################################################################################
 #####################################################################################
 
+# Themes
+dnf install -y arc-theme
+
 # Settings GUI tools
 dnf install -y dconf-editor gnome-tweak-tool firewall-config
 
@@ -189,14 +192,6 @@ dnf install -y tuxguitar brasero
 
 #####################################################################################
 #####################################################################################
-
-# Arc flatabulous theme
-git clone https://github.com/andreisergiu98/arc-flatabulous-theme
-cd arc-flatabulous-theme
-./autogen.sh --prefix=/usr
-make install
-cd ../
-rm -rf arc-flatabulous-theme
 
 # Paper theme
 git clone https://github.com/snwh/paper-icon-theme
