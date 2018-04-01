@@ -160,8 +160,9 @@ dnf install -y lollypop
 # Image Editors
 dnf install -y gimp gnome-photos
 
-# Video Editors
+# Video Editors / players
 dnf install -y blender-bin pitivi simpleconvert
+pip3 install gnomecast
 
 # Development Editors / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs
 dnf install -y gnome-builder glade @development-tools @gnome-software-development
