@@ -165,7 +165,7 @@ dnf install -y blender-bin pitivi simpleconvert
 pip3 install gnomecast
 
 # Development Editors / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs
-dnf install -y gnome-builder glade @development-tools @gnome-software-development
+dnf install -y gnome-builder qt-creator glade @development-tools @gnome-software-development
 dnf install -y java-1.8.0-openjdk-devel automake cmake autoconf zlib-devel.i686 ncurses-devel.i686 ant gettext-devel autoconf-archive intltool itstool gtksourceview3-devel
 dnf install -y python3-jedi clang clang-libs glide make
 dnf install -y dia meld sqlitebrowser gitg
