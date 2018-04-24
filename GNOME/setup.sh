@@ -70,6 +70,7 @@ dnf copr -y enable bartkessels/getit
 dnf copr -y enable bartkessels/ghostwriter
 dnf copr -y enable bartkessels/simpleconvert
 dnf copr -y enable tcg/blender-bin
+dnf install -y fedora-workstation-repositories
 
 # RPM fusion repos
 rpm --quiet --query rpmfusion-free-release || dnf -y --nogpgcheck install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
