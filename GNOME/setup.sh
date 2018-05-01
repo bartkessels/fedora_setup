@@ -67,9 +67,7 @@ ln -sf $sync_folder/Werk $home/Work
 # Enable copr repos
 dnf copr -y enable bartkessels/apagenerator
 dnf copr -y enable bartkessels/getit
-dnf copr -y enable bartkessels/ghostwriter
 dnf copr -y enable bartkessels/simpleconvert
-dnf copr -y enable tcg/blender-bin
 dnf install -y fedora-workstation-repositories
 
 # RPM fusion repos
@@ -145,7 +143,7 @@ sed -i 's|clean_requirements_on_remove=True|clean_requirements_on_remove=False|g
 dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-user-theme gnome-shell-extension-topicons-plus
 
 # Utilities
-dnf install -y whois pandoc pdfmod gnome-todo luckybackup ffmpeg getit apagenerator ghostwriter
+dnf install -y whois pandoc pdfmod ffmpeg getit apagenerator
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
@@ -154,42 +152,85 @@ dnf install -y seahorse-nautilus gnome-terminal-nautilus
 dnf install -y gummi latexila
 dnf install -y texlive-scheme-full
 
-# Audio Editors / Players
-dnf install -y audacity ardour5
-dnf install -y lollypop
-
-# Image Editors
-dnf install -y gimp gnome-photos
+# Audio Editors
+dnf install -y ardour5
 
 # Video Editors / players
-dnf install -y blender-bin pitivi simpleconvert
+dnf install -y simpleconvert
 pip3 install gnomecast
 
-# Development Editors / Development Kits / Tools / Compilers / Libraries / Completion libraries / Package Tools / Docs
-dnf install -y gnome-builder qt-creator glade @development-tools @gnome-software-development
-dnf install -y java-1.8.0-openjdk-devel automake cmake autoconf zlib-devel.i686 ncurses-devel.i686 ant gettext-devel autoconf-archive intltool itstool gtksourceview3-devel
-dnf install -y python3-jedi clang clang-libs glide make
-dnf install -y dia meld sqlitebrowser gitg
+# Development Editors / Development Kits / Tools / Compilers / Libraries
+dnf install -y qt-creator
+dnf install -y java-1.8.0-openjdk-devel autoconf-archive
+dnf install -y dia umbrello sqlitebrowser flatpak-builder
 dnf install -y gcc
-dnf install -y gtk+-devel gtk3-devel libsoup-devel zlib.i686 ncurses-libs.i686 bzip2-libs.i686 python3-devel gtksourceview3-devel @development-libs
-dnf install -y fedora-packager fedora-review @rpm-development-tools meson ninja-build
-dnf install -y gtk3-devel-docs
+dnf install -y @development-libs
+
+# Build systems
+dnf install -y cmake make ant maven glide meson ninja-build
 
 # Web
-dnf install -y filezilla transmission youtube-dl offlineimap
-
-# Office / Mail
-dnf install -y aspell-nl libreoffice-langpack-nl gnome-calendar
-dnf install -y geary
+dnf install -y youtube-dl offlineimap
 
 # Containers
 dnf install -y docker docker-compose
 
-# Password Management
-dnf install -y keepassxc
-
 # Other
 dnf install -y tuxguitar brasero
+
+#####################################################################################
+#####################################################################################
+
+#		FLATPAK PACKAGES
+
+#####################################################################################
+#####################################################################################
+
+# Office
+flatpak install -y flathub org.libreoffice.LibreOffice
+flatpak install -y flathub org.gnome.Geary
+flatpak install -y flathub org.gnome.Calendar
+flatpak install -y flathub org.gnome.Contacts
+flatpak install -y flathub org.gnome.Todo
+
+# Video editors
+flatpak install -y flathub org.blender.Blender
+flatpak install -y flathub org.pitivi.Pitivi
+
+# Video recorders
+flatpak install -y flathub com.uploadedlobster.peek
+
+# Audio editors
+flatpak install -y flathub org.audacityteam.Audacity
+flatpak install -y flathub org.musicbrainz.Picard
+
+# Audio players
+flatpak install -y flathub org.gnome.Lollypop
+
+# Image editors
+flatpak install -y flathub org.gimp.GIMP
+flatpak install -y flathub org.gnome.Photos
+flatpak install -y flathub org.kde.krita
+
+# Vector editors
+flatpak install -y flathub org.inkscape.Inkscape
+
+# Development editors
+flatpak install -y flathub org.gnome.Builder
+flatpak install -y flathub com.google.AndroidStudio
+flatpak install -y flathub com.visualstudio.code
+
+# Development tools
+flatpak install -y flathub org.gnome.gitg
+flatpak install -y flathub org.gnome.meld
+
+# Web
+flatpak install -y flathub com.transmissionbt.Transmission
+flatpak install -y flathub org.filezillaproject.Filezilla
+flatpak install -y flathub com.skype.Client
+
+# Password management
+flatpak install -y flathub org.keepassxc.KeePassXC
 
 #####################################################################################
 #####################################################################################
