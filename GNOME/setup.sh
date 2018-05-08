@@ -262,6 +262,9 @@ usermod -aG audio $user_name
 usermod -aG realtime $user_name
 usermod -aG mock $user_name
 
+# Start services on boot
+sytemctl enable docker
+
 #####################################################################################
 #####################################################################################
 
