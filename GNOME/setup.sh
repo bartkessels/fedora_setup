@@ -140,7 +140,7 @@ sed -i 's|clean_requirements_on_remove=True|clean_requirements_on_remove=False|g
 #####################################################################################
 
 # GNOME extensions
-dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-user-theme gnome-shell-extension-topicons-plus
+dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-user-theme gnome-shell-extension-topicons-plus gnome-shell-extension-pomodoro
 
 # Utilities
 dnf install -y whois pandoc pdfmod ffmpeg getit apagenerator
