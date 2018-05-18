@@ -188,10 +188,8 @@ dnf install -y tuxguitar brasero
 
 # Office
 flatpak install -y flathub org.libreoffice.LibreOffice
-flatpak install -y flathub org.gnome.Geary
 flatpak install -y flathub org.gnome.Calendar
 flatpak install -y flathub org.gnome.Contacts
-flatpak install -y flathub org.gnome.Todo
 
 # Video editors
 flatpak install -y flathub org.blender.Blender
