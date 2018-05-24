@@ -162,7 +162,7 @@ pip3 install gnomecast
 # Development Editors / Development Kits / Tools / Compilers / Libraries
 dnf install -y qt-creator
 dnf install -y java-1.8.0-openjdk-devel autoconf-archive
-dnf install -y dia umbrello sqlitebrowser flatpak-builder
+dnf install -y dia umbrello sqlitebrowser flatpak-builder fedora-packager fedora-review
 dnf install -y gcc
 dnf install -y @development-libs
 
