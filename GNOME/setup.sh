@@ -49,6 +49,7 @@ ln -sf $sync_folder/Afbeeldingen $home/Pictures
 ln -sf $sync_folder/Videos $home/Videos
 ln -sf $sync_folder/Backups $home/Backups
 ln -sf $sync_folder/Boeken $home/Books
+ln -sf $sync_folder/e-books $home/E-Books
 ln -sf $sync_folder/ISOs $home/ISOs
 ln -sf $sync_folder/Notities $home/Notes
 ln -sf $sync_folder/School $home/School
@@ -193,6 +194,7 @@ dnf install -y tuxguitar brasero
 flatpak install -y flathub org.libreoffice.LibreOffice
 flatpak install -y flathub org.gnome.Calendar
 flatpak install -y flathub org.gnome.Contacts
+flatpak install -y flathub com.github.babluboy.bookworm 
 
 # Video editors
 flatpak install -y flathub org.blender.Blender
