@@ -145,6 +145,9 @@ dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-
 # Utilities
 dnf install -y whois pandoc pdfmod ffmpeg getit apagenerator
 
+# Toolkits
+dnf install -y qt5
+
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
 
@@ -161,7 +164,7 @@ pip3 install gnomecast
 
 # Development Editors / Development Kits / Tools / Compilers / Libraries
 dnf install -y qt-creator
-dnf install -y java-1.8.0-openjdk-devel autoconf-archive
+dnf install -y java-1.8.0-openjdk-devel autoconf-archive qt5-devel
 dnf install -y dia umbrello sqlitebrowser flatpak-builder fedora-packager fedora-review
 dnf install -y gcc
 dnf install -y @development-libs
