@@ -251,6 +251,14 @@ make install
 cd ../
 rm -rf paper-icon-theme
 
+# Include
+git clone git://anongit.kde.org/inqlude-client
+cd inqlude-client
+cmake -G ninja
+ninja install
+cd ../
+rm -rf inqlude-client
+
 #####################################################################################
 #####################################################################################
 
