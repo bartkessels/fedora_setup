@@ -58,7 +58,7 @@ export LANG=en_US.UTF-8
 
 # Export
 export SSH_ASKPASS=/usr/lib/ssh/gnome-ssh-askpass
-export GOPATH="$HOME/go"
+export GOPATH="$HOME/Git-projects/Go"
 
 # $PATH
 export PATH="$HOME/bin:/usr/local/bin:$PATH"

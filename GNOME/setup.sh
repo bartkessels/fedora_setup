@@ -38,11 +38,10 @@ rmdir $home/Music
 rmdir $home/Pictures
 rmdir $home/Videos
 
-mkdir $home/Downloads
-mkdir $home/Git-projects
-mkdir $home/Public
-mkdir $home/Webserver
-mkdir $home/go
+mkdir -p $home/Downloads
+mkdir -p $home/Git-projects/Go
+mkdir -p $home/Public
+mkdir -p $home/Webserver
 
 ln -sf $sync_folder/Documenten $home/Documents
 ln -sf $sync_folder/Muziek $home/Music
