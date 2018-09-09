@@ -42,6 +42,7 @@ mkdir $home/Downloads
 mkdir $home/Git-projects
 mkdir $home/Public
 mkdir $home/Webserver
+mkdir $home/go
 
 ln -sf $sync_folder/Documenten $home/Documents
 ln -sf $sync_folder/Muziek $home/Music
@@ -165,7 +166,7 @@ pip3 install gnomecast
 
 # Development Editors / Development Kits / Tools / Compilers / Libraries
 dnf install -y qt-creator
-dnf install -y java-1.8.0-openjdk-devel autoconf-archive qt5-devel
+dnf install -y java-1.8.0-openjdk-devel autoconf-archive qt5-devel golang
 dnf install -y dia umbrello sqlitebrowser flatpak-builder fedora-packager fedora-review
 dnf install -y gcc
 dnf install -y @development-libs
@@ -229,7 +230,6 @@ flatpak install -y flathub org.gnome.meld
 
 # Web
 flatpak install -y flathub com.transmissionbt.Transmission
-flatpak install -y flathub org.filezillaproject.Filezilla
 flatpak install -y flathub com.skype.Client
 
 # Password management
