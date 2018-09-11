@@ -62,3 +62,4 @@ export GOPATH="$HOME/Git-projects/Go"
 
 # $PATH
 export PATH="$HOME/bin:/usr/local/bin:$PATH"
+export PATH="$GOLANG/bin:$PATH"

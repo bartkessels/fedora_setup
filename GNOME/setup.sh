@@ -250,13 +250,22 @@ make install
 cd ../
 rm -rf paper-icon-theme
 
-# Include
+# Inqlude
 git clone git://anongit.kde.org/inqlude-client
 cd inqlude-client
 cmake -G ninja
 ninja install
 cd ../
 rm -rf inqlude-client
+
+# Golang buffalo
+mkdir buffalo
+cd buffalo
+wget  https://github.com/gobuffalo/buffalo/releases/download/v0.12.6/buffalo_0.12.6_linux_amd64.tar.gz
+tar -xvzf buffalo_0.12.6_linux_amd64.tar.gz
+mv buffalo-no-sqlite /usr/local/bin/buffalo
+cd ../
+rm -rf buffalo
 
 #####################################################################################
 #####################################################################################
