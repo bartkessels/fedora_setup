@@ -141,7 +141,7 @@ sed -i 's|clean_requirements_on_remove=True|clean_requirements_on_remove=False|g
 #####################################################################################
 
 # GNOME extensions
-dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-user-theme gnome-shell-extension-topicons-plus gnome-shell-extension-pomodoro
+dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-topicons-plus
 
 # Utilities
 dnf install -y whois pandoc pdfmod ffmpeg getit apagenerator
@@ -151,10 +151,6 @@ dnf install -y qt5
 
 # Nautilus extension
 dnf install -y seahorse-nautilus gnome-terminal-nautilus
-
-# LaTeX Editors / Packages
-dnf install -y gummi latexila
-dnf install -y texlive-scheme-full
 
 # Audio Editors
 dnf install -y ardour5
@@ -194,7 +190,7 @@ dnf install -y tuxguitar brasero
 flatpak install -y flathub org.libreoffice.LibreOffice
 flatpak install -y flathub org.gnome.Calendar
 flatpak install -y flathub org.gnome.Contacts
-flatpak install -y flathub com.github.babluboy.bookworm 
+flatpak install -y flathub org.gnome.Geary
 
 # Video editors
 flatpak install -y flathub org.blender.Blender
@@ -204,7 +200,6 @@ flatpak install -y flathub org.pitivi.Pitivi
 flatpak install -y flathub com.uploadedlobster.peek
 
 # Audio editors
-flatpak install -y flathub org.audacityteam.Audacity
 flatpak install -y flathub org.musicbrainz.Picard
 
 # Audio players
@@ -212,7 +207,6 @@ flatpak install -y flathub org.gnome.Lollypop
 
 # Image editors
 flatpak install -y flathub org.gimp.GIMP
-flatpak install -y flathub org.gnome.Photos
 flatpak install -y flathub org.kde.krita
 
 # Vector editors
