@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" open-window-count="0" score="71" last-seen="1539283065"/>
+    <application id="yelp.desktop" open-window-count="0" score="0" last-seen="1539278390"/>
+    <application id="firefox.desktop" open-window-count="0" score="9" last-seen="1539282747"/>
+    <application id="libreoffice-startcenter.desktop" open-window-count="0" score="1" last-seen="1539278438"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="21" last-seen="1539283514"/>
+    <application id="org.libreoffice.LibreOffice-writer.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="org.gnome.DejaDup.desktop" open-window-count="2" score="8" last-seen="1539283510"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="1" score="9" last-seen="1539283315"/>
+    <application id="org.gnome.tweaks.desktop" open-window-count="0" score="15" last-seen="1539283147"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="76" last-seen="1539283353"/>
+    <application id="org.keepassxc.KeePassXC.desktop" open-window-count="0" score="0" last-seen="1539282382"/>
+    <application id="org.gnome.Builder.desktop" open-window-count="0" score="0" last-seen="1539282628"/>
+    <application id="gnome-system-monitor.desktop" open-window-count="0" score="1" last-seen="1539282920"/>
+    <application id="org.libreoffice.LibreOffice.desktop" open-window-count="0" score="4" last-seen="1539282668"/>
+  </context>
+</application-state>

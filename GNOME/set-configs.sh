@@ -6,10 +6,8 @@ cp -r $HOME/.config skel/.
 cp -r $HOME/.config-files skel/.
 cp -r $HOME/.dia skel/.
 cp -r $HOME/.gimp* skel/.
-cp -r $HOME/.gnome skel/.
 cp -r $HOME/.libreoffice-templates skel/.
 cp -r $HOME/.local skel/.
-cp -r $HOME/.mozilla skel/.
 cp -r $HOME/.tuxguitar* skel/.
 
 # Files
@@ -18,8 +16,7 @@ cp -r $HOME/.vimrc skel/.
 cp -r $HOME/.zshrc skel/.
 
 # Remove trashed files
-rm -rf skel/.local/share/Trash/files/*
-rm -rf skel/.local/share/Trash/info/*
+rm -rf skel/.local/share/Trash
 
 # Remove GNOME keyring content
 rm -rf skel/.local/share/keyrings/*

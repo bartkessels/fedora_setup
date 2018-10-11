@@ -90,7 +90,7 @@ flatpak remote-add flathub https://flathub.org/repo/flathub.flatpakrepo
 #####################################################################################
 
 # Themes
-dnf install -y arc-theme
+dnf install -y arc-theme paper-icon-theme
 flatpak install flathub org.gtk.Gtk3theme.Arc
 
 # Settings GUI tools
@@ -169,6 +169,9 @@ dnf install -y @development-libs
 # Build systems
 dnf install -y cmake make ant maven glide meson ninja-build
 
+# Backup
+dnf install -y deja-dup deja-dup-nautilus
+
 # Web
 dnf install -y youtube-dl offlineimap
 
@@ -235,14 +238,6 @@ flatpak install -y flathub org.keepassxc.KeePassXC
 
 #####################################################################################
 #####################################################################################
-
-# Paper theme
-git clone https://github.com/snwh/paper-icon-theme
-cd paper-icon-theme
-./autogen.sh --prefix=/usr
-make install
-cd ../
-rm -rf paper-icon-theme
 
 # Inqlude
 git clone git://anongit.kde.org/inqlude-client
