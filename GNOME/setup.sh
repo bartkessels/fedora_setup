@@ -159,16 +159,6 @@ dnf install -y ardour5
 dnf install -y simpleconvert
 pip3 install gnomecast
 
-# Development Editors / Development Kits / Tools / Compilers / Libraries
-dnf install -y qt-creator
-dnf install -y java-1.8.0-openjdk-devel autoconf-archive qt5-devel golang
-dnf install -y dia umbrello sqlitebrowser flatpak-builder fedora-packager fedora-review
-dnf install -y gcc
-dnf install -y @development-libs
-
-# Build systems
-dnf install -y cmake make ant maven glide meson ninja-build
-
 # Backup
 dnf install -y deja-dup deja-dup-nautilus
 
@@ -180,6 +170,43 @@ dnf install -y docker docker-compose
 
 # Other
 dnf install -y tuxguitar brasero
+
+#####################################################################################
+#####################################################################################
+
+#		Development
+
+#####################################################################################
+#####################################################################################
+
+# Qt
+dnf install -y qt-creator
+dnf install -y qt5-devel
+
+# Java
+dnf install -y java-1.8.0-openjdk-devel
+
+# Go
+dnf install -y golang
+
+# PHP
+dnf install -y php
+dnf install -y composer
+
+# Tools
+dnf install -y dia umbrello sqlitebrowser autoconf-archive
+
+# Build systems
+dnf install -y cmake make ant maven glide meson ninja-build
+
+# Packaging
+dnf install -y flatpak-builder fedora-packager fedora-review
+
+# Compilers
+dnf install -y gcc
+
+# Libraries
+dnf install -y @development-libs
 
 #####################################################################################
 #####################################################################################
