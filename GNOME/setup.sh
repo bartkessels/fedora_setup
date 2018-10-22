@@ -97,7 +97,7 @@ flatpak install flathub org.gtk.Gtk3theme.Arc
 dnf install -y dconf-editor gnome-tweak-tool firewall-config
 
 # Fonts
-dnf install -y bitstream-vera-fonts-common linux-libertine-fonts-common google-noto-fonts-common google-noto-emoji-fonts google-android-emoji-fonts open-sans-fonts
+dnf install -y bitstream-vera-fonts-common linux-libertine-fonts-common google-noto-fonts-common google-noto-emoji-fonts google-android-emoji-fonts open-sans-fonts adobe-source-sans-pro-fonts
 ln -s /etc/fonts/conf.avail/70-no-bitmaps.conf /etc/fonts/conf.d
 
 # Codecs
