@@ -144,7 +144,7 @@ sed -i 's|clean_requirements_on_remove=True|clean_requirements_on_remove=False|g
 dnf install -y gnome-shell-extension-drive-menu gnome-shell-extension-alternate-tab gnome-shell-extension-launch-new-instance gnome-shell-extension-topicons-plus
 
 # Utilities
-dnf install -y whois pandoc pdfmod ffmpeg getit apagenerator
+dnf install -y whois pdfmod ffmpeg getit apagenerator
 
 # Toolkits
 dnf install -y qt5
