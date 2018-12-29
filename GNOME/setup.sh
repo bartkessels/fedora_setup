@@ -100,6 +100,9 @@ dnf install -y dconf-editor gnome-tweak-tool firewall-config
 dnf install -y bitstream-vera-fonts-common linux-libertine-fonts-common google-noto-fonts-common google-noto-emoji-fonts google-android-emoji-fonts open-sans-fonts adobe-source-sans-pro-fonts
 ln -s /etc/fonts/conf.avail/70-no-bitmaps.conf /etc/fonts/conf.d
 
+# Bluetooth
+dnf install -y bluez-libs bluez-obexd bluez-tools bluez-hid2hci bluez-hcidump bluez-libs-devel
+
 # Codecs
 dnf install -y gstreamer1-libav gstreamer1-plugins-bad-free gstreamer1-plugins-bad-freeworld gstreamer1-plugins-base gstreamer1-plugins-good gstreamer1-plugins-ugly gstreamer-ffmpeg gstreamer-plugins-bad gstreamer-plugins-bad-free gstreamer-plugins-bad-nonfree gstreamer-plugins-base gstreamer-plugins-espeak gstreamer-plugins-fc gstreamer-plugins-good gstreamer-plugins-ugly gstreamer-rtsp amrnb amrwb faac faad2 flac lame libdca libmad libmatroska x264 x265 xvidcore
 
@@ -296,6 +299,7 @@ usermod -aG docker $user_name
 usermod -aG audio $user_name
 usermod -aG realtime $user_name
 usermod -aG mock $user_name
+usermod -aG lp $user_name
 
 # Start services on boot
 sytemctl enable docker

@@ -1,0 +1,5 @@
+When the bluetooth adapter doesn't work check the error logs
+
+dmesg | grep -i bluetooth
+
+Firmware: https://github.com/winterheart/broadcom-bt-firmware
