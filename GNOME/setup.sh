@@ -196,6 +196,10 @@ dnf install -y golang
 dnf install -y php
 dnf install -y composer
 
+# Rust
+dnf install -y rust rust-std-static
+dnf install -y cargo
+
 # Tools
 dnf install -y dia umbrello sqlitebrowser autoconf-archive
 
